@@ -78,6 +78,23 @@ pão, são, avec, pour, une      ấ, ầ, ổ, ỗ, ợ, ứ, ừ, ử, ữ, �
 
 ---
 
+### 2.3. Khảo Sát Mở Rộng: Tên Bài Viết Dính Liền (CamelCase / PascalCase như "MuaXuan") & Không Dấu
+
+Một câu hỏi thực tiễn rất quan trọng: **Nếu tên bài hát được đặt kiểu CamelCase / PascalCase (viết hoa dính liền không dấu như `MuaXuan`, `ConBuomXuan`, `DuyenPhan`) hoặc viết liền (`muaxuan`, `tinhca`) thì sao?**
+
+Hệ thống đã xây dựng công cụ phân rã chuyên biệt để quét thực nghiệm toàn bộ dữ liệu FMA (106,574 bài) và MSD (1,000,540 bài):
+1. **Bộ phân tách CamelCase / PascalCase:** `re.sub(r'([a-z])([A-Z])', r'\1 \2')` tự động tách các từ dính liền (`MuaXuan` $\rightarrow$ `Mua Xuan`, `ConBuomXuan` $\rightarrow$ `Con Buom Xuan`, `DuyenPhan` $\rightarrow$ `Duyen Phan`).
+2. **Bộ từ điển đối chiếu âm nhạc Việt Nam mở rộng:**
+   * *Nhạc cụ & thể loại cổ truyền:* `dan bau`, `dan tranh`, `dan nguyet`, `dan nhi`, `sao truc`, `trong com`, `cai luong`, `vong co`, `ca tru`, `chau van`, `hat boi`, `tuong co`, `quan ho`...
+   * *Cụm từ tiêu đề kinh điển:* `mua xuan`, `tinh ca`, `tinh khuc`, `duyen phan`, `que huong`, `noi buon`, `dem mua`, `canh co`, `dong song`, `bien nho`, `bai ca`, `tieng hat`, `ao dai`, `con buom xuan`, `da co hoai lang`...
+   * *Nhạc sĩ & ca sĩ:* `Trinh Cong Son`, `Pham Duy`, `Van Cao`, `Khanh Ly`, `Tuan Vu`, `Che Linh`, `Nhu Quynh`, `My Tam`, `Dan Truong`...
+3. **Kết quả kiểm chứng thực nghiệm:**
+   * **FMA (106,574 tracks):** Hoàn toàn **KHÔNG có bất kỳ bài hát nào** đặt tên dạng `MuaXuan`, `muaxuan`, `TinhCa`, `DuyenPhan` hay tên nghệ sĩ Việt Nam. Các bài có chữ `vietnam` chỉ là ban nhạc indie rock Mỹ (`Mt. St. Helens Vietnam Band`), bài diễn văn của `Martin Luther King` năm 1968, hoặc bài hát mang tên địa danh chiến tranh của ca sĩ phương Tây.
+   * **MSD (1,000,540 tracks):** Quét toàn bộ 1 triệu bản ghi và tập lời MusiXmatch (210,519 bài), xác nhận không có ca khúc tiếng Việt nào tồn tại dưới dạng viết liền hay CamelCase.
+   * **UPF:** Tiếp tục khẳng định link dẫn đến bài báo nghiên cứu sinh học về loài Gián Đức (`Blattella germanica`), không chứa dữ liệu âm thanh.
+
+---
+
 ## 3. HƯỚNG DẪN CHI TIẾT CÁCH TẢI TỪNG NGUỒN DỮ LIỆU
 
 ### 3.1. Hướng Dẫn Tải Toàn Bộ Dataset Từ Kaggle
