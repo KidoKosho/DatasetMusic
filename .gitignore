@@ -18,8 +18,12 @@ data/raw/
 data/cache/
 data/logs/
 data/state/
-data/manifests/discovered.jsonl
-data/manifests/download_queue.jsonl
+data/manifests/*.jsonl
+
+# Internal crawler reports, audit data and redundant docs (only README.md is public)
+reports/
+logs/
+*.log
 
 # Normalized audio and heavy media assets
 datasets/**/audio/
