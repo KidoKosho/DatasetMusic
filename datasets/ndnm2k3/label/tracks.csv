@@ -1,0 +1,9 @@
+track_id,dataset,title,artist,genre,audio_path,has_audio,has_lyrics,has_avt,is_vietnamese_song
+ndnm_nhacdo_100,ndnm2k3,Tàu Anh Qua Núi,NSND Thanh Hoa,nhac_do,data/raw/ndnm2k3/nhacdo/nhac_do/100_Tau Anh Qua Nui.wav,True,False,False,True
+ndnm_nhacdo_101,ndnm2k3,Dáng Đứng Việt Nam,Tiến Hưng,nhac_do,data/raw/ndnm2k3/nhacdo/nhac_do/101_DANG DUNG VIET NAM - TIEN HUNG.wav,True,False,False,True
+ndnm_hiphop_100,ndnm2k3,B.S.N.L 1,B Ray x Young H,hiphop,data/raw/ndnm2k3/hiphop/hiphop/100_B.S.N.L 1 _ B RAY x YOUNG H.wav,True,False,False,True
+ndnm_hiphop_10,ndnm2k3,Fashion Tán Gái,Wren Evans ft Low G,hiphop,data/raw/ndnm2k3/hiphop/hiphop/10_FASHION TAN GAI - Wren Evans ft Low G.wav,True,False,False,True
+ndnm_bolero_01,ndnm2k3,Duyên Phận,Như Quỳnh,bolero,data/raw/ndnm2k3/bolero/bolero/01_Duyen Phan.wav,True,False,False,True
+ndnm_ballad_01,ndnm2k3,Nàng Thơ,Hoàng Dũng,ballad,data/raw/ndnm2k3/ballad/ballad/01_Nang Tho.wav,True,False,False,True
+ndnm_kidsong_01,ndnm2k3,Em Đi Giữa Biển Vàng,Bé Xuân Mai,thieu_nhi,data/raw/ndnm2k3/kidsong/thieu_nhi/01_Em Di Giua Bien Vang.wav,True,False,False,True
+ndnm_rb_01,ndnm2k3,Tháng Năm,Soobin Hoàng Sơn,rb,data/raw/ndnm2k3/rb/rb/01_Thang Nam.wav,True,False,False,True

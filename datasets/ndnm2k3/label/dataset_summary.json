@@ -1,0 +1,23 @@
+{
+  "dataset": "ndnm2k3",
+  "author": "ndnm2k3",
+  "author_url": "https://www.kaggle.com/ndnm2k3",
+  "description": "Kho dữ liệu âm thanh phòng thu trọn bài (Full-length) 6 thể loại nhạc Việt Nam của tác giả ndnm2k3",
+  "total_candidate_tracks": 620,
+  "audio_count": 620,
+  "lyrics_count": 0,
+  "artwork_count": 0,
+  "format": "WAV",
+  "audio_quality": "Lossless PCM (1411 kbps, 44.1 kHz, 16-bit stereo)",
+  "total_compressed_size_gb": 24.16,
+  "total_uncompressed_size_gb": 28.09,
+  "is_vietnamese_song": true,
+  "genres_breakdown": {
+    "nhac_do": 104,
+    "hiphop": 99,
+    "bolero": 98,
+    "ballad": 100,
+    "thieu_nhi": 116,
+    "rb": 103
+  }
+}
