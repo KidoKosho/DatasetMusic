@@ -16,8 +16,8 @@ Toàn bộ các liên kết được khảo sát và kiểm định độc lập
 | **[Kaggle `ndnm2k3`](https://www.kaggle.com/ndnm2k3)** *(Gộp chung 6 Datasets Thể Loại)* | **`620`** | **`620`** | `0` *(lời rời)* | `0` | **6 Thể loại:** Nhạc Đỏ, Hiphop, Bolero, Ballad, Thiếu Nhi, R&B | `Full-length` *(WAV 2-5p)* | Gồm 6 bộ thể loại WAV PCM Lossless phòng thu nguyên bài (24.16 GB zip / 28.09 GB giải nén). **100% nhạc Việt**. |
 | **[Free Music Archive (FMA)](https://github.com/mdeff/fma)** | **`106,574`** | **`2`** | `0` | `0` | **Cổ Truyền / Tuồng Cổ** | `Full-length` *(Đĩa than 78rpm)* | Đã loại 387 false positives (nhận nhầm `Pão` Bồ Đào Nha, Pháp, Serbia, bio chiến tranh). Chỉ còn đúng **2 bản thu đĩa than cổ truyền**. |
 | **[Million Song Dataset (MSD)](http://millionsongdataset.com/)** | **`1,000,540`** | **`0`** | `0` | `0` | **N/A** *(0 bài Việt)* | `N/A` | Quét toàn bộ 1,000,540 track và 13,851 nghệ sĩ. **0 bài hát tiếng Việt bản địa** (chỉ có 2 bài Âu Mỹ có chữ "Viet Nam" trong tên bài tiếng Anh). |
-| **[UPF Institutional Repo](https://repositori.upf.edu/handle/10230/33285)** | **`0`** | **`0`** | `0` | `0` | **N/A** *(Sinh học)* | `N/A` | **Sai đường link nguồn**: Dẫn tới bài báo nghiên cứu **sinh học buồng trứng loài Gián Đức (`Blattella germanica`)**, hoàn toàn không chứa file âm thanh nào. |
-| **TỔNG CỘNG TOÀN BỘ HỆ THỐNG** | **`1,113,105`** | **`5,993`** | **`0`** *(lời rời)* | **Trích xuất ID3** | **8 Thể loại tiếng Việt chuẩn hóa** | **MP3 + WAV** | **99.97% dữ liệu nhạc Việt thực tế khả dụng nằm ở 2 tác giả Kaggle (`xuaam1` 5,371 bài và `ndnm2k3` 620 bài).** |
+| **[WASABI Song Corpus](https://github.com/micbuffa/WasabiDataset)** *(Thay thế link UPF cũ)* | **`2,100,000`** | **`0`** | `1,730,000` *(NLP)* | `0` | LastFM / Discogs / MusicBrainz | `N/A` *(Audio Analysis)* | Kho dữ liệu 2.1 triệu bài hát thương mại học thuật (Wimmics / Inria, 77k nghệ sĩ, 208k album, 1.73M lyrics NLP). Phân phối qua Mega.nz. Không có nhạc Việt bản địa. |
+| **TỔNG CỘNG TOÀN BỘ HỆ THỐNG** | **`3,212,535`** | **`5,993`** | **`1,730,000`** *(NLP)* | **Trích xuất ID3** | **8 Thể loại tiếng Việt chuẩn hóa** | **MP3 + WAV** | **99.97% dữ liệu âm thanh nhạc Việt thực tế khả dụng tập trung ở 2 tác giả Kaggle (`xuaam1` 5,371 bài và `ndnm2k3` 620 bài).** |
 
 ---
 
@@ -74,7 +74,7 @@ pão, são, avec, pour, une      ấ, ầ, ổ, ỗ, ợ, ứ, ừ, ử, ữ, �
 * **Kết quả sau khi lọc lại:**
   * **FMA (106,574 bài):** Lọc bỏ toàn bộ 387 bài nhận nhầm (bao gồm tất cả bài có chữ `Pão`, `São`, `Đorđe`, tiểu sử chiến tranh). Chỉ giữ lại đúng **2 bản thu đĩa than 78rpm cổ truyền từ Việt Nam** (`FMA #10508`: `Khoc Huang Thien` và `FMA #13091`: `Chung-Vô-Diệm`).
   * **MSD (1,000,540 bài):** Quét toàn bộ 1 triệu bài, xác nhận **0 bài hát tiếng Việt bản địa**.
-  * **UPF (Handle 10230/33285):** Giải mã thành công và xác nhận đây là **bài báo sinh học về loài Gián Đức**, hoàn toàn không có âm nhạc.
+  * **WASABI Song Corpus (`https://github.com/micbuffa/WasabiDataset`):** Thay thế cho đường link UPF cũ (vốn là bài báo sinh học buồng trứng gián Đức do nhầm lẫn URL). WASABI chứa **2.1 triệu bài hát và 1.73 triệu lời bài hát** của các nghệ sĩ thương mại quốc tế (US-UK, Châu Âu), không phân phối audio trực tiếp và **không có bài hát nhạc Việt bản địa**.
 
 ---
 
@@ -91,7 +91,7 @@ Hệ thống đã xây dựng công cụ phân rã chuyên biệt để quét th
 3. **Kết quả kiểm chứng thực nghiệm:**
    * **FMA (106,574 tracks):** Hoàn toàn **KHÔNG có bất kỳ bài hát nào** đặt tên dạng `MuaXuan`, `muaxuan`, `TinhCa`, `DuyenPhan` hay tên nghệ sĩ Việt Nam. Các bài có chữ `vietnam` chỉ là ban nhạc indie rock Mỹ (`Mt. St. Helens Vietnam Band`), bài diễn văn của `Martin Luther King` năm 1968, hoặc bài hát mang tên địa danh chiến tranh của ca sĩ phương Tây.
    * **MSD (1,000,540 tracks):** Quét toàn bộ 1 triệu bản ghi và tập lời MusiXmatch (210,519 bài), xác nhận không có ca khúc tiếng Việt nào tồn tại dưới dạng viết liền hay CamelCase.
-   * **UPF:** Tiếp tục khẳng định link dẫn đến bài báo nghiên cứu sinh học về loài Gián Đức (`Blattella germanica`), không chứa dữ liệu âm thanh.
+   * **WASABI Dataset:** 2.1 triệu bài hát và 1.73 triệu lời bài hát trích xuất từ LyricsWikia tập trung 100% vào nhạc thương mại phương Tây.
 
 ---
 
@@ -163,6 +163,21 @@ Hệ thống tích hợp công cụ mã nguồn mở **`yt-dlp`** để tải v�
    # Tải trọn gói: Audio + Ảnh bìa (Cover) + Lời bài hát/Phụ đề (Lyrics):
    yt-dlp -x --audio-format wav --write-thumbnail --write-subs --sub-langs "vi,en" -o "data/raw/custom_downloads/%(title)s/%(title)s.%(ext)s" "<URL_VIDEO>"
    ```
+
+---
+
+### 3.3. Hướng Dẫn Tải Dữ Liệu WASABI Song Corpus (2.1M Songs & 1.73M Lyrics)
+
+Bộ dữ liệu **WASABI Song Corpus** của nhóm tác giả Michel Buffa et al. (Wimmics / Inria, ESWC 2021) được lưu trữ và chia sẻ chính thức qua kho lưu trữ [GitHub micbuffa/WasabiDataset](https://github.com/micbuffa/WasabiDataset) và các link Mega.nz:
+
+1. **Khám phá trực quan trên Web (Interactive Navigator):**
+   * [https://wasabi.i3s.unice.fr](https://wasabi.i3s.unice.fr)
+2. **Các liên kết tải dữ liệu gốc (CSV & NLP Annotations):**
+   * **2.1M Songs Metadata (CSV):** [Tải từ Mega.nz](https://mega.nz/file/ilwk1IDR#x0EqlS3larxBlOpYaq1Gb81ZCAkxuMPAI3dwQxjAgGo)
+   * **77k Artists Profiles (CSV):** [Tải từ Mega.nz](https://mega.nz/file/qwAm2KjR#BRQCyVCQq1eObGXHV5DTqHY_NlYmhdVBcd939aixrTo)
+   * **208k Albums Metadata (CSV):** [Tải từ Mega.nz](https://mega.nz/file/mgZTjZiK#f8_CzSSC3j8nt75hZ8WqNMFSB_i8AvuB_olZ8hisl1E)
+   * **1.73M Lyrics Annotations (Matrices, Topics, Emotions):** [Tải từ Mega.nz](https://mega.nz/file/n4YhFAhA#zy86GkDKPHVuNP6gw_r6owqR4ULj_dOcG_0lBAOFJoc)
+   * **LastFM Social & Emotion Tags:** [Social Tags](https://mega.nz/file/ntYkkaxC#lrNZH7JFM5twfuasr-qhs64e1_OSifBeSfIC8Pwr3Bk) | [Emotion Tags](https://mega.nz/file/T8BSCSiC#fH3jw5jon3bvtVKkyT7gGG8y-Y770NzVLSwMta-vpoY)
 
 ---
 

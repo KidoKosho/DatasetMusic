@@ -15,7 +15,8 @@ from music_dataset.schema import Track, generate_deterministic_id
 
 class UpfAdapter(DatasetAdapter):
     dataset_name = DatasetName.UPF.value
-    HANDLE_URL = "https://repositori.upf.edu/handle/10230/33285"
+    WASABI_URL = "https://github.com/micbuffa/WasabiDataset"
+    HANDLE_URL = WASABI_URL
 
     def __init__(
         self,

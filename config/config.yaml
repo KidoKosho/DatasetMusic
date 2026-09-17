@@ -27,7 +27,8 @@ million_song_dataset:
   mxm_dataset_url: "http://millionsongdataset.com/sites/default/files/AdditionalFiles/mxm_dataset_train.txt.zip"
 
 upf:
-  handle_url: "https://repositori.upf.edu/handle/10230/33285"
+  handle_url: "https://github.com/micbuffa/WasabiDataset"
+  name: "wasabi"
 
 vietnam_music_genre:
   kaggle_dataset: "xuaam1/vietnam-music-genre"

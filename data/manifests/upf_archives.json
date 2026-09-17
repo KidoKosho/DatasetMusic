@@ -1,17 +1,37 @@
 {
-  "dataset": "upf",
-  "source_url": "https://repositori.upf.edu/handle/10230/33285",
+  "dataset": "wasabi",
+  "source_url": "https://github.com/micbuffa/WasabiDataset",
+  "paper": "The WASABI Dataset: Cultural, Lyrics and Audio Analysis Metadata About 2 Million Popular Commercially Released Songs (ESWC 2021)",
+  "authors": "Michel Buffa, Elena Cabrio, Michael Fell, Fabien Gandon, Alain Giboin, Romain Hennequin, Franck Michel, Johan Pauwels, Guillaume Pellerin, Maroua Tikat, Marco Winckler",
+  "explorer_url": "https://wasabi.i3s.unice.fr",
   "archives": [
     {
-      "name": "upf_repository_handle",
-      "size": 1897,
-      "type": "metadata_and_audio",
-      "remote_url": "https://repositori.upf.edu/handle/10230/33285",
-      "inspectable": false,
-      "remote_inspection": "unsupported",
-      "notes": [
-        "DSpace institutional repository protected by Anubis anti-bot challenge. Local staging or browser session required."
-      ]
+      "name": "wasabi_songs_csv",
+      "records_count": 2100000,
+      "type": "metadata_and_audio_analysis",
+      "remote_url": "https://mega.nz/file/ilwk1IDR#x0EqlS3larxBlOpYaq1Gb81ZCAkxuMPAI3dwQxjAgGo",
+      "notes": ["2.1M popular commercially released songs with cultural, lyrics, and audio analysis metadata"]
+    },
+    {
+      "name": "wasabi_artists_csv",
+      "records_count": 77000,
+      "type": "artist_metadata",
+      "remote_url": "https://mega.nz/file/qwAm2KjR#BRQCyVCQq1eObGXHV5DTqHY_NlYmhdVBcd939aixrTo",
+      "notes": ["77k artists profiles, genres, members, origins"]
+    },
+    {
+      "name": "wasabi_albums_csv",
+      "records_count": 208000,
+      "type": "album_metadata",
+      "remote_url": "https://mega.nz/file/mgZTjZiK#f8_CzSSC3j8nt75hZ8WqNMFSB_i8AvuB_olZ8hisl1E",
+      "notes": ["208k albums metadata"]
+    },
+    {
+      "name": "wasabi_lyrics_annotations",
+      "records_count": 1730000,
+      "type": "nlp_annotations",
+      "remote_url": "https://mega.nz/file/n4YhFAhA#zy86GkDKPHVuNP6gw_r6owqR4ULj_dOcG_0lBAOFJoc",
+      "notes": ["Self-similarity matrices, topic predictions, emotions, explicit classifiers for 1.73M lyrics"]
     }
   ]
 }
