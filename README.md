@@ -16,7 +16,7 @@ Toàn bộ các liên kết được khảo sát và kiểm định độc lập
 | **[Kaggle `ndnm2k3`](https://www.kaggle.com/ndnm2k3)** *(Gộp chung 6 Datasets Thể Loại)* | **`620`** | **`620`** | `0` *(lời rời)* | `0` | **6 Thể loại:** Nhạc Đỏ, Hiphop, Bolero, Ballad, Thiếu Nhi, R&B | `Full-length` *(WAV 2-5p)* | Gồm 6 bộ thể loại WAV PCM Lossless phòng thu nguyên bài (24.16 GB zip / 28.09 GB giải nén). **100% nhạc Việt**. |
 | **[Free Music Archive (FMA)](https://github.com/mdeff/fma)** | **`106,574`** | **`2`** | `0` | `0` | **Cổ Truyền / Tuồng Cổ** | `Full-length` *(Đĩa than 78rpm)* | Đã loại 387 false positives (nhận nhầm `Pão` Bồ Đào Nha, Pháp, Serbia, bio chiến tranh). Chỉ còn đúng **2 bản thu đĩa than cổ truyền**. |
 | **[Million Song Dataset (MSD)](http://millionsongdataset.com/)** | **`1,000,540`** | **`0`** | `0` | `0` | **N/A** *(0 bài Việt)* | `N/A` | Quét toàn bộ 1,000,540 track và 13,851 nghệ sĩ. **0 bài hát tiếng Việt bản địa** (chỉ có 2 bài Âu Mỹ có chữ "Viet Nam" trong tên bài tiếng Anh). |
-| **[WASABI Song Corpus](https://github.com/micbuffa/WasabiDataset)** *(Thay thế link UPF cũ)* | **`2,100,000`** | **`0`** | `1,730,000` *(NLP)* | `0` | LastFM / Discogs / MusicBrainz | `N/A` *(Audio Analysis)* | Kho dữ liệu 2.1 triệu bài hát thương mại học thuật (Wimmics / Inria, 77k nghệ sĩ, 208k album, 1.73M lyrics NLP). Phân phối qua Mega.nz. Không có nhạc Việt bản địa. |
+| **[WASABI Song Corpus](https://github.com/micbuffa/WasabiDataset)** *(Thay thế link UPF cũ)* | **`2,100,000`** | **`0`** | `1,730,000` *(NLP)* | `0` | LastFM / Discogs / MusicBrainz | `N/A` *(Audio Analysis)* | 2.1M bài hát (77k nghệ sĩ, 208k album, 1.73M lyrics NLP). **0 bài hát nhạc Việt bản địa** (chỉ có đúng 22 bài rock/punk/blues Âu Mỹ hát về Chiến tranh Việt Nam; 0 file audio do bản quyền). |
 | **TỔNG CỘNG TOÀN BỘ HỆ THỐNG** | **`3,212,535`** | **`5,993`** | **`1,730,000`** *(NLP)* | **Trích xuất ID3** | **8 Thể loại tiếng Việt chuẩn hóa** | **MP3 + WAV** | **99.97% dữ liệu âm thanh nhạc Việt thực tế khả dụng tập trung ở 2 tác giả Kaggle (`xuaam1` 5,371 bài và `ndnm2k3` 620 bài).** |
 
 ---
@@ -91,7 +91,11 @@ Hệ thống đã xây dựng công cụ phân rã chuyên biệt để quét th
 3. **Kết quả kiểm chứng thực nghiệm:**
    * **FMA (106,574 tracks):** Hoàn toàn **KHÔNG có bất kỳ bài hát nào** đặt tên dạng `MuaXuan`, `muaxuan`, `TinhCa`, `DuyenPhan` hay tên nghệ sĩ Việt Nam. Các bài có chữ `vietnam` chỉ là ban nhạc indie rock Mỹ (`Mt. St. Helens Vietnam Band`), bài diễn văn của `Martin Luther King` năm 1968, hoặc bài hát mang tên địa danh chiến tranh của ca sĩ phương Tây.
    * **MSD (1,000,540 tracks):** Quét toàn bộ 1 triệu bản ghi và tập lời MusiXmatch (210,519 bài), xác nhận không có ca khúc tiếng Việt nào tồn tại dưới dạng viết liền hay CamelCase.
-   * **WASABI Dataset:** 2.1 triệu bài hát và 1.73 triệu lời bài hát trích xuất từ LyricsWikia tập trung 100% vào nhạc thương mại phương Tây.
+   * **WASABI Dataset (2,100,000 tracks):** Truy vấn trực tiếp hệ thống API WASABI (`https://wasabi.i3s.unice.fr/search/fulltext/`):
+     - Trong 1.73M bài hát có lời (thuộc 36 ngôn ngữ), tiếng Việt **hoàn toàn không có trong danh mục ngôn ngữ**.
+     - Tìm kiếm toàn văn toàn bộ 2.1 triệu bài chỉ phát hiện đúng **22 bài hát** mang tên *Vietnam* hoặc *Vietnamese* do các ban nhạc rock/punk/blues/reggae phương Tây (Mỹ, Anh, Thụy Điển, Jamaica, Argentina, Canada, Brazil) sáng tác về chủ đề Chiến tranh Việt Nam (như *Vietnam* của Jimmy Cliff, *Vietnamese Baby* của New York Dolls, *Vietnamese Blues* của G.B.H., *Viet Nam* của Minutemen...).
+     - **0 ca khúc tiếng Việt bản địa** (V-Pop, Bolero, Dân ca, Nhạc Đỏ... do ca sĩ Việt Nam thể hiện).
+     - **0 file audio khả dụng** (dự án WASABI không phân phối file âm thanh vì vấn đề bản quyền).
 
 ---
 
