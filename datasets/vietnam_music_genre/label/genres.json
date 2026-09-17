@@ -1,0 +1,15 @@
+{
+  "dataset": "vietnam_music_genre",
+  "total_tracks": 4,
+  "genres_count": 2,
+  "distribution": {
+    "bolero": {
+      "count": 2,
+      "percentage": "50.00%"
+    },
+    "pop": {
+      "count": 2,
+      "percentage": "50.00%"
+    }
+  }
+}

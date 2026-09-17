@@ -1,0 +1,1299 @@
+[
+  {
+    "fma_id": "10508",
+    "title": "Unknown",
+    "artist": "Khoc Huang Thien",
+    "reasons": [
+      "country_is_vietnam",
+      null
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_country",
+        "value": "Vietnam",
+        "reason": "country_is_vietnam"
+      },
+      {
+        "type": "vietnamese_language",
+        "source": "fma",
+        "field": "language",
+        "value": "vi"
+      }
+    ]
+  },
+  {
+    "fma_id": "10707",
+    "title": "Loja unes Ant Kiemo",
+    "artist": "Įdainavo Karalienes Aniolu Parapijos Choras",
+    "reasons": [
+      "explicit_vietnamese_heritage"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_bio",
+        "value": "...a Handel piece on piano smashed between 78s from Vietnam and Greece on his <a href=\"http://dust-digital.co...",
+        "reason": "explicit_vietnamese_heritage"
+      }
+    ]
+  },
+  {
+    "fma_id": "13091",
+    "title": "Chung-Vô-Diệm, Pts. 1 and 2",
+    "artist": "Unknown",
+    "reasons": [
+      "country_is_vietnam",
+      "vietnamese_diacritics",
+      null
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_country",
+        "value": "Vietnam",
+        "reason": "country_is_vietnam"
+      },
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "Chung-Vô-Diệm, Pts. 1 and 2",
+        "reason": "vietnamese_diacritics"
+      },
+      {
+        "type": "vietnamese_language",
+        "source": "fma",
+        "field": "language",
+        "value": "vi"
+      }
+    ]
+  },
+  {
+    "fma_id": "24104",
+    "title": "Hay Que Luchar",
+    "artist": "Adelit@s",
+    "reasons": [
+      "vietnamese_word_pattern"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "Hay Que Luchar",
+        "reason": "vietnamese_word_pattern"
+      }
+    ]
+  },
+  {
+    "fma_id": "26670",
+    "title": "Días que no volveran",
+    "artist": "Erick Diego",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "Días que no volveran",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "29787",
+    "title": "Caída con los ojos abiertos",
+    "artist": ".RR",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "Caída con los ojos abiertos",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "38410",
+    "title": "É Contra Mim Que Luto",
+    "artist": "Stealing Orchestra",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "É Contra Mim Que Luto",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "41977",
+    "title": "Capitán (con Elsa de Alfonso)",
+    "artist": "Joe Crepúsculo",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "Capitán (con Elsa de Alfonso)",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "48359",
+    "title": "Leandro Casas - Pa’l Que Tuvo un Mal Día",
+    "artist": "Clinical Archives Mix",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "Leandro Casas - Pa’l Que Tuvo un Mal Día",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "48477",
+    "title": "J'ai acheté mes bottes en Espagne",
+    "artist": "Misiaczek",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "J'ai acheté mes bottes en Espagne",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "49092",
+    "title": "May Day (El Dia Que Falló la Nave)",
+    "artist": "Piccola Orchestra Gagarin",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "May Day (El Dia Que Falló la Nave)",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "50049",
+    "title": "Viaje de amor con Álvaro",
+    "artist": "Allfits",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "Viaje de amor con Álvaro",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "50841",
+    "title": "Hay mujeres que lo saben",
+    "artist": "La Mugre Roja",
+    "reasons": [
+      "vietnamese_word_pattern"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "Hay mujeres que lo saben",
+        "reason": "vietnamese_word_pattern"
+      }
+    ]
+  },
+  {
+    "fma_id": "51084",
+    "title": "Hay mujeres que lo saben",
+    "artist": "La Mugre Roja",
+    "reasons": [
+      "vietnamese_word_pattern"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "Hay mujeres que lo saben",
+        "reason": "vietnamese_word_pattern"
+      }
+    ]
+  },
+  {
+    "fma_id": "53424",
+    "title": "05 J'ai la patate (dans le style de Chocolat Billy un jour où ils s'engueulent)",
+    "artist": "Manuel J Grotesk",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "05 J'ai la patate (dans le style de Chocolat Billy un jour où ils s'engueulent)",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "56954",
+    "title": "J'ai mangé du Borak",
+    "artist": "Manueljgrotesque",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "J'ai mangé du Borak",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "64480",
+    "title": "Ne Parish",
+    "artist": "Vpopolam",
+    "reasons": [
+      "vpop_in_artist_name"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_name",
+        "value": "Vpopolam",
+        "reason": "vpop_in_artist_name"
+      }
+    ]
+  },
+  {
+    "fma_id": "64481",
+    "title": "Natasha",
+    "artist": "Vpopolam",
+    "reasons": [
+      "vpop_in_artist_name"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_name",
+        "value": "Vpopolam",
+        "reason": "vpop_in_artist_name"
+      }
+    ]
+  },
+  {
+    "fma_id": "64482",
+    "title": "Gop-Stop",
+    "artist": "Vpopolam",
+    "reasons": [
+      "vpop_in_artist_name"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_name",
+        "value": "Vpopolam",
+        "reason": "vpop_in_artist_name"
+      }
+    ]
+  },
+  {
+    "fma_id": "64483",
+    "title": "Bespontovy",
+    "artist": "Vpopolam",
+    "reasons": [
+      "vpop_in_artist_name"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_name",
+        "value": "Vpopolam",
+        "reason": "vpop_in_artist_name"
+      }
+    ]
+  },
+  {
+    "fma_id": "64484",
+    "title": "Nishtyaki",
+    "artist": "Vpopolam",
+    "reasons": [
+      "vpop_in_artist_name"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_name",
+        "value": "Vpopolam",
+        "reason": "vpop_in_artist_name"
+      }
+    ]
+  },
+  {
+    "fma_id": "64485",
+    "title": "Dovesok",
+    "artist": "Vpopolam",
+    "reasons": [
+      "vpop_in_artist_name"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_name",
+        "value": "Vpopolam",
+        "reason": "vpop_in_artist_name"
+      }
+    ]
+  },
+  {
+    "fma_id": "64486",
+    "title": "Bespontovy (Dancefloor Remix)",
+    "artist": "Vpopolam",
+    "reasons": [
+      "vpop_in_artist_name"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_name",
+        "value": "Vpopolam",
+        "reason": "vpop_in_artist_name"
+      }
+    ]
+  },
+  {
+    "fma_id": "67278",
+    "title": "Estudo Rural Em Ré Maior",
+    "artist": "Bonifrate",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "Estudo Rural Em Ré Maior",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "67851",
+    "title": "J'ai mai aux dents",
+    "artist": "Alexandredavidegabriel",
+    "reasons": [
+      "vietnamese_word_pattern"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "J'ai mai aux dents",
+        "reason": "vietnamese_word_pattern"
+      }
+    ]
+  },
+  {
+    "fma_id": "68959",
+    "title": "O Neurónio Que Estorou (The Neuron That Blew Up)",
+    "artist": "Stealing Orchestra",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "O Neurónio Que Estorou (The Neuron That Blew Up)",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "70864",
+    "title": "Valsa em Fá# Menor",
+    "artist": "Alexandre Bateiras",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "Valsa em Fá# Menor",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "70916",
+    "title": "Que Deus Te Dê O Dobro De Tudo O Que Nos Desejares",
+    "artist": "Stealing Orchestra",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "Que Deus Te Dê O Dobro De Tudo O Que Nos Desejares",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "71442",
+    "title": "Flutuando em águas tropicais",
+    "artist": "Clorofila Azul",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "Flutuando em águas tropicais",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "76039",
+    "title": "Hey maman j ai enregistré",
+    "artist": "Nicolas Tic Tac",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "Hey maman j ai enregistré",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "88044",
+    "title": "Lekrona Tchieb (une fille de là-bas)",
+    "artist": "RÉGIS VICTOR",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "Lekrona Tchieb (une fille de là-bas)",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "91265",
+    "title": "j'ai copié Mogwaï mais on m'a dit qu'ils faisaient pareil",
+    "artist": "Gablé",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "j'ai copié Mogwaï mais on m'a dit qu'ils faisaient pareil",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "94727",
+    "title": "Em Trânsito",
+    "artist": "Butterbox",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "Em Trânsito",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "97113",
+    "title": "Messin Plutôt Que Français",
+    "artist": "Noir Boy George",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "Messin Plutôt Que Français",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "101265",
+    "title": "Dr. Matatu",
+    "artist": "REW<<",
+    "reasons": [
+      "matched_vietnamese_tag"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_tag",
+        "source": "fma",
+        "field": "tags",
+        "value": "'vietnam'",
+        "reason": "matched_vietnamese_tag"
+      }
+    ]
+  },
+  {
+    "fma_id": "101266",
+    "title": "Rush, Bye",
+    "artist": "REW<<",
+    "reasons": [
+      "matched_vietnamese_tag"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_tag",
+        "source": "fma",
+        "field": "tags",
+        "value": "'vietnam'",
+        "reason": "matched_vietnamese_tag"
+      }
+    ]
+  },
+  {
+    "fma_id": "101269",
+    "title": "Departeures",
+    "artist": "REW<<",
+    "reasons": [
+      "matched_vietnamese_tag"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_tag",
+        "source": "fma",
+        "field": "tags",
+        "value": "'vietnam'",
+        "reason": "matched_vietnamese_tag"
+      }
+    ]
+  },
+  {
+    "fma_id": "101271",
+    "title": "Oh Wounded Butterfly",
+    "artist": "REW<<",
+    "reasons": [
+      "matched_vietnamese_tag"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_tag",
+        "source": "fma",
+        "field": "tags",
+        "value": "'vietnam'",
+        "reason": "matched_vietnamese_tag"
+      }
+    ]
+  },
+  {
+    "fma_id": "101272",
+    "title": "¡Domino!",
+    "artist": "REW<<",
+    "reasons": [
+      "matched_vietnamese_tag"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_tag",
+        "source": "fma",
+        "field": "tags",
+        "value": "'vietnam'",
+        "reason": "matched_vietnamese_tag"
+      }
+    ]
+  },
+  {
+    "fma_id": "101275",
+    "title": "Forgery",
+    "artist": "REW<<",
+    "reasons": [
+      "matched_vietnamese_tag"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_tag",
+        "source": "fma",
+        "field": "tags",
+        "value": "'vietnam'",
+        "reason": "matched_vietnamese_tag"
+      }
+    ]
+  },
+  {
+    "fma_id": "101276",
+    "title": "Sensed Horse",
+    "artist": "REW<<",
+    "reasons": [
+      "matched_vietnamese_tag"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_tag",
+        "source": "fma",
+        "field": "tags",
+        "value": "'vietnam'",
+        "reason": "matched_vietnamese_tag"
+      }
+    ]
+  },
+  {
+    "fma_id": "101277",
+    "title": "In Waves",
+    "artist": "REW<<",
+    "reasons": [
+      "matched_vietnamese_tag"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_tag",
+        "source": "fma",
+        "field": "tags",
+        "value": "'vietnam'",
+        "reason": "matched_vietnamese_tag"
+      }
+    ]
+  },
+  {
+    "fma_id": "101278",
+    "title": "Arriver",
+    "artist": "REW<<",
+    "reasons": [
+      "matched_vietnamese_tag"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_tag",
+        "source": "fma",
+        "field": "tags",
+        "value": "'vietnam'",
+        "reason": "matched_vietnamese_tag"
+      }
+    ]
+  },
+  {
+    "fma_id": "102177",
+    "title": "Weight Lifting Montage",
+    "artist": "REW<<",
+    "reasons": [
+      "matched_vietnamese_tag"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_tag",
+        "source": "fma",
+        "field": "tags",
+        "value": "'vietnam'",
+        "reason": "matched_vietnamese_tag"
+      }
+    ]
+  },
+  {
+    "fma_id": "106325",
+    "title": "Amigo é aquele que te diz que tens um macaco no nariz",
+    "artist": "Stealing Orchestra & Rafael Dionísio",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "Amigo é aquele que te diz que tens um macaco no nariz",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "106326",
+    "title": "Ai Maria, é tanto o teu drama que já nem vou contigo à missa",
+    "artist": "Stealing Orchestra & Rafael Dionísio",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "Ai Maria, é tanto o teu drama que já nem vou contigo à missa",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "106330",
+    "title": "A tua choradeira é meio salário em lenços",
+    "artist": "Stealing Orchestra & Rafael Dionísio",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "A tua choradeira é meio salário em lenços",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "106842",
+    "title": "Paris j'ai pris perpète",
+    "artist": "Émilie Simon",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "Paris j'ai pris perpète",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "107389",
+    "title": "On a qu'à se dire que l'on s'en fout",
+    "artist": "Aussitôt Mort / MORT MORT MORT",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "On a qu'à se dire que l'on s'en fout",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "107790",
+    "title": "Track 1",
+    "artist": "Vpopolam",
+    "reasons": [
+      "vpop_in_artist_name"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_name",
+        "value": "Vpopolam",
+        "reason": "vpop_in_artist_name"
+      }
+    ]
+  },
+  {
+    "fma_id": "107791",
+    "title": "Track 2",
+    "artist": "Vpopolam",
+    "reasons": [
+      "vpop_in_artist_name"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_name",
+        "value": "Vpopolam",
+        "reason": "vpop_in_artist_name"
+      }
+    ]
+  },
+  {
+    "fma_id": "107792",
+    "title": "Track 3 (Featuring DJ_Sapient)",
+    "artist": "Vpopolam",
+    "reasons": [
+      "vpop_in_artist_name"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_name",
+        "value": "Vpopolam",
+        "reason": "vpop_in_artist_name"
+      }
+    ]
+  },
+  {
+    "fma_id": "107793",
+    "title": "Track 4",
+    "artist": "Vpopolam",
+    "reasons": [
+      "vpop_in_artist_name"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_name",
+        "value": "Vpopolam",
+        "reason": "vpop_in_artist_name"
+      }
+    ]
+  },
+  {
+    "fma_id": "107794",
+    "title": "Track 5",
+    "artist": "Vpopolam",
+    "reasons": [
+      "vpop_in_artist_name"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_name",
+        "value": "Vpopolam",
+        "reason": "vpop_in_artist_name"
+      }
+    ]
+  },
+  {
+    "fma_id": "107795",
+    "title": "Track 6",
+    "artist": "Vpopolam",
+    "reasons": [
+      "vpop_in_artist_name"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_name",
+        "value": "Vpopolam",
+        "reason": "vpop_in_artist_name"
+      }
+    ]
+  },
+  {
+    "fma_id": "107796",
+    "title": "Waiting For The Light (Featuring Abhi S.V. & snowflake)",
+    "artist": "Vpopolam",
+    "reasons": [
+      "vpop_in_artist_name"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_name",
+        "value": "Vpopolam",
+        "reason": "vpop_in_artist_name"
+      }
+    ]
+  },
+  {
+    "fma_id": "108164",
+    "title": "Por mí, que llueva",
+    "artist": "Maria Pien",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "Por mí, que llueva",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "113259",
+    "title": "Povo Que Caís Descalço",
+    "artist": "Dead Combo",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "Povo Que Caís Descalço",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "123821",
+    "title": "...E Você Espera Por Tanto Tempo Que Já Não Lembra Mais o Porquê",
+    "artist": "E A Terra Nunca Me Pareceu Tão Distante",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "...E Você Espera Por Tanto Tempo Que Já Não Lembra Mais o Porquê",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "123824",
+    "title": "Quando Vão Saber Que Já Apanhei o Suficiente?",
+    "artist": "E A Terra Nunca Me Pareceu Tão Distante",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "Quando Vão Saber Que Já Apanhei o Suficiente?",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "128990",
+    "title": "Văzduh II - Shanyio (ft. moody alien)",
+    "artist": "moody alien",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "Văzduh II - Shanyio (ft. moody alien)",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "129322",
+    "title": "J'ai été au bal",
+    "artist": "Quimorucru",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "J'ai été au bal",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "132833",
+    "title": "A imagem que temos de nós e dos outros",
+    "artist": "rui",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "A imagem que temos de nós e dos outros",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "135039",
+    "title": "J'ai changé",
+    "artist": "Anga",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "J'ai changé",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "140549",
+    "title": "Lo que me dijo satanás",
+    "artist": "T3r4t0m4",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "Lo que me dijo satanás",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "140824",
+    "title": "Quand tu es là, il fait chaud et frais",
+    "artist": "Monplaisir",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "Quand tu es là, il fait chaud et frais",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "143467",
+    "title": "Mais j'ai rien demandé moi",
+    "artist": "Planetaldol",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "Mais j'ai rien demandé moi",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "143859",
+    "title": "J'ai mangé tout les enfants pourris",
+    "artist": "Micusnule",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "J'ai mangé tout les enfants pourris",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "146497",
+    "title": "illusions",
+    "artist": "luong hue trinh",
+    "reasons": [
+      "country_is_vietnam"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_country",
+        "value": "hamburg / hanoi",
+        "reason": "country_is_vietnam"
+      }
+    ]
+  },
+  {
+    "fma_id": "146498",
+    "title": "return ii",
+    "artist": "luong hue trinh",
+    "reasons": [
+      "country_is_vietnam"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_country",
+        "value": "hamburg / hanoi",
+        "reason": "country_is_vietnam"
+      }
+    ]
+  },
+  {
+    "fma_id": "147177",
+    "title": "Discusión con una piraña del mercado",
+    "artist": "L.D.I.",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "Discusión con una piraña del mercado",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "149057",
+    "title": "J'ai mangé mon visage",
+    "artist": "Monplaisir",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "J'ai mangé mon visage",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "149065",
+    "title": "J'ai dormi, rêvé peut-être ?",
+    "artist": "Monplaisir",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "J'ai dormi, rêvé peut-être ?",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "150049",
+    "title": "Guilh'em All-Virage Métal",
+    "artist": "Guilhem'All",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "Guilh'em All-Virage Métal",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  },
+  {
+    "fma_id": "151854",
+    "title": "Ca avait l'air d'être facile",
+    "artist": "Monplaisir",
+    "reasons": [
+      "vietnamese_diacritics"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "Ca avait l'air d'être facile",
+        "reason": "vietnamese_diacritics"
+      }
+    ]
+  }
+]

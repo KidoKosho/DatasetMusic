@@ -1,0 +1,10 @@
+{
+  "dataset": "fma",
+  "total_candidate_tracks": 389,
+  "audio_count": 35,
+  "lyrics_count": 0,
+  "artwork_count": 0,
+  "genres_breakdown": {
+    "unknown": 389
+  }
+}

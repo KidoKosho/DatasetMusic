@@ -1,0 +1,20 @@
+{
+  "dataset": "vietnam_music_genre",
+  "source_url": "https://www.kaggle.com/datasets/xuaam1/vietnam-music-genre",
+  "kaggle_dataset_id": "xuaam1/vietnam-music-genre",
+  "archives": [
+    {
+      "name": "vietnam-music-genre.zip",
+      "size": 12738,
+      "type": "audio",
+      "remote_url": "https://www.kaggle.com/datasets/xuaam1/vietnam-music-genre",
+      "inspectable": true,
+      "remote_inspection": "unsupported_requires_kaggle_api_auth",
+      "local_staged_tracks": 3,
+      "notes": [
+        "Direct unauthenticated HTTP inspection returns 404/login redirect.",
+        "Dataset download uses Kaggle API client or local raw staging."
+      ]
+    }
+  ]
+}

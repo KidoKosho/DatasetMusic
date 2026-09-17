@@ -1,0 +1,390 @@
+track_id,title,artist,genre,genre_original,album,audio_path,has_audio,audio_sha256,lyrics_path,has_lyrics,avt_path,has_avt,source_song_id,segment_index,is_vietnamese_song,is_vietnamese_artist,is_vietnamese_title,is_vietnamese_lyrics,reasons
+12baadfae04a0cc13e847e60,In Your Dreams,The Space Lady a.k.a. Suzy Soundz,unknown,unknown,Street-level Superstar (Owed to Boston),,False,,,False,,False,6001,,False,True,False,,vietnamese_artist
+f9fea196a347139aa7da966a,The Price Of Freedom,The Space Lady a.k.a. Suzy Soundz,unknown,unknown,Street-level Superstar (Owed to Boston),,False,,,False,,False,6002,,False,True,False,,vietnamese_artist
+4bcea540b58115e56e40af3b,Cap'n Jack,The Space Lady a.k.a. Suzy Soundz,unknown,unknown,Street-level Superstar (Owed to Boston),,False,,,False,,False,6003,,False,True,False,,vietnamese_artist
+62bf90a2d4f87fbebb477c47,Street-level Superstar,The Space Lady a.k.a. Suzy Soundz,unknown,unknown,Street-level Superstar (Owed to Boston),,False,,,False,,False,6004,,False,True,False,,vietnamese_artist
+05fb3fe95d5c5d14525925fa,Unknown,Khoc Huang Thien,unknown,unknown,,,False,,,False,,False,10508,,False,True,False,,vietnamese_artist;vietnamese_country;vietnamese_language
+1d16c7b465381c848d138f2c,Yu Wang Tan Ming,Jianhong He,unknown,unknown,,,False,,,False,,False,10572,,False,True,False,,vietnamese_artist
+b09fbedf1fae7cc15788d51a,Loja unes Ant Kiemo,Įdainavo Karalienes Aniolu Parapijos Choras,unknown,unknown,,,False,,,False,,False,10707,,False,True,False,,vietnamese_artist
+74063c4f63e3630188923389,"Dao-Thong, Pt. 2",Seeranii,unknown,unknown,,,False,,,False,,False,11085,,False,True,False,,vietnamese_artist
+bcdeabc540c57b44fe8d2562,Comendo Pão e Fazendo Mal,minusbaby,unknown,unknown,Saudade for Beginners,,False,,,False,,False,12589,,False,False,True,,vietnamese_title
+c96bd627ea73719b605fa7f5,São Roque (Bella/Boa),minusbaby,unknown,unknown,Saudade for Beginners,,False,,,False,,False,12591,,False,False,True,,vietnamese_title
+5409b6f869142f9a08bdf8d3,"Chung-Vô-Diệm, Pts. 1 and 2",Unknown,unknown,unknown,,,False,,,False,,False,13091,,False,True,True,,vietnamese_artist;vietnamese_country;vietnamese_language;vietnamese_title
+1946cbdb05ba2a23bc39cb9a,* * coq à l'ail * *,Kania Tieffer,unknown,unknown,The Eastern World EP,,False,,,False,,False,13843,,False,False,True,,vietnamese_title
+35b2f898ce02043c448d3078,rainmaking,Aaron Ximm,unknown,unknown,Re:Record,,False,,,False,,False,13934,,False,True,False,,vietnamese_artist
+e69d9c99b982c2885a39b25f,coq à l'ail,Kania Tieffer,unknown,unknown,Les Alpes,,False,,,False,,False,14518,,False,False,True,,vietnamese_title
+09b74d71ab4bd2503e403c05,Turn Me Back,Vietnam Cowboy,unknown,unknown,Dead Bees label sampler #8,,False,,,False,,False,14700,,False,False,False,,vietnamese_tag
+5349e1968355f359f82bbfbc,Uno straccio,Bacco Baccanels,unknown,unknown,Bollate centro,,False,,,False,,False,16115,,False,True,False,,vietnamese_artist
+145d1b0f740e56d4f9efdb6f,Vai pi piano,Bacco Baccanels,unknown,unknown,Bollate centro,,False,,,False,,False,16116,,False,True,False,,vietnamese_artist
+bd6d64ff93ad8736dc6ea7ce,Bollate centro,Bacco Baccanels,unknown,unknown,Bollate centro,,False,,,False,,False,16117,,False,True,False,,vietnamese_artist
+ddfb78dddfb2668952c24305,Mi fa,Bacco Baccanels,unknown,unknown,Bollate centro,,False,,,False,,False,16118,,False,True,False,,vietnamese_artist
+0a71681fa8d537fb74f01b3e,Coma,Bacco Baccanels,unknown,unknown,Bollate centro,,False,,,False,,False,16119,,False,True,False,,vietnamese_artist
+0dd467b6d5a225e7e7713e95,Capsula spaziale,Bacco Baccanels,unknown,unknown,Bollate centro,,False,,,False,,False,16120,,False,True,False,,vietnamese_artist
+eb194a08485284aa69aa4028,Confuso,Bacco Baccanels,unknown,unknown,Bollate centro,,False,,,False,,False,16121,,False,True,False,,vietnamese_artist
+90644b0d904ce3435a69abfe,Calendario,Bacco Baccanels,unknown,unknown,Bollate centro,,False,,,False,,False,16122,,False,True,False,,vietnamese_artist
+21cea014c2022d6b2fc81a93,Motel,Bacco Baccanels,unknown,unknown,Bollate centro,,False,,,False,,False,16123,,False,True,False,,vietnamese_artist
+b50dcc089123b60288e2f25e,Fearless little John,Bacco Baccanels,unknown,unknown,Bollate centro,,False,,,False,,False,16124,,False,True,False,,vietnamese_artist
+89ccba76df0030eb13ea0fa7,Baião Lo-fi,Chico Correa and Electronic Band,unknown,unknown,Chico Correa and Electronic Band,,False,,,False,,False,16656,,False,False,True,,vietnamese_title
+ab15bb1b2179794aa43ad435,allscars1998-06-12,All Scars,unknown,unknown,live at black cat 6/12/98,,False,,,False,,False,20557,,False,False,False,,vietnamese_tag
+5ddc457e870133754a8d137f,Solidão Gasolina,Curumin,unknown,unknown,Live on WFMU's Transpacific Sound Paradise 12/19/2009,,False,,,False,,False,22773,,False,False,True,,vietnamese_title
+dd10a2e8b5954731fbf83b32,l'amant des femmes à brioche,Audace,unknown,unknown,Flipper,,False,,,False,,False,23083,,False,False,True,,vietnamese_title
+2351366b3d9bc72d85d1883c,Hymne à la Joie,Vulvinia & Jambonstar,unknown,unknown,Le Meilleur de Nous,,False,,,False,,False,23637,,False,False,True,,vietnamese_title
+f1d546631fc73ffc49b33879,live on WPRB 3/2/00,All Scars,unknown,unknown,live on WPRB 3/2/00,,False,,,False,,False,24027,,False,False,False,,vietnamese_tag
+92877b7931782ac03e189c53,Hay Que Luchar,Adelit@s,unknown,unknown,Un Solo Grito EP,,False,,,False,,False,24104,,False,False,True,,vietnamese_title
+81b18c0c92368fc325e59391,Días que no volveran,Erick Diego,unknown,unknown,Low Motion Thelepathy,,False,,,False,,False,26670,,False,False,True,,vietnamese_title
+cc28c166102fdaf25c8ef159,à notre avenir,Bacalao,unknown,unknown,MP3 summary,,False,,,False,,False,27785,,False,False,True,,vietnamese_title
+d979fd8a8806fd90f7492a2b,à notre avenir,Bacalao,unknown,unknown,C'est La Fête,,False,,,False,,False,28684,,False,False,True,,vietnamese_title
+958a5fcf054f4c61bff6fa0e,du bitume à l'envol,Bacalao,unknown,unknown,C'est La Fête,,False,,,False,,False,28687,,False,False,True,,vietnamese_title
+782f05460aadc7f4a3e9a3b3,A mãe de sua mãe,Nueve de dos,unknown,unknown,et tu en vis ?,,False,,,False,,False,29359,,False,False,True,,vietnamese_title
+5b0ffa79dfde84cfc8f568dc,Caída con los ojos abiertos,.RR,unknown,unknown,California,,False,,,False,,False,29787,,False,False,True,,vietnamese_title
+c986f36e18ada7fb4b518ea0,7sexes à l église,7sexes à l église,unknown,unknown,7 sexes à l église,,False,,,False,,False,30542,,False,False,True,,vietnamese_title
+a204c602c31e039553aef54c,(Funk) Até o caroço,BNegão & Seletores de Freqüência,unknown,unknown,Enxugando Gelo,,False,,,False,,False,31153,,False,True,False,,vietnamese_artist
+6bd3c9b0e554e266cb0c0219,Dorobo,BNegão & Seletores de Freqüência,unknown,unknown,Enxugando Gelo,,False,,,False,,False,31154,,False,True,False,,vietnamese_artist
+266facb8349bcc3c3382a4dc,Ho Hay,BNegão & Seletores de Freqüência,unknown,unknown,Enxugando Gelo,,False,,,False,,False,31155,,False,True,False,,vietnamese_artist
+f8e57ac89191dd69e1396e61,Nova Visão,BNegão & Seletores de Freqüência,unknown,unknown,Enxugando Gelo,,False,,,False,,False,31156,,False,True,True,,vietnamese_artist;vietnamese_title
+b113fd6221e97884ec080635,O opositor,BNegão & Seletores de Freqüência,unknown,unknown,Enxugando Gelo,,False,,,False,,False,31157,,False,True,False,,vietnamese_artist
+2c6817661d79f347d4ff56b9,O processo,BNegão & Seletores de Freqüência,unknown,unknown,Enxugando Gelo,,False,,,False,,False,31158,,False,True,False,,vietnamese_artist
+d80e56769d84d866e6713a45,Prioridades,BNegão & Seletores de Freqüência,unknown,unknown,Enxugando Gelo,,False,,,False,,False,31159,,False,True,False,,vietnamese_artist
+63b3efd42b0a861d18d3cd61,Qual é o seu nome?,BNegão & Seletores de Freqüência,unknown,unknown,Enxugando Gelo,,False,,,False,,False,31160,,False,True,False,,vietnamese_artist
+b3d44aa8ba7fcd1c42a345f5,Seletores de freqüência,BNegão & Seletores de Freqüência,unknown,unknown,Enxugando Gelo,,False,,,False,,False,31161,,False,True,False,,vietnamese_artist
+6f0c95faf14aab9afec42e41,V.V.,BNegão & Seletores de Freqüência,unknown,unknown,Enxugando Gelo,,False,,,False,,False,31162,,False,True,False,,vietnamese_artist
+bb05432c7f99f0c07f5d2b86,A palavra / O primeiro passo,BNegão & Seletores de Freqüência,unknown,unknown,Enxugando Gelo,datasets\fma\audio\bb05432c7f99f0c07f5d2b86.mp3,True,,,False,,False,31165,,False,True,False,,vietnamese_artist
+bacbe4c0aa66d49ac54b7d8f,A Verdadeira Dança Do Patinho,BNegão & Seletores de Freqüência,unknown,unknown,Enxugando Gelo,,False,,,False,,False,31166,,False,True,False,,vietnamese_artist
+fcc5ca6e84da2b600227a08d,Enxugando o Gelo,BNegão & Seletores de Freqüência,unknown,unknown,Enxugando Gelo,,False,,,False,,False,31167,,False,True,False,,vietnamese_artist
+38cd42bdcd815d68bd17b7c0,Inscrição,Axial,unknown,unknown,Senoide,,False,,,False,,False,31231,,False,False,True,,vietnamese_title
+ed67fd2c66ae4d3391b9fcc1,porter attention à ce qui va suivre,Hargreaves / Noyes / Duplant,unknown,unknown,Malachi,,False,,,False,,False,32888,,False,False,True,,vietnamese_title
+c8583ea7627faa8510caaade,parfois ne penser à rien,Hargreaves / Noyes / Duplant,unknown,unknown,Malachi,,False,,,False,,False,32891,,False,False,True,,vietnamese_title
+a26ae21e7c8d74eef62aadae,demander à la poussière,Hargreaves / Noyes / Duplant,unknown,unknown,Malachi,,False,,,False,,False,32893,,False,False,True,,vietnamese_title
+00cc54c2ccec7399d13e7901,La machine à laver,Lady Data,unknown,unknown,Moumoute songs,,False,,,False,,False,32917,,False,False,True,,vietnamese_title
+05133f6abf98a16917e6b69c,Pense à rien,Lady Data,unknown,unknown,Moumoute songs,,False,,,False,,False,32920,,False,False,True,,vietnamese_title
+64ac9af748b51b9a7751214e,On S'Emmerde À Corte,PierrotheMoon,unknown,unknown,36 Feet Under,,False,,,False,,False,33116,,False,False,True,,vietnamese_title
+cfad027dab5b79f4a0bff9ba,Pontilhaãããão (Overpass),"AlienAqtor, Disorder of Rage (DxOxRx), Flanicx, and Rod Brandao",unknown,unknown,Era dos Mortos - Era of The Dead (Original Soundtrack),,False,,,False,,False,36929,,False,False,True,,vietnamese_title
+ee49cfb4e7bd0ab9137861e1,Visões Bizarras de Mary X,Misantropskia,unknown,unknown,Uncomfortable Music: David Lynch's Eraserhead Tribute,,False,,,False,,False,37071,,False,False,True,,vietnamese_title
+4186420208c737025753ce52,SÃÂ­dhe,The Wades,unknown,unknown,Silber Sounds of Halloween,,False,,,False,,False,37089,,False,False,True,,vietnamese_title
+ed5fa6054ea4e50bdf0abb3b,"Uma Pândega de Paranóias, Fobias e Mania da Perseguição",Stealing Orchestra,unknown,unknown,Calling All Fiends,,False,,,False,,False,37126,,False,False,True,,vietnamese_title
+8bf830cd5262892056864cee,"O Pastor, a Droga e as Visões",Stealing Orchestra,unknown,unknown,É Português Não Gosto!,datasets\fma\audio\8bf830cd5262892056864cee.mp3,True,,,False,,False,38399,,False,False,True,,vietnamese_title
+e7213fed6faebb696e156224,De um Tiro à Socapa nem o Papa,Stealing Orchestra,unknown,unknown,É Português Não Gosto!,,False,,,False,,False,38400,,False,False,True,,vietnamese_title
+7220164afea86f52534d90eb,"Maravilhoso Coração, Maravilho",Stealing Orchestra,unknown,unknown,É Português Não Gosto!,,False,,,False,,False,38401,,False,False,True,,vietnamese_title
+6a846a997f689ca896e2aef9,"Palpitações, Delírios e Mau Feitio ao Acordar",Stealing Orchestra,unknown,unknown,Bu!,,False,,,False,,False,38409,,False,False,True,,vietnamese_title
+b3a2d33bcc2200a50aac623b,É Contra Mim Que Luto,Stealing Orchestra,unknown,unknown,Bu!,,False,,,False,,False,38410,,False,False,True,,vietnamese_title
+c2fcd3bad7d5f35469138565,"Uma Pândega de Paranóias, Fobias e Mania da Perseguição",Stealing Orchestra,unknown,unknown,Bu!,,False,,,False,,False,38411,,False,False,True,,vietnamese_title
+bbf8ac7cbbbb9a43c4d7ff7e,la valse Ã  mille echos,File Under Toner,unknown,unknown,"This Is The End, Beautiful Friend",datasets\fma\audio\bbf8ac7cbbbb9a43c4d7ff7e.mp3,True,,,False,,False,38902,,False,False,True,,vietnamese_title
+0cd2571356448e3757967a5b,Messe à 3 voix (Antonio Lotti),Les Petits Chanteurs de Montigny,unknown,unknown,Compilation classique,,False,,,False,,False,41957,,False,False,True,,vietnamese_title
+38df088a1fe15f3e44b79075,Capitán (con Elsa de Alfonso),Joe Crepúsculo,unknown,unknown,Voy a Explotar Soundtrack,,False,,,False,,False,41977,,False,False,True,,vietnamese_title
+92c9816a278ac380f7c6506d,The Practice-Dub,All Scars,unknown,unknown,Troubleman Mix-Tape,,False,,,False,,False,45014,,False,False,False,,vietnamese_tag
+05226b178a94c57cfc50ac0c,la conne à forest hill,Boyz 2 Moche,unknown,unknown,le club de mercier solitaire,,False,,,False,,False,45078,,False,False,True,,vietnamese_title
+79b5577fdaf6de01d5d9c0d4,IV 2)à la chasse au extraterrestres thérése,HENOG le musicien,unknown,unknown,HENOG le musicien,,False,,,False,,False,45224,,False,False,True,,vietnamese_title
+605ea7199adc2abccc93564b,Pas à Des Miracles (Manuel J G,Benjamin Bret,unknown,unknown,Super Smurf,,False,,,False,,False,45400,,False,False,True,,vietnamese_title
+2b5e55ecd9d30b63380e6306,Mon Père est à Paris [My Dad in Paris],Miss Emma,unknown,unknown,Une Glace au Citron,,False,,,False,,False,46110,,False,False,True,,vietnamese_title
+e66f5e4f8c4386c776de8d2e,Depois de um Galão no Miramar,minusbaby,unknown,unknown,O Que Não Tem Juízo [2003—2006],,False,,,False,,False,47218,,False,False,True,,vietnamese_title
+dbd4ba2748030b293c68db62,A Palavra Não Foi Encontrada,minusbaby,unknown,unknown,O Que Não Tem Juízo [2003—2006],,False,,,False,,False,47225,,False,False,True,,vietnamese_title
+d5a273bc0cc8c054e18172f2,Poignard sodo à gogo,Le Mal,unknown,unknown,Les Disciples d'AZATHOT,,False,,,False,,False,48093,,False,False,True,,vietnamese_title
+83e61c8cb69349416f58031d,Leandro Casas - Pa’l Que Tuvo un Mal Día,Clinical Archives Mix,unknown,unknown,May 2011,,False,,,False,,False,48359,,False,False,True,,vietnamese_title
+4d47f79c6e09f33f54d38e12,J'ai acheté mes bottes en Espagne,Misiaczek,unknown,unknown,La chanson de l'été 2011,,False,,,False,,False,48477,,False,False,True,,vietnamese_title
+ec758da62cf37e8268f33a6c,May Day (El Dia Que Falló la Nave),Piccola Orchestra Gagarin,unknown,unknown,Platos Combinados,,False,,,False,,False,49092,,False,False,True,,vietnamese_title
+618dba57050fdbd085f3d163,Viaje de amor con Álvaro,Allfits,unknown,unknown,Sea Horse,,False,,,False,,False,50049,,False,False,True,,vietnamese_title
+778603fbb16aa29a658d63d5,"Perdu, grace à la fontaine",McCloud Zicmuse,unknown,unknown,Voyage au centre Iaeniaen,,False,,,False,,False,50318,,False,False,True,,vietnamese_title
+62916509497ddcbe6a571ce4,Hay mujeres que lo saben,La Mugre Roja,unknown,unknown,La Muerte tiembla la Tierra (El día de las mujeres),,False,,,False,,False,50841,,False,False,True,,vietnamese_title
+06810e2040e59290823af365,Hay mujeres que lo saben,La Mugre Roja,unknown,unknown,La muerte tiembla la tierra (El día de las mujeres),,False,,,False,,False,51084,,False,False,True,,vietnamese_title
+729c8885550de3f56a11a45e,Hommage à A.A. I,Jaap Blonk & BRAAXTAAL,unknown,unknown,BRAAXTAAL,,False,,,False,,False,52309,,False,False,True,,vietnamese_title
+b8af1cca6e3e59cd8b2bcc1a,Hommage à A.A. II,Jaap Blonk & BRAAXTAAL,unknown,unknown,BRAAXTAAL,,False,,,False,,False,52310,,False,False,True,,vietnamese_title
+33f1fd778fc0265ca2614ccd,Discussion à batons rompus,OsO El roTo,unknown,unknown,Batman 2,,False,,,False,,False,52991,,False,False,True,,vietnamese_title
+2f11e8b24a3cc90a9eca0bb1,05 J'ai la patate (dans le style de Chocolat Billy un jour où ils s'engueulent),Manuel J Grotesk,unknown,unknown,la symphonie d un branleur,,False,,,False,,False,53424,,False,False,True,,vietnamese_title
+752e5c62c2ef710b09081e67,07 Une chanson bien à moi (dans le style de la vieille chanson française),Manuel J Grotesk,unknown,unknown,la symphonie d un branleur,,False,,,False,,False,53426,,False,False,True,,vietnamese_title
+a8ea9fc2ca6e2bd324e3f8a6,En tête à tête avec ton savon,L' Amicale du Tigrou,unknown,unknown,la colline et la corde,,False,,,False,,False,55166,,False,False,True,,vietnamese_title
+a02e54963112d52d6c297573,Track 01 A,All Scars,unknown,unknown,Introduction To Humanity,,False,,,False,,False,56068,,False,False,False,,vietnamese_tag
+381be9265d0c63857e5c0c5e,Track 02 B,All Scars,unknown,unknown,Introduction To Humanity,,False,,,False,,False,56069,,False,False,False,,vietnamese_tag
+b0aee4f6ce568e2c6f93fc7e,Track 04 A,All Scars,unknown,unknown,Introduction To Humanity,,False,,,False,,False,56070,,False,False,False,,vietnamese_tag
+1ce1b9a1042ed91764b46275,Track 03 C,All Scars,unknown,unknown,Introduction To Humanity,,False,,,False,,False,56071,,False,False,False,,vietnamese_tag
+b9fb93da8c0c317724a9e60d,Track 06 C,All Scars,unknown,unknown,Introduction To Humanity,,False,,,False,,False,56072,,False,False,False,,vietnamese_tag
+3c2e5ff1d9bc6baa353d46c2,Track 05 B,All Scars,unknown,unknown,Introduction To Humanity,,False,,,False,,False,56073,,False,False,False,,vietnamese_tag
+990d9af93dc2bc532a3d5587,Track 07 B,All Scars,unknown,unknown,Introduction To Humanity,,False,,,False,,False,56074,,False,False,False,,vietnamese_tag
+21aadbf6abf2fc4c01a3c36d,Track 09 A (Man O' War),All Scars,unknown,unknown,Introduction To Humanity,,False,,,False,,False,56075,,False,False,False,,vietnamese_tag
+e81d156dceadccd7bfa36ebb,Track 13 C,All Scars,unknown,unknown,Introduction To Humanity,,False,,,False,,False,56077,,False,False,False,,vietnamese_tag
+da86038761000c5af6f85005,Track 11 C,All Scars,unknown,unknown,Introduction To Humanity,,False,,,False,,False,56078,,False,False,False,,vietnamese_tag
+29420e8867e3f3743fe9a8f9,Track 08 C,All Scars,unknown,unknown,Introduction To Humanity,,False,,,False,,False,56079,,False,False,False,,vietnamese_tag
+654ec24ee72664fa6fec9e47,Track 12 A,All Scars,unknown,unknown,Introduction To Humanity,,False,,,False,,False,56080,,False,False,False,,vietnamese_tag
+bf2089b5a26270933fca6b5a,Track 10 B,All Scars,unknown,unknown,Introduction To Humanity,,False,,,False,,False,56081,,False,False,False,,vietnamese_tag
+de716d106bfa40ea4687c268,J'ai mangé du Borak,Manueljgrotesque,unknown,unknown,This is thunder strike,,False,,,False,,False,56954,,False,False,True,,vietnamese_title
+d2b7576529399ac1dcdcd1ae,Udruženje građana (live),Ljudske Potrebe,unknown,unknown,Povratak u realno,,False,,,False,,False,57961,,False,False,True,,vietnamese_title
+20c6410a7e5b9bbf2fa9eeb6,Doviđenja (feat. Goran Grubišić)(Live),Ljudske Potrebe,unknown,unknown,Povratak u realno,,False,,,False,,False,57967,,False,False,True,,vietnamese_title
+35f2f06b8ba5733695d230ce,Búsqueda exploratoria #002 - Jusqu'à ne plus avoir peur.mp3,Circus Marcus,unknown,unknown,Búsquedas Exploratorias,,False,,,False,,False,59578,,False,False,True,,vietnamese_title
+0d2879ca4252e7d0412d9b0d,Búsqueda exploratoria #006 - Noce à Lens.mp3,Circus Marcus,unknown,unknown,Búsquedas Exploratorias,,False,,,False,,False,59582,,False,False,True,,vietnamese_title
+6f218289d8317b085b9c30a8,Modibo chante à la maison,Lessazo,unknown,unknown,Soleil d'hiver,datasets\fma\audio\6f218289d8317b085b9c30a8.mp3,True,,,False,,False,60037,,False,False,True,,vietnamese_title
+1570f12186f5a23594d230b2,Memoire (Hommage à T. Sankara),Lessazo,unknown,unknown,Soleil d'hiver,,False,,,False,,False,60040,,False,False,True,,vietnamese_title
+ee85db96581638cfa1a6e82d,Maiga  Descente à cheval,Lessazo,unknown,unknown,Soleil d'hiver,datasets\fma\audio\ee85db96581638cfa1a6e82d.mp3,True,,,False,,False,60045,,False,False,True,,vietnamese_title
+373409a4693eea9f056138b4,Paz,João Ricardo,unknown,unknown,LX(RMX) Lisbon Remixed,,False,,,False,,False,60643,,False,True,False,,vietnamese_artist
+5a6726628862cf2e2b227d4d,Police Truck  (part. Carlão),Retrigger,unknown,unknown,10 anos tocando pr@s amig@s,,False,,,False,,False,61446,,False,False,True,,vietnamese_title
+ee6eb353497568d47ad7b051,Aller à la poste,Hi-FI & failles,unknown,unknown,Qualités-Défauts,,False,,,False,,False,63490,,False,False,True,,vietnamese_title
+39ebf49b564066b7570b5808,Padê Onã,Axial,unknown,unknown,SiMBiOSE,,False,,,False,,False,64271,,False,False,True,,vietnamese_title
+05cf260abd0d156cecb99d29,Ne Parish,Vpopolam,unknown,unknown,Gryaznyj albom,,False,,,False,,False,64480,,False,True,False,,vietnamese_artist;vietnamese_tag
+94303252265f323f060f9fbb,Natasha,Vpopolam,unknown,unknown,Gryaznyj albom,,False,,,False,,False,64481,,False,True,False,,vietnamese_artist;vietnamese_tag
+47b4b0d1d7e60172f29418c8,Gop-Stop,Vpopolam,unknown,unknown,Gryaznyj albom,,False,,,False,,False,64482,,False,True,False,,vietnamese_artist;vietnamese_tag
+c008b858c25bbfc67630d5e9,Bespontovy,Vpopolam,unknown,unknown,Gryaznyj albom,,False,,,False,,False,64483,,False,True,False,,vietnamese_artist;vietnamese_tag
+42ba3680f8ed8d17c065f449,Nishtyaki,Vpopolam,unknown,unknown,Gryaznyj albom,,False,,,False,,False,64484,,False,True,False,,vietnamese_artist;vietnamese_tag
+62ddcc90886b2e55bfe18245,Dovesok,Vpopolam,unknown,unknown,Gryaznyj albom,,False,,,False,,False,64485,,False,True,False,,vietnamese_artist;vietnamese_tag
+f509cca3bdacce1b5ac4b461,Bespontovy (Dancefloor Remix),Vpopolam,unknown,unknown,Gryaznyj albom,,False,,,False,,False,64486,,False,True,False,,vietnamese_artist;vietnamese_tag
+0e0bd75f2f626d8d340ab5fd,Il Pleut des Informations (ou Mass Media en Masse à Partir de Notre Cumulonimus Fiable),Monroeville Music Center,unknown,unknown,Le Progrès,datasets\fma\audio\0e0bd75f2f626d8d340ab5fd.mp3,True,,,False,,False,64865,,False,False,True,,vietnamese_title
+e1e817469d8000b140ea702b,La cittÃ  che sale,Massimo Croce,unknown,unknown,Luigi Russolo Tribute,,False,,,False,,False,66016,,False,False,True,,vietnamese_title
+9d34093cc85cda9c5477bd70,Os Anões Da Villa Do Magma (Parte 1),Bonifrate,unknown,unknown,Os Anoes Da Villa Do Magma,,False,,,False,,False,67274,,False,False,True,,vietnamese_title
+7b6fcd5bf571265c7cd9b102,Céu & Chão,Bonifrate,unknown,unknown,Os Anoes Da Villa Do Magma,,False,,,False,,False,67275,,False,False,True,,vietnamese_title
+b608d2356c041c97ccb95a8e,Os Anões Da Villa Do Magma (Parte 2),Bonifrate,unknown,unknown,Os Anoes Da Villa Do Magma,,False,,,False,,False,67277,,False,False,True,,vietnamese_title
+5dbccd915eb7b574ad59b25b,Estudo Rural Em Ré Maior,Bonifrate,unknown,unknown,Os Anoes Da Villa Do Magma,,False,,,False,,False,67278,,False,False,True,,vietnamese_title
+b0eafc3e8b66520023ed79df,Rumo À Lua Num Tapete Voador,Bonifrate,unknown,unknown,Os Anoes Da Villa Do Magma,,False,,,False,,False,67281,,False,False,True,,vietnamese_title
+7a42dc6de7fa1d0e363b08a1,Os Anões Da Villa Do Magma (Parte 3),Bonifrate,unknown,unknown,Os Anoes Da Villa Do Magma,,False,,,False,,False,67284,,False,False,True,,vietnamese_title
+0591e4bdde99faf21f6bfb87,Esse Trem Não Improvisa,Bonifrate,unknown,unknown,Um Futuro Inteiro,,False,,,False,,False,67286,,False,False,True,,vietnamese_title
+038ad4b4413c5a46015fa776,Antena a mirar o coração de Júpiter,Bonifrate,unknown,unknown,Um Futuro Inteiro,,False,,,False,,False,67292,,False,False,True,,vietnamese_title
+2ec1bba8e612fcb1f89a489b,Amplidão,Guizado,unknown,unknown,Calavera,,False,,,False,,False,67297,,False,False,True,,vietnamese_title
+c41719c73b9b9524053a4543,Emanação dos Sonhos,Guizado,unknown,unknown,Calavera,,False,,,False,,False,67300,,False,False,True,,vietnamese_title
+21e12a80d2ccf30c45e1873a,J'ai mai aux dents,Alexandredavidegabriel,unknown,unknown,ALEXANDREDAVIDGABRIEL N°6,,False,,,False,,False,67851,,False,False,True,,vietnamese_title
+1a3e2d31870e936b3db17cdd,Sirenity,Aaron Ximm,unknown,unknown,Handpans and the Hang,,False,,,False,,False,68365,,False,True,False,,vietnamese_artist
+87ff0635423a1f7885211fbf,"No, really. Everything is fine.",Aaron Ximm,unknown,unknown,Handpans and the Hang,,False,,,False,,False,68366,,False,True,False,,vietnamese_artist
+17203e0ff4f482b91b54ac67,Papadom,Aaron Ximm,unknown,unknown,Handpans and the Hang,,False,,,False,,False,68367,,False,True,False,,vietnamese_artist
+6484ff3436a9edcd0e2cab9e,Idle Hands,Aaron Ximm,unknown,unknown,Handpans and the Hang,,False,,,False,,False,68368,,False,True,False,,vietnamese_artist
+2c8a279977fc836ccbae9f07,Pole Stars,Aaron Ximm,unknown,unknown,Handpans and the Hang,,False,,,False,,False,68369,,False,True,False,,vietnamese_artist
+cf111027e4908eaf7c49d4af,Ake Uno,Aaron Ximm,unknown,unknown,Handpans and the Hang,,False,,,False,,False,68370,,False,True,False,,vietnamese_artist
+9c1018fad236652858e67f8a,Spring Rain,Aaron Ximm,unknown,unknown,Handpans and the Hang,,False,,,False,,False,68371,,False,True,False,,vietnamese_artist
+e7f4cdd56d89c1b8b608a350,"Angela Climbs a Boulder at Horn Creek, the Sun Sets, the Bat Flies By",Aaron Ximm,unknown,unknown,Handpans and the Hang,,False,,,False,,False,68372,,False,True,False,,vietnamese_artist
+c2e57844300a3c25645c318e,Blue Moon Gold Sun,Aaron Ximm,unknown,unknown,Handpans and the Hang,,False,,,False,,False,68373,,False,True,False,,vietnamese_artist
+9fc8ebcfe40be2274a9aba17,Hijazkiar Prototype Improvisation,Aaron Ximm,unknown,unknown,Handpans and the Hang,,False,,,False,,False,68374,,False,True,False,,vietnamese_artist
+84bb22a33cdac35dd196825e,Halo-centric Hang/Halo improvisation,Aaron Ximm,unknown,unknown,Handpans and the Hang,,False,,,False,,False,68375,,False,True,False,,vietnamese_artist
+a8aa58135465677ffee6c5e9,Hang-centric Hang/Halo improvisation,Aaron Ximm,unknown,unknown,Handpans and the Hang,,False,,,False,,False,68376,,False,True,False,,vietnamese_artist
+05a0d38e65404d33a7b9e9a3,O Neurónio Que Estorou (The Neuron That Blew Up),Stealing Orchestra,unknown,unknown,Stereogamy,,False,,,False,,False,68959,,False,False,True,,vietnamese_title
+ffd052eb9d21a1ae544bdecb,Helica - Fosses à Oiseaux (Mvnt 12),Christophe Guiraud and Ensemble La Grive,unknown,unknown,Classwar Karaoke - 0019 Survey,,False,,,False,,False,69484,,False,False,True,,vietnamese_title
+e2c4cb4c6c47c9f927700913,Canção de Alvito,Alexandre Bateiras,unknown,unknown,Canções da Lua Nova,,False,,,False,,False,70855,,False,False,True,,vietnamese_title
+bfa7d26dffa062dafa7d0494,Canção da Ribeira,Alexandre Bateiras,unknown,unknown,Canções da Lua Nova,,False,,,False,,False,70860,,False,False,True,,vietnamese_title
+fb4ff3b90819891af2b73ef0,Variações Sobre um tema Melancólico,Alexandre Bateiras,unknown,unknown,Canções da Lua Nova,,False,,,False,,False,70861,,False,False,True,,vietnamese_title
+23dcc18884ed1b76c22156ee,Valsa em Fá# Menor,Alexandre Bateiras,unknown,unknown,Canções da Lua Nova,,False,,,False,,False,70864,,False,False,True,,vietnamese_title
+84693d295fea4ef416824e2b,Que Deus Te Dê O Dobro De Tudo O Que Nos Desejares,Stealing Orchestra,unknown,unknown,The Incredible Shrinking Band,,False,,,False,,False,70916,,False,False,True,,vietnamese_title
+6b2dc0f84a4eade2e5826725,Comunicação Final,J-K,unknown,unknown,Armadura Brilhante,,False,,,False,,False,71223,,False,False,True,,vietnamese_title
+c13c102b9f280ea8790aff19,Não Dá (feat. Prodigio),Dengaz,unknown,unknown,AHYA,datasets\fma\audio\c13c102b9f280ea8790aff19.mp3,True,,,False,,False,71250,,False,False,True,,vietnamese_title
+606944692b40589d71d89f4a,Flutuando em águas tropicais,Clorofila Azul,unknown,unknown,Revisitado (sem Voz),,False,,,False,,False,71442,,False,False,True,,vietnamese_title
+4aebf0ce82e12db0d4f380c5,Introspecção,Clorofila Azul,unknown,unknown,Revisitado (sem Voz),,False,,,False,,False,71443,,False,False,True,,vietnamese_title
+a55480ecfb9c7ff963dda556,Filtre à Particules,Doctor Bux,unknown,unknown,La Encarnaciòn De Los Champiñones,,False,,,False,,False,71530,,False,False,True,,vietnamese_title
+8a81e632857bd55bd4ec4b3e,À Deriva,Azevedo Silva,unknown,unknown,Autista,,False,,,False,,False,72095,,False,False,True,,vietnamese_title
+cbcd76f83e0984387c341d18,Meu irmão é louco,Seychelles,unknown,unknown,November Playlist,,False,,,False,,False,72214,,False,False,True,,vietnamese_title
+8bb26e8c959363c8d2830167,kad dođe maj,Mršavi Pas,unknown,unknown,slitzweitz,,False,,,False,,False,72616,,False,False,True,,vietnamese_title
+eafc3635d6fba47991fc5d3a,gadan đavolan,Mršavi Pas,unknown,unknown,slitzweitz,,False,,,False,,False,72636,,False,False,True,,vietnamese_title
+b386808b9acd126cd08adae4,À Deriva,Azevedo Silva,unknown,unknown,Ao Vivo na Sociedade,,False,,,False,,False,72667,,False,False,True,,vietnamese_title
+5f6c6fe086a4426c099a9388,A Morte Saiu À Rua,Azevedo Silva,unknown,unknown,Ao Vivo na Sociedade,,False,,,False,,False,72671,,False,False,True,,vietnamese_title
+f13efb94200b2e6b537c2d65,uncle issues song,André Damião,unknown,unknown,Classwar Karaoke - 0020 Survey,,False,,,False,,False,73213,,False,True,False,,vietnamese_artist
+ac66f271c6e4ed21a52e23b6,Zigzag Slow Burning,João Guimarães,unknown,unknown,Classwar Karaoke - 0020 Survey,,False,,,False,,False,73251,,False,True,False,,vietnamese_artist
+d9c74a0aa46b23064c7f446a,Ñâåò-Ñíåã,Molecul,unknown,unknown,Где нет места цифрам…осталась ЛЮБОВЬ?,,False,,,False,,False,75240,,False,False,True,,vietnamese_title
+f79db5c3c421a32779a73edf,Â Êëåòêàõ Áèòûõ Îêîí,Molecul,unknown,unknown,Где нет места цифрам…осталась ЛЮБОВЬ?,,False,,,False,,False,75245,,False,False,True,,vietnamese_title
+62fbd7c39d52cf8f23751455,Đorđe u polju mesecokreta,Napred u prošlost,unknown,unknown,Moon Boys,,False,,,False,,False,75502,,False,False,True,,vietnamese_title
+4240f86d3a0434b89c0c9ea9,Đe je medo,Napred u prošlost,unknown,unknown,Moon Boys,,False,,,False,,False,75524,,False,False,True,,vietnamese_title
+fa997737dbf27450040b5871,Vođa,Napred u prošlost,unknown,unknown,Moon Boys,,False,,,False,,False,75529,,False,False,True,,vietnamese_title
+49a48dd42c973e1963825bca,Hey maman j ai enregistré,Nicolas Tic Tac,unknown,unknown,Téte de MO,,False,,,False,,False,76039,,False,False,True,,vietnamese_title
+8fabf5003f2672d848226ac5,Koliada: Na Vidkhadi,Koliadnyky of Kryvorivnia,unknown,unknown,Live on Airborne Event with Dan Bodah 12/24/12,,False,,,False,,False,76066,,False,True,False,,vietnamese_artist;vietnamese_country
+1e2c575161bead5ea7d32712,Ples (Winter Dance),Koliadnyky of Kryvorivnia,unknown,unknown,Live on Airborne Event with Dan Bodah 12/24/12,,False,,,False,,False,76067,,False,True,False,,vietnamese_artist;vietnamese_country
+3e4aabb56db08be2b457b546,Koliada: Is The Master Home?,Koliadnyky of Kryvorivnia,unknown,unknown,Live on Airborne Event with Dan Bodah 12/24/12,,False,,,False,,False,76068,,False,True,False,,vietnamese_artist;vietnamese_country
+a3c9406d974dfb2a7c5dd860,Still the River Flows (Rhyming Song),Koliadnyky of Kryvorivnia,unknown,unknown,Live on Airborne Event with Dan Bodah 12/24/12,datasets\fma\audio\a3c9406d974dfb2a7c5dd860.mp3,True,,,False,,False,76069,,False,True,False,,vietnamese_artist;vietnamese_country
+2a878a3831799aeb6d624bec,Koliada to the Lady of the House,Koliadnyky of Kryvorivnia,unknown,unknown,Live on Airborne Event with Dan Bodah 12/24/12,,False,,,False,,False,76070,,False,True,False,,vietnamese_artist;vietnamese_country
+c267478f21a4c488953d6825,Duda (Bagpipes),Koliadnyky of Kryvorivnia,unknown,unknown,Live on Airborne Event with Dan Bodah 12/24/12,datasets\fma\audio\c267478f21a4c488953d6825.mp3,True,,,False,,False,76071,,False,True,False,,vietnamese_artist;vietnamese_country
+fb5b2df9aa90a615e226e725,Greeting Tune,Koliadnyky of Kryvorivnia,unknown,unknown,Live on Airborne Event with Dan Bodah 12/24/12,datasets\fma\audio\fb5b2df9aa90a615e226e725.mp3,True,,,False,,False,76072,,False,True,False,,vietnamese_artist;vietnamese_country
+ff14e846465f14c640459374,Arkan (Men's Dance),Koliadnyky of Kryvorivnia,unknown,unknown,Live on Airborne Event with Dan Bodah 12/24/12,datasets\fma\audio\ff14e846465f14c640459374.mp3,True,,,False,,False,76073,,False,True,False,,vietnamese_artist;vietnamese_country
+a50ac60b6130a654baefc08d,Jaw Harps,Koliadnyky of Kryvorivnia,unknown,unknown,Live on Airborne Event with Dan Bodah 12/24/12,datasets\fma\audio\a50ac60b6130a654baefc08d.mp3,True,,,False,,False,76074,,False,True,False,,vietnamese_artist;vietnamese_country
+7c5a18577adb94e2f5095164,Tylynka (Overture Flute),Koliadnyky of Kryvorivnia,unknown,unknown,Live on Airborne Event with Dan Bodah 12/24/12,datasets\fma\audio\7c5a18577adb94e2f5095164.mp3,True,,,False,,False,76075,,False,True,False,,vietnamese_artist;vietnamese_country
+b031715d6cbe638fd78b3435,Tsymbaly Solo,Koliadnyky of Kryvorivnia,unknown,unknown,Live on Airborne Event with Dan Bodah 12/24/12,datasets\fma\audio\b031715d6cbe638fd78b3435.mp3,True,,,False,,False,76076,,False,True,False,,vietnamese_artist;vietnamese_country
+8f5241d05a27a0abfb3b6f46,Hutsulka (Dance Number),Koliadnyky of Kryvorivnia,unknown,unknown,Live on Airborne Event with Dan Bodah 12/24/12,datasets\fma\audio\8f5241d05a27a0abfb3b6f46.mp3,True,,,False,,False,76077,,False,True,False,,vietnamese_artist;vietnamese_country
+d8fab21415b920b3b010830e,Koliada: Good Evening (with Lemon Bucket Orkestra members),Koliadnyky of Kryvorivnia,unknown,unknown,Live on Airborne Event with Dan Bodah 12/24/12,datasets\fma\audio\d8fab21415b920b3b010830e.mp3,True,,,False,,False,76078,,False,True,False,,vietnamese_artist;vietnamese_country
+40f9e3b91b0e3a283ced02ef,Kruhliyek (Round Dance for Bees) & Ples (Well Wishes),Koliadnyky of Kryvorivnia,unknown,unknown,Live on Airborne Event with Dan Bodah 12/24/12,datasets\fma\audio\40f9e3b91b0e3a283ced02ef.mp3,True,,,False,,False,76079,,False,True,False,,vietnamese_artist;vietnamese_country
+b3aae229c74f6bca732ccece,Petite pause à Worktown,Mike Morton,unknown,unknown,Pop in Bouvet - Vol.1,,False,,,False,,False,76698,,False,False,True,,vietnamese_title
+ffae49c9f21100f195e2f6f9,Parade à la fête nationale,Mike Morton,unknown,unknown,Pop in Bouvet - Vol.1,,False,,,False,,False,76706,,False,False,True,,vietnamese_title
+e38df5ffcaa7d9b384490f68,Fictitious Force,All Scars,unknown,unknown,live on WMUC 4/5/98,,False,,,False,,False,78423,,False,False,False,,vietnamese_tag
+dbf43d29edb2590fc8963c05,Airwaves Of Tomorrow,All Scars,unknown,unknown,live on WMUC 4/5/98,,False,,,False,,False,78424,,False,False,False,,vietnamese_tag
+06d9f171a3856edcc57c0e3b,Coraçãozinho de Satã,Stray,unknown,unknown,Coraçãozinho de Satã,,False,,,False,,False,78844,,False,False,True,,vietnamese_title
+34c230b6ab83387e512554ff,Vol à Main Nue,Debmaster,unknown,unknown,Crevin,,False,,,False,,False,79249,,False,False,True,,vietnamese_title
+53fcbd63a9d98a817b4df316,Mooon as,João Guimarães,unknown,unknown,Classwar Karaoke - 0021 Survey,,False,,,False,,False,79455,,False,True,False,,vietnamese_artist
+0552cfe3c9edeb715bb7f406,Dust,"Paulo Chagas, Fernando Simões and Rosendo J. Rocha",unknown,unknown,Classwar Karaoke - 0021 Survey,,False,,,False,,False,79478,,False,True,False,,vietnamese_artist
+49b8b88ab97ee54cff6596dd,Feijão,Dr. Quandary,unknown,unknown,"netBloc Vol. 42: Life, The Universe & Everything",,False,,,False,,False,82499,,False,False,True,,vietnamese_title
+bcc851939e4c7e1bd8980e0a,do mesmo no mesmo lugar nao cabe,Filipe Guimarães,unknown,unknown,Psiquiatra,,False,,,False,,False,83398,,False,True,False,,vietnamese_artist
+4a1ca5bf40de8d5f2043332b,aca-bou,Filipe Guimarães,unknown,unknown,Psiquiatra,,False,,,False,,False,83399,,False,True,False,,vietnamese_artist
+007b0043ca185b0a0381be55,calma ae,Filipe Guimarães,unknown,unknown,Psiquiatra,,False,,,False,,False,83400,,False,True,False,,vietnamese_artist
+0356c7d656934d0db9d02f05,Castigado e ferido,Filipe Guimarães,unknown,unknown,Psiquiatra,,False,,,False,,False,83401,,False,True,False,,vietnamese_artist
+353e7bb21f255cbed99800eb,cuidado com tempo,Filipe Guimarães,unknown,unknown,Psiquiatra,,False,,,False,,False,83402,,False,True,False,,vietnamese_artist
+9caefcb176258a7768a4fd1e,DEUS,Filipe Guimarães,unknown,unknown,Psiquiatra,,False,,,False,,False,83403,,False,True,False,,vietnamese_artist
+86c9c462503a5f4b4079edc4,eletricphone gun,Filipe Guimarães,unknown,unknown,Psiquiatra,,False,,,False,,False,83404,,False,True,False,,vietnamese_artist
+3b909d4569e9f0ec2c2bf828,eletricphone2,Filipe Guimarães,unknown,unknown,Psiquiatra,,False,,,False,,False,83405,,False,True,False,,vietnamese_artist
+5e5baae2fdf3a05d0eea021b,estato,Filipe Guimarães,unknown,unknown,Psiquiatra,,False,,,False,,False,83406,,False,True,False,,vietnamese_artist
+dd01f9420d557ef4aeac3d66,fincafacanoce,Filipe Guimarães,unknown,unknown,Psiquiatra,,False,,,False,,False,83407,,False,True,False,,vietnamese_artist
+8b1a599818b6bc92bcdce7b7,intro,Filipe Guimarães,unknown,unknown,Psiquiatra,,False,,,False,,False,83408,,False,True,False,,vietnamese_artist
+a26e5b8ab8f694f78bee0cde,LIGAÇÃO INDIRETA,Filipe Guimarães,unknown,unknown,Psiquiatra,,False,,,False,,False,83409,,False,True,True,,vietnamese_artist;vietnamese_title
+333057952d7fdcacd2cf2ede,Preciso falar auto,Filipe Guimarães,unknown,unknown,Psiquiatra,,False,,,False,,False,83410,,False,True,False,,vietnamese_artist
+4d384fbc714e319566608265,Sera que,Filipe Guimarães,unknown,unknown,Psiquiatra,,False,,,False,,False,83411,,False,True,False,,vietnamese_artist
+a7739331af6a436bd04ab499,sinfonia do andarilho,Filipe Guimarães,unknown,unknown,Psiquiatra,,False,,,False,,False,83412,,False,True,False,,vietnamese_artist
+2026e35476b7b487d062fb4c,suco,Filipe Guimarães,unknown,unknown,Psiquiatra,,False,,,False,,False,83413,,False,True,False,,vietnamese_artist
+733d9d70f3e5844686e0ad0f,tEVELIZAO,Filipe Guimarães,unknown,unknown,Psiquiatra,,False,,,False,,False,83414,,False,True,False,,vietnamese_artist
+5e85798401ebc109959473d4,tiligando,Filipe Guimarães,unknown,unknown,Psiquiatra,,False,,,False,,False,83415,,False,True,False,,vietnamese_artist
+95cf03141acc35bc9b5c954c,todas as mentiras,Filipe Guimarães,unknown,unknown,Psiquiatra,,False,,,False,,False,83416,,False,True,False,,vietnamese_artist
+ef5792a7f06433bfe4483e18,um começo,Filipe Guimarães,unknown,unknown,Psiquiatra,,False,,,False,,False,83417,,False,True,False,,vietnamese_artist
+3c42567f4034bdd521b874e2,Pripitomljeni đavo,Vlasta Popić,unknown,unknown,Za očnjake,,False,,,False,,False,83635,,False,False,True,,vietnamese_title
+154c7a92ae264794181ce685,Finding the Right Self-Schema (With Rodrigo Leão),Stealing Orchestra,unknown,unknown,Deliverance,,False,,,False,,False,84884,,False,False,True,,vietnamese_title
+7269ac872928a2008f316056,Live at Trem Azul,Pão,unknown,unknown,Live at Trem Azul,,False,,,False,,False,86888,,False,True,False,,vietnamese_artist
+a8e9e6e63bbdc8fed7da6af4,Lekrona Tchieb (une fille de là-bas),RÉGIS VICTOR,unknown,unknown,DIMANCHE MINUIT,,False,,,False,,False,88044,,False,False,True,,vietnamese_title
+b820a1aad8618d645cfaa49d,Petite pièce pour avions à moteur,RÉGIS VICTOR,unknown,unknown,DIMANCHE MINUIT,,False,,,False,,False,88050,,False,False,True,,vietnamese_title
+52ca0ccd7ad3028cb18d2b9c,The Crack In Space Pt1,João Guimarães and João Filipe,unknown,unknown,Classwar Karaoke - 0023 Survey,,False,,,False,,False,89926,,False,True,False,,vietnamese_artist
+3140c0febd9f1acd9f1f68a4,j'ai copié Mogwaï mais on m'a dit qu'ils faisaient pareil,Gablé,unknown,unknown,seminéoproantiantiantifolk,,False,,,False,,False,91265,,False,False,True,,vietnamese_title
+936945f2dcc58fe8d6041089,Anđeli,Čopor,unknown,unknown,Ukleti Holandez,,False,,,False,,False,93340,,False,False,True,,vietnamese_title
+bc35f51fa870d964fc55cdc0,Appel à la prière (feat. Eddie Wagner),YlangYlang,unknown,unknown,Fantasmagories,,False,,,False,,False,94066,,False,False,True,,vietnamese_title
+63a94619a1717d45fcaff36b,Ton Rouge à Lèvres,ICE FLEX,unknown,unknown,L'homme qui viens du froid,,False,,,False,,False,94235,,False,False,True,,vietnamese_title
+e7e7763e5414067c49f1fd3c,Em Trânsito,Butterbox,unknown,unknown,Life Is Just That Simple,,False,,,False,,False,94727,,False,False,True,,vietnamese_title
+be80fc677332bf7a922bd590,Enregistré À Paris (26/04/2010),Opéra Mort,unknown,unknown,Split Cassette,,False,,,False,,False,96620,,False,False,True,,vietnamese_title
+be81ad554b142bd59de004e9,Enregistré À San Diego (27/03/2011),Opéra Mort,unknown,unknown,Split Cassette,,False,,,False,,False,96621,,False,False,True,,vietnamese_title
+6430fb52595a4f45ef592c11,Enregistré À Portland (29/03/2011),Opéra Mort + Smegma,unknown,unknown,Split Cassette,,False,,,False,,False,96622,,False,False,True,,vietnamese_title
+9444f27e838d74f73faa8e1b,Enregistré À Prague (01/04/2010),Opéra Mort,unknown,unknown,Split Cassette,,False,,,False,,False,96623,,False,False,True,,vietnamese_title
+6bea2ee37eb60e8b4e017179,Messin Plutôt Que Français,Noir Boy George,unknown,unknown,Metz Noire,,False,,,False,,False,97113,,False,False,True,,vietnamese_title
+ea3a502d7cd0ec7b9c93260e,Aflicoes momentanias iper realistas,Filipe Guimarães,unknown,unknown,agudo,,False,,,False,,False,97698,,False,True,False,,vietnamese_artist
+398cd71739dae4c61c5dd297,Loja de chines,Filipe Guimarães,unknown,unknown,agudo,,False,,,False,,False,97699,,False,True,False,,vietnamese_artist
+2a6ef35a90058d8045162d80,Apaixonado por voce,Filipe Guimarães,unknown,unknown,agudo,,False,,,False,,False,97700,,False,True,False,,vietnamese_artist
+1c57fb724c4a617610d6f2a2,Bloqueios imediatos,Filipe Guimarães,unknown,unknown,agudo,,False,,,False,,False,97701,,False,True,False,,vietnamese_artist
+6a15797dbbc6ccc4dc74f1d5,eu sou uma metafora 2,Filipe Guimarães,unknown,unknown,agudo,,False,,,False,,False,97702,,False,True,False,,vietnamese_artist
+b4f5576d6735cb92e01f4b23,Cor -ti-zona,Filipe Guimarães,unknown,unknown,agudo,,False,,,False,,False,97703,,False,True,False,,vietnamese_artist
+5aebc3ec8c515beda2613dd4,Retrato realista,Filipe Guimarães,unknown,unknown,agudo,,False,,,False,,False,97704,,False,True,False,,vietnamese_artist
+dc77279001fb221a8ce32e45,LAmentos,Filipe Guimarães,unknown,unknown,agudo,,False,,,False,,False,97705,,False,True,False,,vietnamese_artist
+5e21d0f630691942060cfdb9,CApotagem,Filipe Guimarães,unknown,unknown,agudo,,False,,,False,,False,97706,,False,True,False,,vietnamese_artist
+aa37df829d10c6097b1b8d74,EUCLIDES o Maquinista,Filipe Guimarães,unknown,unknown,agudo,,False,,,False,,False,97707,,False,True,False,,vietnamese_artist
+faa3f520c3005d56a9347f43,Entrando de fininho,Filipe Guimarães,unknown,unknown,agudo,,False,,,False,,False,97708,,False,True,False,,vietnamese_artist
+bfc71712744f624a59ea65c7,"Eu, cavalo,cachorro",Filipe Guimarães,unknown,unknown,Recomendo o improviso para  o  tratamentode de formas,,False,,,False,,False,97713,,False,True,False,,vietnamese_artist
+75a3e95cea543a188d15e247,Dividindo a mesma reta com um ponto sem você perceber,Filipe Guimarães,unknown,unknown,Recomendo o improviso para  o  tratamentode de formas,,False,,,False,,False,97714,,False,True,False,,vietnamese_artist
+8218c3f19280eb2202460184,Com a cabeça depois do mar,Filipe Guimarães,unknown,unknown,Recomendo o improviso para  o  tratamentode de formas,,False,,,False,,False,97715,,False,True,False,,vietnamese_artist
+b3e7f7269ae49e21c609cee3,Extremidades,Filipe Guimarães,unknown,unknown,Recomendo o improviso para  o  tratamentode de formas,,False,,,False,,False,97716,,False,True,False,,vietnamese_artist
+548b6c499e20b7d7e69335b0,Tangente,Filipe Guimarães,unknown,unknown,Recomendo o improviso para  o  tratamentode de formas,,False,,,False,,False,97717,,False,True,False,,vietnamese_artist
+41d1e6f44fa42aba5c6485ad,MEdiatriz,Filipe Guimarães,unknown,unknown,Recomendo o improviso para  o  tratamentode de formas,,False,,,False,,False,97718,,False,True,False,,vietnamese_artist
+4fde6ee36a7cfd53b9ced341,Impedido pela fumaça,Filipe Guimarães,unknown,unknown,Recomendo o improviso para  o  tratamentode de formas,,False,,,False,,False,97719,,False,True,False,,vietnamese_artist
+84875367d5ab2473ef4ce927,Recomendando as formas como tratamento para  alterção de humor,Filipe Guimarães,unknown,unknown,Recomendo o improviso para  o  tratamentode de formas,,False,,,False,,False,97720,,False,True,True,,vietnamese_artist;vietnamese_title
+486a12ced1ceb6dab7692010,Segmentos consecutivos não lineares,Filipe Guimarães,unknown,unknown,Recomendo o improviso para  o  tratamentode de formas,,False,,,False,,False,97721,,False,True,True,,vietnamese_artist;vietnamese_title
+c22227e0242c1b1e6ffae455,Me larga,Filipe Guimarães,unknown,unknown,Recomendo o improviso para  o  tratamentode de formas,,False,,,False,,False,97722,,False,True,False,,vietnamese_artist
+fc1d7fb8c4e8d04c1f8c85d6,Operario padrão,Filipe Guimarães,unknown,unknown,Recomendo o improviso para  o  tratamentode de formas,,False,,,False,,False,97723,,False,True,True,,vietnamese_artist;vietnamese_title
+122c172deef7dd4896db4dfd,le cri,Filipe Guimarães,unknown,unknown,revolucao francesa,,False,,,False,,False,97724,,False,True,False,,vietnamese_artist
+6243125b77f733c4c7fc9274,secours,Filipe Guimarães,unknown,unknown,revolucao francesa,,False,,,False,,False,97725,,False,True,False,,vietnamese_artist
+8224fd089c5f55c760c5b2f1,Primeira Creação,DMN Productions,unknown,unknown,Atomic Sound,,False,,,False,,False,97737,,False,False,True,,vietnamese_title
+f47949bde1a99d75d2c476fc,Dr. Matatu,REW<<,unknown,unknown,Departeures,,False,,,False,,False,101265,,False,False,False,,vietnamese_tag
+09b7611d5e574e0115226f42,"Rush, Bye",REW<<,unknown,unknown,Departeures,,False,,,False,,False,101266,,False,False,False,,vietnamese_tag
+85621c00657fea6b9f8b2899,Departeures,REW<<,unknown,unknown,Departeures,,False,,,False,,False,101269,,False,False,False,,vietnamese_tag
+659179729d06b61d3a313d72,Oh Wounded Butterfly,REW<<,unknown,unknown,Departeures,,False,,,False,,False,101271,,False,False,False,,vietnamese_tag
+e4787c7fc712d9681b8d9b1d,¡Domino!,REW<<,unknown,unknown,Departeures,,False,,,False,,False,101272,,False,False,False,,vietnamese_tag
+859b38b20ba70ed44fb7bfd5,Forgery,REW<<,unknown,unknown,Departeures,,False,,,False,,False,101275,,False,False,False,,vietnamese_tag
+43551ed021cd8931b654d213,Sensed Horse,REW<<,unknown,unknown,Departeures,,False,,,False,,False,101276,,False,False,False,,vietnamese_tag
+ae09fbf50c3d2b33f52bf030,In Waves,REW<<,unknown,unknown,Departeures,,False,,,False,,False,101277,,False,False,False,,vietnamese_tag
+d9f076f23389f31b8276486f,Arriver,REW<<,unknown,unknown,Departeures,,False,,,False,,False,101278,,False,False,False,,vietnamese_tag
+30657ed0cb1161f03ae02fb1,Weight Lifting Montage,REW<<,unknown,unknown,Departeures,,False,,,False,,False,102177,,False,False,False,,vietnamese_tag
+a991ad33d353d5da8d26ec6f,Sedução Momentânea,Roulet,unknown,unknown,Beats d'Amor,,False,,,False,,False,105384,,False,False,True,,vietnamese_title
+ac2b6db190107948bb0461c1,Amigo é aquele que te diz que tens um macaco no nariz,Stealing Orchestra & Rafael Dionísio,unknown,unknown,& Rafael Dionísio - Uma Desgraça Nunca Vem Só,,False,,,False,,False,106325,,False,False,True,,vietnamese_title
+0193d9741df7e6a909827b35,"Ai Maria, é tanto o teu drama que já nem vou contigo à missa",Stealing Orchestra & Rafael Dionísio,unknown,unknown,& Rafael Dionísio - Uma Desgraça Nunca Vem Só,,False,,,False,,False,106326,,False,False,True,,vietnamese_title
+148db3b8c249ddbd89d178d6,A tua choradeira é meio salário em lenços,Stealing Orchestra & Rafael Dionísio,unknown,unknown,& Rafael Dionísio - Uma Desgraça Nunca Vem Só,,False,,,False,,False,106330,,False,False,True,,vietnamese_title
+5fead46b5b177acd13eb6838,Paris j'ai pris perpète,Émilie Simon,unknown,unknown,"Live on WFMU's Dark Night of the Soul with Julie - June 19, 2014",,False,,,False,,False,106842,,False,False,True,,vietnamese_title
+4cfe011bb4b8120cb8acac5c,On a qu'à se dire que l'on s'en fout,Aussitôt Mort / MORT MORT MORT,unknown,unknown,Montuenga,datasets\fma\audio\4cfe011bb4b8120cb8acac5c.mp3,True,,,False,,False,107389,,False,False,True,,vietnamese_title
+bf0354ef7efbc1ca8ccc8aed,Track 1,Vpopolam,unknown,unknown,Bez alboma,,False,,,False,,False,107790,,False,True,False,,vietnamese_artist;vietnamese_tag
+a7a8118919e5d5ce9e23b5ef,Track 2,Vpopolam,unknown,unknown,Bez alboma,,False,,,False,,False,107791,,False,True,False,,vietnamese_artist;vietnamese_tag
+c0e7d34dc2f3596c0cc51503,Track 3 (Featuring DJ_Sapient),Vpopolam,unknown,unknown,Bez alboma,,False,,,False,,False,107792,,False,True,False,,vietnamese_artist;vietnamese_tag
+6d75f97beb8297c750692421,Track 4,Vpopolam,unknown,unknown,Bez alboma,,False,,,False,,False,107793,,False,True,False,,vietnamese_artist;vietnamese_tag
+bed3eec4291aa381e67e2fdc,Track 5,Vpopolam,unknown,unknown,Bez alboma,,False,,,False,,False,107794,,False,True,False,,vietnamese_artist;vietnamese_tag
+3af1a9e4048bc4ed219ac106,Track 6,Vpopolam,unknown,unknown,Bez alboma,,False,,,False,,False,107795,,False,True,False,,vietnamese_artist;vietnamese_tag
+f7e1e92463b8ef057053f8cb,Waiting For The Light (Featuring Abhi S.V. & snowflake),Vpopolam,unknown,unknown,Bez alboma,,False,,,False,,False,107796,,False,True,False,,vietnamese_artist;vietnamese_tag
+4f404a7baddc62c07df9ea12,"Por mí, que llueva",Maria Pien,unknown,unknown,La Vuelta Manzana,,False,,,False,,False,108164,,False,False,True,,vietnamese_title
+facaff2d187bb725fe327d02,Não Adormeças,Jazzafari,unknown,unknown,Jazzafari BeaTape Vol.1,,False,,,False,,False,108209,,False,False,True,,vietnamese_title
+5c1eae08fe67102ee9774f97,Povo Que Caís Descalço,Dead Combo,unknown,unknown,CC Affiliates Mixtape #1,datasets\fma\audio\5c1eae08fe67102ee9774f97.mp3,True,,,False,,False,113259,,False,False,True,,vietnamese_title
+fedc50e1101de94ca6f497d2,Enxugando o Gelo,BNegão and Seletores de Freqüência,unknown,unknown,CC Affiliates Mixtape #1,datasets\fma\audio\fedc50e1101de94ca6f497d2.mp3,True,,,False,,False,113261,,False,True,False,,vietnamese_artist
+f958f568298a838551e6f4ea,Retour à la Normale,Skinfaxe,unknown,unknown,Failure System,,False,,,False,,False,116428,,False,False,True,,vietnamese_title
+6d066e0f601564f033bc4e2a,CE TRUC QUI RESSEMBLE À LA MER,Misiaczek,unknown,unknown,AVANT DERNIÈRE SAVANE,,False,,,False,,False,116433,,False,False,True,,vietnamese_title
+b198c3f4434c17afcb7bfbaa,2,Dan Cantrell,unknown,unknown,2-10,datasets\fma\audio\b198c3f4434c17afcb7bfbaa.mp3,True,,,False,,False,118496,,False,False,False,,vietnamese_tag
+a451d290339dec05f49f5244,rien à redire jingle,LE CHEVALIER DE RINCHY,unknown,unknown,Jingles la radio du MOMI,,False,,,False,,False,118553,,False,False,True,,vietnamese_title
+3e6be885bc3adce8eac28976,À Soi-Même,Shredderghost,unknown,unknown,Golden Cell,,False,,,False,,False,121270,,False,False,True,,vietnamese_title
+64263302d0b6b9e07223ee51,introduction à La chute de la tête du roi,Salmo,unknown,unknown,Kaos O Labo (Piece of Wood),,False,,,False,,False,122687,,False,False,True,,vietnamese_title
+e9ce93717952613f35e2051b,L'enquiquineuse d'à côté,Son Altesse Furieuse,unknown,unknown,Impertinences,,False,,,False,,False,123274,,False,False,True,,vietnamese_title
+62d3403aec605f1dc89681e1,Uma pedra de sal,A Minha Embala (Aline Frazão e César Herranz),unknown,unknown,A Minha Embala,,False,,,False,,False,123475,,False,True,False,,vietnamese_artist
+0e7fe4550abef8c4d89f9be2,Foz,A Minha Embala (Aline Frazão e César Herranz),unknown,unknown,A Minha Embala,,False,,,False,,False,123476,,False,True,False,,vietnamese_artist
+41b08e3f93f33369100cfadc,Assinatura de sal,A Minha Embala (Aline Frazão e César Herranz),unknown,unknown,A Minha Embala,,False,,,False,,False,123477,,False,True,False,,vietnamese_artist
+4133387bf3b018dc24d861b4,Maria Silêncio,A Minha Embala (Aline Frazão e César Herranz),unknown,unknown,A Minha Embala,,False,,,False,,False,123478,,False,True,False,,vietnamese_artist
+21efcee12b0d2301034a32cf,Olhar adiante,A Minha Embala (Aline Frazão e César Herranz),unknown,unknown,A Minha Embala,,False,,,False,,False,123479,,False,True,False,,vietnamese_artist
+3c9e0514f1eae31fff554f35,Kamba de fala,A Minha Embala (Aline Frazão e César Herranz),unknown,unknown,A Minha Embala,,False,,,False,,False,123480,,False,True,False,,vietnamese_artist
+c132a4570c368e54c7523f72,S. tome,A Minha Embala (Aline Frazão e César Herranz),unknown,unknown,A Minha Embala,,False,,,False,,False,123481,,False,True,False,,vietnamese_artist
+9513e6eff267bc317769757c,Jeitos,A Minha Embala (Aline Frazão e César Herranz),unknown,unknown,A Minha Embala,,False,,,False,,False,123482,,False,True,False,,vietnamese_artist
+c4b2af315ae2c2c11e565e06,Sustos (Azureflux Remix),Dragão Inkomodo,unknown,unknown,Pocket Boy,datasets\fma\audio\c4b2af315ae2c2c11e565e06.mp3,True,,,False,,False,123504,,False,True,False,,vietnamese_artist
+5190983225d4bb1afe2bc70a,...E Você Espera Por Tanto Tempo Que Já Não Lembra Mais o Porquê,E A Terra Nunca Me Pareceu Tão Distante,unknown,unknown,Vazio,datasets\fma\audio\5190983225d4bb1afe2bc70a.mp3,True,,,False,,False,123821,,False,True,True,,vietnamese_artist;vietnamese_title
+bef7827cfaa507e9625a179e,Todo Corpo Tem Um Pouco de Prisão,E A Terra Nunca Me Pareceu Tão Distante,unknown,unknown,Vazio,,False,,,False,,False,123822,,False,True,True,,vietnamese_artist;vietnamese_title
+fe7b2d32745a879c913035ad,Janela Aberta,E A Terra Nunca Me Pareceu Tão Distante,unknown,unknown,Vazio,,False,,,False,,False,123823,,False,True,False,,vietnamese_artist
+e8362a504c173227cf80afde,Quando Vão Saber Que Já Apanhei o Suficiente?,E A Terra Nunca Me Pareceu Tão Distante,unknown,unknown,Vazio,,False,,,False,,False,123824,,False,True,True,,vietnamese_artist;vietnamese_title
+478dc289d392c6979b174521,soft malicious,paulo chagas and joão pedro viegas,unknown,unknown,the legendary story of a slug and a beetle,,False,,,False,,False,125049,,False,True,False,,vietnamese_artist
+44d5eadfdbeec03e69d7c723,discussing class differences,paulo chagas and joão pedro viegas,unknown,unknown,the legendary story of a slug and a beetle,,False,,,False,,False,125050,,False,True,False,,vietnamese_artist
+b5261a8bebd2ea27007f83e2,congenital indecision,paulo chagas and joão pedro viegas,unknown,unknown,the legendary story of a slug and a beetle,,False,,,False,,False,125051,,False,True,False,,vietnamese_artist
+da759951ea34411ff65a3715,the beginning of a great friendship,paulo chagas and joão pedro viegas,unknown,unknown,the legendary story of a slug and a beetle,,False,,,False,,False,125052,,False,True,False,,vietnamese_artist
+49f63995ed0d0a4f3c39b98e,blasphemy,paulo chagas and joão pedro viegas,unknown,unknown,the legendary story of a slug and a beetle,,False,,,False,,False,125053,,False,True,False,,vietnamese_artist
+e199742e71f2e6b3e93ffe8a,discussion,paulo chagas and joão pedro viegas,unknown,unknown,the legendary story of a slug and a beetle,,False,,,False,,False,125054,,False,True,False,,vietnamese_artist
+0390373dd6fcdfb3370e3ce2,safardana,paulo chagas and joão pedro viegas,unknown,unknown,the legendary story of a slug and a beetle,,False,,,False,,False,125055,,False,True,False,,vietnamese_artist
+5933950cbd0da88d857ff9d7,mitigation of the conflicts,paulo chagas and joão pedro viegas,unknown,unknown,the legendary story of a slug and a beetle,,False,,,False,,False,125056,,False,True,False,,vietnamese_artist
+b0d7057d5934d845a0ba5e59,a beautiful blanket of slugs and beetles,paulo chagas and joão pedro viegas,unknown,unknown,the legendary story of a slug and a beetle,,False,,,False,,False,125057,,False,True,False,,vietnamese_artist
+8ff9234999d7967e494626d9,convergence,paulo chagas and joão pedro viegas,unknown,unknown,the legendary story of a slug and a beetle,,False,,,False,,False,125058,,False,True,False,,vietnamese_artist
+39f8caa36aa3f913a7b46cef,circumlocution,paulo chagas and joão pedro viegas,unknown,unknown,the legendary story of a slug and a beetle,,False,,,False,,False,125059,,False,True,False,,vietnamese_artist
+1eaed712c91092de203470a8,composition for improbable lovers,paulo chagas and joão pedro viegas,unknown,unknown,the legendary story of a slug and a beetle,,False,,,False,,False,125060,,False,True,False,,vietnamese_artist
+b8cf40961e5cdea6ca432ccf,pink pussy,paulo chagas and joão pedro viegas,unknown,unknown,the legendary story of a slug and a beetle,,False,,,False,,False,125061,,False,True,False,,vietnamese_artist
+99749ea034b30888aa9eb013,happy end - rejoicing,paulo chagas and joão pedro viegas,unknown,unknown,the legendary story of a slug and a beetle,,False,,,False,,False,125062,,False,True,False,,vietnamese_artist
+a6b26333d19f2f262738647a,Haleine à mourrir,Marylin-Rambo,unknown,unknown,Qu'est ce que tu fais pour les balances,,False,,,False,,False,125543,,False,False,True,,vietnamese_title
+346390e68ea947556f66629d,À_M,João Farelo,unknown,unknown,Falésia 3,,False,,,False,,False,125589,,False,True,False,,vietnamese_artist
+d36e96f0d56806b791f5f93e,Não Há Vacas Sagradas,"P.I.F.(3,14...)",unknown,unknown,Falésia 3,,False,,,False,,False,125593,,False,False,True,,vietnamese_title
+6c32d77fac1e501aa870718b,Força Da Imaginação,Kirk Pearson and BIT,unknown,unknown,"The Curious Appearance of Agloe, NY",,False,,,False,,False,125868,,False,False,True,,vietnamese_title
+33545beeeb5fc558c06c5120,Bad Kisingen,Hissing Fauna,unknown,unknown,Hissing fauna,datasets\fma\audio\33545beeeb5fc558c06c5120.mp3,True,,,False,,False,127268,,False,True,False,,vietnamese_artist;vietnamese_country
+89cdac87ceb4e8d4965145e1,Shine and Hum,Hissing Fauna,unknown,unknown,Hissing fauna,datasets\fma\audio\89cdac87ceb4e8d4965145e1.mp3,True,,,False,,False,127269,,False,True,False,,vietnamese_artist;vietnamese_country
+febc55278acab6394fa6ea9d,I Could Not Run Four Miles Without Stopping,Hissing Fauna,unknown,unknown,Hissing fauna,,False,,,False,,False,127270,,False,True,False,,vietnamese_artist;vietnamese_country
+d1123f5af569fd9a6e932011,Do You Like Forces of Nature?,Hissing Fauna,unknown,unknown,Hissing fauna,datasets\fma\audio\d1123f5af569fd9a6e932011.mp3,True,,,False,,False,127271,,False,True,False,,vietnamese_artist;vietnamese_country
+fc22e103a695884522d32550,Disappear,Hissing Fauna,unknown,unknown,Hissing fauna,,False,,,False,,False,127272,,False,True,False,,vietnamese_artist;vietnamese_country
+45eefe628f0e88ec937482e1,Appeal To,Hissing Fauna,unknown,unknown,Hissing fauna,datasets\fma\audio\45eefe628f0e88ec937482e1.mp3,True,,,False,,False,127273,,False,True,False,,vietnamese_artist;vietnamese_country
+faadc03512b8f89c7d3557ed,This Turkey Town,Hissing Fauna,unknown,unknown,Hissing fauna,datasets\fma\audio\faadc03512b8f89c7d3557ed.mp3,True,,,False,,False,127274,,False,True,False,,vietnamese_artist;vietnamese_country
+7d16c0489c78595c521c8676,Do You Want To Talk About It?,Hissing Fauna,unknown,unknown,Hissing fauna,datasets\fma\audio\7d16c0489c78595c521c8676.mp3,True,,,False,,False,127275,,False,True,False,,vietnamese_artist;vietnamese_country
+86dceaea87fa8762af749a4e,Shin A-lam,Hissing Fauna,unknown,unknown,Hissing fauna,datasets\fma\audio\86dceaea87fa8762af749a4e.mp3,True,,,False,,False,127276,,False,True,False,,vietnamese_artist;vietnamese_country
+4242f3f10cfeaae0b063917f,Être à côté de ses pompes,Alpha Hydrae,unknown,unknown,Peace Love Respect Overdrive,,False,,,False,,False,127959,,False,False,True,,vietnamese_title
+4ba8105538043c502c824389,Văzduh II - Shanyio (ft. moody alien),moody alien,unknown,unknown,from RE- to CO- and inbetween,,False,,,False,,False,128990,,False,False,True,,vietnamese_title
+d449d996464f4c7c2427f2a9,J'ai été au bal,Quimorucru,unknown,unknown,Un méchant party,,False,,,False,,False,129322,,False,False,True,,vietnamese_title
+3760d346ed00f12b6bddaf2a,Pontão,Zé Trigueiros,unknown,unknown,Bear With Me,datasets\fma\audio\3760d346ed00f12b6bddaf2a.mp3,True,,,False,,False,131986,,False,False,True,,vietnamese_title
+dd9a52ea776d50fbe07cd160,A imagem que temos de nós e dos outros,rui,unknown,unknown,La pluie de l'être,,False,,,False,,False,132833,,False,False,True,,vietnamese_title
+cfe2ba784bae0cc0f0255e43,Face à Face,Anga,unknown,unknown,Des premiers mots jusqu'aux plus gros,,False,,,False,,False,135030,,False,False,True,,vietnamese_title
+e0dbbee98e30e887f07f519d,J'ai changé,Anga,unknown,unknown,La Grande Lessive,datasets\fma\audio\e0dbbee98e30e887f07f519d.mp3,True,,,False,,False,135039,,False,False,True,,vietnamese_title
+d57443526748a2d5b63892e8,L'idiome commun à toutes les illusions,Wehwalt Trio,unknown,unknown,Some Great Universes In One Place,,False,,,False,,False,136602,,False,False,True,,vietnamese_title
+8a9e6dd917a05e905ffc5385,Retour à phalanstère,Taulard,unknown,unknown,Les abords du lycée,,False,,,False,,False,138051,,False,False,True,,vietnamese_title
+0d21ec3706f2de451540892f,En montée jusqu'à l'aube,Frédéric Gerchambeau & Zreen Toyz,unknown,unknown,Méta-voyage de l'ouïe,,False,,,False,,False,138382,,False,False,True,,vietnamese_title
+a4bc00bbf52f64a1ddc41a05,Tarse à quatre articles,Launay,unknown,unknown,Dérivations Polytoniques,,False,,,False,,False,138703,,False,False,True,,vietnamese_title
+f9fefa404c71d8cfa6877625,La Lettre à Machine,Monplaisir,unknown,unknown,Heat of the Summer,,False,,,False,,False,140415,,False,False,True,,vietnamese_title
+0060be76a2ddeb4027095e3c,Lo que me dijo satanás,T3r4t0m4,unknown,unknown,La rendición de las piñatas mutantes,,False,,,False,,False,140549,,False,False,True,,vietnamese_title
+91cf22f4b59af179ac0a6367,Rien à ajouter,Monplaisir,unknown,unknown,Vide,,False,,,False,,False,140638,,False,False,True,,vietnamese_title
+885813e0204623d4c52f6a02,"Quand tu es là, il fait chaud et frais",Monplaisir,unknown,unknown,Surtout ne pas se perdre (2011-2016),,False,,,False,,False,140824,,False,False,True,,vietnamese_title
+468f769af2e00188c6c19d03,Verão,Stray,unknown,unknown,Payday Vol​.​ 01,,False,,,False,,False,143370,,False,False,True,,vietnamese_title
+a3d21ff430facf8f3b1e38be,Appel à l'Insurrection I,Symbol Of Subversion,unknown,unknown,Necktar Volume 1,,False,,,False,,False,143463,,False,False,True,,vietnamese_title
+4406f81ebd2bcfa70a1df985,Mais j'ai rien demandé moi,Planetaldol,unknown,unknown,Necktar Volume 1,,False,,,False,,False,143467,,False,False,True,,vietnamese_title
+ba5f5034428aebc7b159b425,Untitled (Extrait - Live à CKUT),Dr. Strangelove,unknown,unknown,Necktar Volume 3,,False,,,False,,False,143812,,False,False,True,,vietnamese_title
+03ca33f72b2414143fbf6a05,J'ai mangé tout les enfants pourris,Micusnule,unknown,unknown,Necktar Volume 3,,False,,,False,,False,143859,,False,False,True,,vietnamese_title
+f129267bc6e2c32a8f59f11f,Mãos Soltas (NO FUTURE Remix),J-K,unknown,unknown,ROXO 01,,False,,,False,,False,143962,,False,False,True,,vietnamese_title
+626df0ff2ea042d37e97199c,Tinto Cão,Monster Jinx,unknown,unknown,Jonster Minx Na K7,,False,,,False,,False,143972,,False,False,True,,vietnamese_title
+78d870e473205de6d5b0c41c,"Dragão Azul, Dragão Vermelho",Monster Jinx,unknown,unknown,Jonster Minx Na K7,,False,,,False,,False,143982,,False,False,True,,vietnamese_title
+47594a6f72f4c1644626c268,Vamos Perguntar à Plateia,Monster Jinx,unknown,unknown,Jonster Minx Na K7,,False,,,False,,False,143983,,False,False,True,,vietnamese_title
+1a88578deb07bc0e2fe851e2,Mãos Soltas,J-K,unknown,unknown,Sorriso Parvo,datasets\fma\audio\1a88578deb07bc0e2fe851e2.mp3,True,,,False,,False,144170,,False,False,True,,vietnamese_title
+f90d573efb07b737ec461ca1,Drujrta (Isidore Go serra éveillé à V),Wild Worm Web,unknown,unknown,Necktar Volume 4,,False,,,False,,False,144701,,False,False,True,,vietnamese_title
+72d38c826426013968082206,Pop Canção,Peninsula Fernandes,unknown,unknown,Risorgimento,,False,,,False,,False,145172,,False,False,True,,vietnamese_title
+a48f1c153f4f5d2fadc865f2,On ne peut pas plaire à tout le monde,The Trash Gentlemen,unknown,unknown,On ne peut pas plaire à tout le monde,,False,,,False,,False,145327,,False,False,True,,vietnamese_title
+68f11f9892e0653882045312,On ne peut pas plaire à tout le monde,The Trash Gentlemen,unknown,unknown,On ne peut pas plaire à tout le monde !,,False,,,False,,False,145330,,False,False,True,,vietnamese_title
+4759573a2d8e04b8d3b4392a,Viville à l'horizon,cuicuitte (feat renoncule) / comme ça,unknown,unknown,Nous avons vu le Diable,,False,,,False,,False,145863,,False,False,True,,vietnamese_title
+c72050c379f5ca2703249507,La ligne qui vous raccordera à ce qui est,L’étrange couleur de l'orichalque,unknown,unknown,Kha Dominant,,False,,,False,,False,145907,,False,False,True,,vietnamese_title
+13984ff9888d6ef043d25369,illusions,luong hue trinh,unknown,unknown,illusions,,False,,,False,,False,146497,,False,True,False,,vietnamese_artist;vietnamese_country
+a140f30e0f7ffee44bc74a19,return ii,luong hue trinh,unknown,unknown,illusions,,False,,,False,,False,146498,,False,True,False,,vietnamese_artist;vietnamese_country
+4ee78b8af1ea2666e26b2e4d,Apprends d'abord à  jongler,Circus Marcus,unknown,unknown,Danse Rémy,,False,,,False,,False,146619,,False,False,True,,vietnamese_title
+9edd3bc7f95562b9899adead,Discusión con una piraña del mercado,L.D.I.,unknown,unknown,La máis,,False,,,False,,False,147177,,False,False,True,,vietnamese_title
+3e69119ade08388d711d008f,Ferrari à cheval,Bernard Massi,unknown,unknown,La P'tite Maison,,False,,,False,,False,148299,,False,False,True,,vietnamese_title
+0778c2586792d0b40daad9e3,Medo de Tentar,E A Terra Nunca Me Pareceu Tão Distante,unknown,unknown,Medo de Morrer | Medo de Tentar,datasets\fma\audio\0778c2586792d0b40daad9e3.mp3,True,,,False,,False,148536,,False,True,False,,vietnamese_artist
+6ae06b6773e41d30a9342712,Medo de Morrer,E A Terra Nunca Me Pareceu Tão Distante,unknown,unknown,Medo de Morrer | Medo de Tentar,datasets\fma\audio\6ae06b6773e41d30a9342712.mp3,True,,,False,,False,148537,,False,True,False,,vietnamese_artist
+64bc0f9e08beece8e399d983,Vous ressemblez à mon ex,Le Manque,unknown,unknown,Ratages et confettis,,False,,,False,,False,148577,,False,False,True,,vietnamese_title
+3e7de4dfe25abcb6f8abd52c,Mourir à Chartres,Le Manque,unknown,unknown,Ratages et confettis,,False,,,False,,False,148582,,False,False,True,,vietnamese_title
+c7e4820e61722b3386085b5a,J'ai mangé mon visage,Monplaisir,unknown,unknown,Lack of Feedback,,False,,,False,,False,149057,,False,False,True,,vietnamese_title
+cb8ccd5945acc07e1c9c1b82,"J'ai dormi, rêvé peut-être ?",Monplaisir,unknown,unknown,Lack of Feedback,,False,,,False,,False,149065,,False,False,True,,vietnamese_title
+69090f546c937364ad64efc1,"Concert à La Bascule, Rennes",Adrien Perron,unknown,unknown,Adrien Perron,,False,,,False,,False,149735,,False,False,True,,vietnamese_title
+2919a7f0574a187e0188c370,"Concert à La Bascule, Rennes",Adrien Perron,unknown,unknown,Adrien Perron,,False,,,False,,False,149736,,False,False,True,,vietnamese_title
+a8862ad0bc5526e85cb1afb3,Guilh'em All-Virage Métal,Guilhem'All,unknown,unknown,Dilemn Volt,,False,,,False,,False,150049,,False,False,True,,vietnamese_title
+a114cb55d9732550f500eb4b,Glace à l'eau,BG du 72,unknown,unknown,Petite Nature Vivante,,False,,,False,,False,151218,,False,False,True,,vietnamese_title
+f4de9cfec7b85d8b262fe82e,Tracé à la Craie,Pollux,unknown,unknown,Lune Rouge,,False,,,False,,False,151580,,False,False,True,,vietnamese_title
+d22594ddbcd86f94c3e08d1b,Ca avait l'air d'être facile,Monplaisir,unknown,unknown,Le chant des Stompbox,,False,,,False,,False,151854,,False,False,True,,vietnamese_title
+a94d32d8bd423ca02826baa4,"Des oiseaux, à perte de vue",Monplaisir,unknown,unknown,Le chant des Stompbox,,False,,,False,,False,151857,,False,False,True,,vietnamese_title
+6a0c04561e4308e7a42cc8c4,L'homme à sept vies,Arnaud Le Gouëfflec meets Jorge Bernstein & the pioupioufuckers at the Bernstein Corporation,unknown,unknown,L'Amour élastique,,False,,,False,,False,153869,,False,False,True,,vietnamese_title
+8fd4d4c5ffed318edd060e99,L'homme à sept vies,Arnaud Le Gouëfflec meets Jorge Bernstein & the pioupioufuckers at the Bernstein Corporation,unknown,unknown,L'Amour elastique,,False,,,False,,False,153874,,False,False,True,,vietnamese_title
+d8e0070bef18f91f8adb1281,Rituel de mise à mort,Emperor of the dust mites,unknown,unknown,Necktar Volume 9.2,,False,,,False,,False,154128,,False,False,True,,vietnamese_title
+863254d973af769026b73aef,La prochaine terre servira de refuge à sa propre candeur,Berger Rond,unknown,unknown,Necktar Volume 9.1,,False,,,False,,False,154218,,False,False,True,,vietnamese_title
+9c6210ee6f38fee033e7c9f0,Il ne fallait plus s'y attendre avec autant de soleil et autant de parapluies à l'entourage,Berger Rond,unknown,unknown,Necktar Volume 9.1,,False,,,False,,False,154220,,False,False,True,,vietnamese_title
+1dad5577eef006fbed317454,Rien à ajouter,Monplaisir,unknown,unknown,A Monplaisir Best-Of ! Let's hear that crap.,,False,,,False,,False,154820,,False,False,True,,vietnamese_title

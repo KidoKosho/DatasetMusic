@@ -1,0 +1,370 @@
+{
+  "total_evidence_collected": 53,
+  "evidence_items": [
+    {
+      "type": "vietnamese_annotation",
+      "source": "kaggle",
+      "field": "dataset_semantics",
+      "value": "vietnam_music_genre",
+      "reason": "dataset_is_curated_vietnamese_music"
+    },
+    {
+      "type": "vietnamese_artist",
+      "source": "vietnam_music_genre",
+      "field": "artist_country",
+      "value": "Vietnam",
+      "reason": "country_is_vietnam"
+    },
+    {
+      "type": "vietnamese_title",
+      "source": "vietnam_music_genre",
+      "field": "title",
+      "value": "Duyên Phận",
+      "reason": "vietnamese_diacritics"
+    },
+    {
+      "type": "vietnamese_genre",
+      "source": "vietnam_music_genre",
+      "field": "genre",
+      "value": "Bolero",
+      "reason": "matched_vietnamese_genre"
+    },
+    {
+      "type": "vietnamese_language",
+      "source": "vietnam_music_genre",
+      "field": "language",
+      "value": "vi"
+    },
+    {
+      "type": "vietnamese_annotation",
+      "source": "kaggle",
+      "field": "dataset_semantics",
+      "value": "vietnam_music_genre",
+      "reason": "dataset_is_curated_vietnamese_music"
+    },
+    {
+      "type": "vietnamese_artist",
+      "source": "vietnam_music_genre",
+      "field": "artist_country",
+      "value": "Vietnam",
+      "reason": "country_is_vietnam"
+    },
+    {
+      "type": "vietnamese_title",
+      "source": "kaggle",
+      "field": "title",
+      "value": "Unknown Track 99",
+      "reason": "curated_vietnam_music_dataset"
+    },
+    {
+      "type": "vietnamese_genre",
+      "source": "vietnam_music_genre",
+      "field": "genre",
+      "value": "Bolero",
+      "reason": "matched_vietnamese_genre"
+    },
+    {
+      "type": "vietnamese_language",
+      "source": "vietnam_music_genre",
+      "field": "language",
+      "value": "vi"
+    },
+    {
+      "type": "vietnamese_annotation",
+      "source": "kaggle",
+      "field": "dataset_semantics",
+      "value": "vietnam_music_genre",
+      "reason": "dataset_is_curated_vietnamese_music"
+    },
+    {
+      "type": "vietnamese_artist",
+      "source": "vietnam_music_genre",
+      "field": "artist_country",
+      "value": "Vietnam",
+      "reason": "country_is_vietnam"
+    },
+    {
+      "type": "vietnamese_title",
+      "source": "kaggle",
+      "field": "title",
+      "value": "100 Years LOVE Single",
+      "reason": "curated_vietnam_music_dataset"
+    },
+    {
+      "type": "vietnamese_tag",
+      "source": "vietnam_music_genre",
+      "field": "tags",
+      "value": "vietnam",
+      "reason": "matched_vietnamese_tag"
+    },
+    {
+      "type": "vietnamese_language",
+      "source": "vietnam_music_genre",
+      "field": "language",
+      "value": "vi"
+    },
+    {
+      "type": "vietnamese_annotation",
+      "source": "kaggle",
+      "field": "dataset_semantics",
+      "value": "vietnam_music_genre",
+      "reason": "dataset_is_curated_vietnamese_music"
+    },
+    {
+      "type": "vietnamese_artist",
+      "source": "vietnam_music_genre",
+      "field": "artist_country",
+      "value": "Vietnam",
+      "reason": "country_is_vietnam"
+    },
+    {
+      "type": "vietnamese_title",
+      "source": "vietnam_music_genre",
+      "field": "title",
+      "value": "Anh Yeu Em",
+      "reason": "vietnamese_phrase_match"
+    },
+    {
+      "type": "vietnamese_tag",
+      "source": "vietnam_music_genre",
+      "field": "tags",
+      "value": "vietnam",
+      "reason": "matched_vietnamese_tag"
+    },
+    {
+      "type": "vietnamese_language",
+      "source": "vietnam_music_genre",
+      "field": "language",
+      "value": "vi"
+    },
+    {
+      "type": "vietnamese_artist",
+      "source": "fma",
+      "field": "artist_country",
+      "value": "Vietnam",
+      "reason": "country_is_vietnam"
+    },
+    {
+      "type": "vietnamese_language",
+      "source": "fma",
+      "field": "language",
+      "value": "vi"
+    },
+    {
+      "type": "vietnamese_artist",
+      "source": "fma",
+      "field": "artist_bio",
+      "value": "...a Handel piece on piano smashed between 78s from Vietnam and Greece on his <a href=\"http://dust-digital.co...",
+      "reason": "explicit_vietnamese_heritage"
+    },
+    {
+      "type": "vietnamese_artist",
+      "source": "fma",
+      "field": "artist_country",
+      "value": "Vietnam",
+      "reason": "country_is_vietnam"
+    },
+    {
+      "type": "vietnamese_title",
+      "source": "fma",
+      "field": "title",
+      "value": "Chung-Vô-Diệm, Pts. 1 and 2",
+      "reason": "vietnamese_diacritics"
+    },
+    {
+      "type": "vietnamese_language",
+      "source": "fma",
+      "field": "language",
+      "value": "vi"
+    },
+    {
+      "type": "vietnamese_artist",
+      "source": "fma",
+      "field": "artist_name",
+      "value": "Vpopolam",
+      "reason": "vpop_in_artist_name"
+    },
+    {
+      "type": "vietnamese_artist",
+      "source": "fma",
+      "field": "artist_name",
+      "value": "Vpopolam",
+      "reason": "vpop_in_artist_name"
+    },
+    {
+      "type": "vietnamese_artist",
+      "source": "fma",
+      "field": "artist_name",
+      "value": "Vpopolam",
+      "reason": "vpop_in_artist_name"
+    },
+    {
+      "type": "vietnamese_artist",
+      "source": "fma",
+      "field": "artist_name",
+      "value": "Vpopolam",
+      "reason": "vpop_in_artist_name"
+    },
+    {
+      "type": "vietnamese_artist",
+      "source": "fma",
+      "field": "artist_name",
+      "value": "Vpopolam",
+      "reason": "vpop_in_artist_name"
+    },
+    {
+      "type": "vietnamese_artist",
+      "source": "fma",
+      "field": "artist_name",
+      "value": "Vpopolam",
+      "reason": "vpop_in_artist_name"
+    },
+    {
+      "type": "vietnamese_artist",
+      "source": "fma",
+      "field": "artist_name",
+      "value": "Vpopolam",
+      "reason": "vpop_in_artist_name"
+    },
+    {
+      "type": "vietnamese_tag",
+      "source": "fma",
+      "field": "tags",
+      "value": "'vietnam'",
+      "reason": "matched_vietnamese_tag"
+    },
+    {
+      "type": "vietnamese_tag",
+      "source": "fma",
+      "field": "tags",
+      "value": "'vietnam'",
+      "reason": "matched_vietnamese_tag"
+    },
+    {
+      "type": "vietnamese_tag",
+      "source": "fma",
+      "field": "tags",
+      "value": "'vietnam'",
+      "reason": "matched_vietnamese_tag"
+    },
+    {
+      "type": "vietnamese_tag",
+      "source": "fma",
+      "field": "tags",
+      "value": "'vietnam'",
+      "reason": "matched_vietnamese_tag"
+    },
+    {
+      "type": "vietnamese_tag",
+      "source": "fma",
+      "field": "tags",
+      "value": "'vietnam'",
+      "reason": "matched_vietnamese_tag"
+    },
+    {
+      "type": "vietnamese_tag",
+      "source": "fma",
+      "field": "tags",
+      "value": "'vietnam'",
+      "reason": "matched_vietnamese_tag"
+    },
+    {
+      "type": "vietnamese_tag",
+      "source": "fma",
+      "field": "tags",
+      "value": "'vietnam'",
+      "reason": "matched_vietnamese_tag"
+    },
+    {
+      "type": "vietnamese_tag",
+      "source": "fma",
+      "field": "tags",
+      "value": "'vietnam'",
+      "reason": "matched_vietnamese_tag"
+    },
+    {
+      "type": "vietnamese_tag",
+      "source": "fma",
+      "field": "tags",
+      "value": "'vietnam'",
+      "reason": "matched_vietnamese_tag"
+    },
+    {
+      "type": "vietnamese_tag",
+      "source": "fma",
+      "field": "tags",
+      "value": "'vietnam'",
+      "reason": "matched_vietnamese_tag"
+    },
+    {
+      "type": "vietnamese_artist",
+      "source": "fma",
+      "field": "artist_name",
+      "value": "Vpopolam",
+      "reason": "vpop_in_artist_name"
+    },
+    {
+      "type": "vietnamese_artist",
+      "source": "fma",
+      "field": "artist_name",
+      "value": "Vpopolam",
+      "reason": "vpop_in_artist_name"
+    },
+    {
+      "type": "vietnamese_artist",
+      "source": "fma",
+      "field": "artist_name",
+      "value": "Vpopolam",
+      "reason": "vpop_in_artist_name"
+    },
+    {
+      "type": "vietnamese_artist",
+      "source": "fma",
+      "field": "artist_name",
+      "value": "Vpopolam",
+      "reason": "vpop_in_artist_name"
+    },
+    {
+      "type": "vietnamese_artist",
+      "source": "fma",
+      "field": "artist_name",
+      "value": "Vpopolam",
+      "reason": "vpop_in_artist_name"
+    },
+    {
+      "type": "vietnamese_artist",
+      "source": "fma",
+      "field": "artist_name",
+      "value": "Vpopolam",
+      "reason": "vpop_in_artist_name"
+    },
+    {
+      "type": "vietnamese_artist",
+      "source": "fma",
+      "field": "artist_name",
+      "value": "Vpopolam",
+      "reason": "vpop_in_artist_name"
+    },
+    {
+      "type": "vietnamese_title",
+      "source": "fma",
+      "field": "title",
+      "value": "Văzduh II - Shanyio (ft. moody alien)",
+      "reason": "vietnamese_diacritics"
+    },
+    {
+      "type": "vietnamese_artist",
+      "source": "fma",
+      "field": "artist_country",
+      "value": "hamburg / hanoi",
+      "reason": "country_is_vietnam"
+    },
+    {
+      "type": "vietnamese_artist",
+      "source": "fma",
+      "field": "artist_country",
+      "value": "hamburg / hanoi",
+      "reason": "country_is_vietnam"
+    }
+  ]
+}

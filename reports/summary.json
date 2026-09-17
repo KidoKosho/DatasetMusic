@@ -1,0 +1,65 @@
+{
+  "total_discovered_tracks": 317097,
+  "total_candidates": 393,
+  "overall_candidate_percentage": 0.1239,
+  "overall_candidate_ratio_str": "393 / 317097 (0.12%)",
+  "total_queued_items": 393,
+  "by_dataset": {
+    "fma": {
+      "tracks_inspected": 106574,
+      "download_candidates": 389,
+      "candidate_percentage": 0.365,
+      "candidate_ratio_str": "389 / 106574 (0.36%)",
+      "vietnamese_lyrics": 0,
+      "vietnamese_artists": 166,
+      "vietnamese_titles": 202,
+      "vietnamese_tags": 44,
+      "vietnamese_genres": 0,
+      "audio_candidates": 389,
+      "lyrics_candidates": 0,
+      "artwork_candidates": 0
+    },
+    "million_song_dataset": {
+      "tracks_inspected": 210519,
+      "download_candidates": 0,
+      "candidate_percentage": 0.0,
+      "candidate_ratio_str": "0 / 210519 (0.00%)",
+      "vietnamese_lyrics": 0,
+      "vietnamese_artists": 0,
+      "vietnamese_titles": 0,
+      "vietnamese_tags": 0,
+      "vietnamese_genres": 0,
+      "audio_candidates": 0,
+      "lyrics_candidates": 0,
+      "artwork_candidates": 0
+    },
+    "upf": {
+      "tracks_inspected": 0,
+      "download_candidates": 0,
+      "candidate_percentage": 0.0,
+      "candidate_ratio_str": "0 / 0 (0.00%)",
+      "vietnamese_lyrics": 0,
+      "vietnamese_artists": 0,
+      "vietnamese_titles": 0,
+      "vietnamese_tags": 0,
+      "vietnamese_genres": 0,
+      "audio_candidates": 0,
+      "lyrics_candidates": 0,
+      "artwork_candidates": 0
+    },
+    "vietnam_music_genre": {
+      "tracks_inspected": 4,
+      "download_candidates": 4,
+      "candidate_percentage": 100.0,
+      "candidate_ratio_str": "4 / 4 (100.00%)",
+      "vietnamese_lyrics": 0,
+      "vietnamese_artists": 4,
+      "vietnamese_titles": 4,
+      "vietnamese_tags": 2,
+      "vietnamese_genres": 4,
+      "audio_candidates": 4,
+      "lyrics_candidates": 0,
+      "artwork_candidates": 0
+    }
+  }
+}

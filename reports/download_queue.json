@@ -1,0 +1,1638 @@
+{
+  "total_items_in_queue": 393,
+  "by_dataset": {
+    "vietnam_music_genre": 4,
+    "fma": 389
+  },
+  "by_asset": {
+    "audio": 389,
+    "lyrics": 0,
+    "artwork": 0,
+    "metadata": 393
+  },
+  "archive_download_required_count": 389,
+  "items": [
+    {
+      "track_id": "21724ffe95eb248f3e3e42f1",
+      "source": "vietnam_music_genre",
+      "reasons": [
+        "vietnamese_annotation",
+        "vietnamese_artist",
+        "vietnamese_country",
+        "vietnamese_genre",
+        "vietnamese_language",
+        "vietnamese_title"
+      ],
+      "title": "Duyên Phận",
+      "artist": "Như Quỳnh",
+      "assets": [
+        "metadata"
+      ],
+      "audio_target": "data\\raw\\vietnam_music_genre\\Bolero\\duyen_phan.mp3",
+      "archive_download_required": false,
+      "status": "pending"
+    },
+    {
+      "track_id": "15989ebb31208aae9b459349",
+      "source": "vietnam_music_genre",
+      "reasons": [
+        "vietnamese_annotation",
+        "vietnamese_artist",
+        "vietnamese_country",
+        "vietnamese_genre",
+        "vietnamese_language",
+        "vietnamese_title"
+      ],
+      "title": "Unknown Track 99",
+      "artist": null,
+      "assets": [
+        "metadata"
+      ],
+      "audio_target": "data\\raw\\vietnam_music_genre\\Bolero\\unknown_track_99.mp3",
+      "archive_download_required": false,
+      "status": "pending"
+    },
+    {
+      "track_id": "a02dd3f25925aa09365ed896",
+      "source": "vietnam_music_genre",
+      "reasons": [
+        "vietnamese_annotation",
+        "vietnamese_artist",
+        "vietnamese_country",
+        "vietnamese_language",
+        "vietnamese_tag",
+        "vietnamese_title"
+      ],
+      "title": "100 Years LOVE Single",
+      "artist": "Nam Duc",
+      "assets": [
+        "metadata"
+      ],
+      "audio_target": "data\\raw\\vietnam_music_genre\\Pop\\100YearsLOVESingle-NamDuc-6207759_hq_segment_7.mp3",
+      "archive_download_required": false,
+      "status": "pending"
+    },
+    {
+      "track_id": "f967e8411f26c4820ac406f5",
+      "source": "vietnam_music_genre",
+      "reasons": [
+        "vietnamese_annotation",
+        "vietnamese_artist",
+        "vietnamese_country",
+        "vietnamese_language",
+        "vietnamese_tag",
+        "vietnamese_title"
+      ],
+      "title": "Anh Yeu Em",
+      "artist": "V-Pop Artist",
+      "assets": [
+        "metadata"
+      ],
+      "audio_target": "data\\raw\\vietnam_music_genre\\Pop\\anh_yeu_em.mp3",
+      "archive_download_required": false,
+      "status": "pending"
+    },
+    {
+      "track_id": "12baadfae04a0cc13e847e60",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "title": "In Your Dreams",
+      "artist": "The Space Lady a.k.a. Suzy Soundz",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "006/006001.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "f9fea196a347139aa7da966a",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "title": "The Price Of Freedom",
+      "artist": "The Space Lady a.k.a. Suzy Soundz",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "006/006002.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "4bcea540b58115e56e40af3b",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "title": "Cap'n Jack",
+      "artist": "The Space Lady a.k.a. Suzy Soundz",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "006/006003.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "62bf90a2d4f87fbebb477c47",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "title": "Street-level Superstar",
+      "artist": "The Space Lady a.k.a. Suzy Soundz",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "006/006004.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "05fb3fe95d5c5d14525925fa",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_artist",
+        "vietnamese_country",
+        "vietnamese_language"
+      ],
+      "title": "Unknown",
+      "artist": "Khoc Huang Thien",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "010/010508.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "1d16c7b465381c848d138f2c",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "title": "Yu Wang Tan Ming",
+      "artist": "Jianhong He",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "010/010572.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "b09fbedf1fae7cc15788d51a",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "title": "Loja unes Ant Kiemo",
+      "artist": "Įdainavo Karalienes Aniolu Parapijos Choras",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "010/010707.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "74063c4f63e3630188923389",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "title": "Dao-Thong, Pt. 2",
+      "artist": "Seeranii",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "011/011085.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "bcdeabc540c57b44fe8d2562",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "Comendo Pão e Fazendo Mal",
+      "artist": "minusbaby",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "012/012589.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "c96bd627ea73719b605fa7f5",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "São Roque (Bella/Boa)",
+      "artist": "minusbaby",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "012/012591.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "5409b6f869142f9a08bdf8d3",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_artist",
+        "vietnamese_country",
+        "vietnamese_language",
+        "vietnamese_title"
+      ],
+      "title": "Chung-Vô-Diệm, Pts. 1 and 2",
+      "artist": "Unknown",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "013/013091.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "1946cbdb05ba2a23bc39cb9a",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "* * coq à l'ail * *",
+      "artist": "Kania Tieffer",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "013/013843.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "35b2f898ce02043c448d3078",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "title": "rainmaking",
+      "artist": "Aaron Ximm",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "013/013934.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "e69d9c99b982c2885a39b25f",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "coq à l'ail",
+      "artist": "Kania Tieffer",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "014/014518.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "09b74d71ab4bd2503e403c05",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_tag"
+      ],
+      "title": "Turn Me Back",
+      "artist": "Vietnam Cowboy",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "014/014700.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "5349e1968355f359f82bbfbc",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "title": "Uno straccio",
+      "artist": "Bacco Baccanels",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "016/016115.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "145d1b0f740e56d4f9efdb6f",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "title": "Vai pi piano",
+      "artist": "Bacco Baccanels",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "016/016116.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "bd6d64ff93ad8736dc6ea7ce",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "title": "Bollate centro",
+      "artist": "Bacco Baccanels",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "016/016117.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "ddfb78dddfb2668952c24305",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "title": "Mi fa",
+      "artist": "Bacco Baccanels",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "016/016118.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "0a71681fa8d537fb74f01b3e",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "title": "Coma",
+      "artist": "Bacco Baccanels",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "016/016119.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "0dd467b6d5a225e7e7713e95",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "title": "Capsula spaziale",
+      "artist": "Bacco Baccanels",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "016/016120.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "eb194a08485284aa69aa4028",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "title": "Confuso",
+      "artist": "Bacco Baccanels",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "016/016121.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "90644b0d904ce3435a69abfe",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "title": "Calendario",
+      "artist": "Bacco Baccanels",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "016/016122.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "21cea014c2022d6b2fc81a93",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "title": "Motel",
+      "artist": "Bacco Baccanels",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "016/016123.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "b50dcc089123b60288e2f25e",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "title": "Fearless little John",
+      "artist": "Bacco Baccanels",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "016/016124.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "89ccba76df0030eb13ea0fa7",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "Baião Lo-fi",
+      "artist": "Chico Correa and Electronic Band",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "016/016656.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "ab15bb1b2179794aa43ad435",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_tag"
+      ],
+      "title": "allscars1998-06-12",
+      "artist": "All Scars",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "020/020557.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "5ddc457e870133754a8d137f",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "Solidão Gasolina",
+      "artist": "Curumin",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "022/022773.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "dd10a2e8b5954731fbf83b32",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "l'amant des femmes à brioche",
+      "artist": "Audace",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "023/023083.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "2351366b3d9bc72d85d1883c",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "Hymne à la Joie",
+      "artist": "Vulvinia & Jambonstar",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "023/023637.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "f1d546631fc73ffc49b33879",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_tag"
+      ],
+      "title": "live on WPRB 3/2/00",
+      "artist": "All Scars",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "024/024027.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "92877b7931782ac03e189c53",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "Hay Que Luchar",
+      "artist": "Adelit@s",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "024/024104.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "81b18c0c92368fc325e59391",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "Días que no volveran",
+      "artist": "Erick Diego",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "026/026670.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "cc28c166102fdaf25c8ef159",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "à notre avenir",
+      "artist": "Bacalao",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "027/027785.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "d979fd8a8806fd90f7492a2b",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "à notre avenir",
+      "artist": "Bacalao",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "028/028684.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "958a5fcf054f4c61bff6fa0e",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "du bitume à l'envol",
+      "artist": "Bacalao",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "028/028687.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "782f05460aadc7f4a3e9a3b3",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "A mãe de sua mãe",
+      "artist": "Nueve de dos",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "029/029359.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "5b0ffa79dfde84cfc8f568dc",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "Caída con los ojos abiertos",
+      "artist": ".RR",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "029/029787.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "c986f36e18ada7fb4b518ea0",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "7sexes à l église",
+      "artist": "7sexes à l église",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "030/030542.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "a204c602c31e039553aef54c",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "title": "(Funk) Até o caroço",
+      "artist": "BNegão & Seletores de Freqüência",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "031/031153.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "6bd3c9b0e554e266cb0c0219",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "title": "Dorobo",
+      "artist": "BNegão & Seletores de Freqüência",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "031/031154.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "266facb8349bcc3c3382a4dc",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "title": "Ho Hay",
+      "artist": "BNegão & Seletores de Freqüência",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "031/031155.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "f8e57ac89191dd69e1396e61",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_artist",
+        "vietnamese_title"
+      ],
+      "title": "Nova Visão",
+      "artist": "BNegão & Seletores de Freqüência",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "031/031156.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "b113fd6221e97884ec080635",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "title": "O opositor",
+      "artist": "BNegão & Seletores de Freqüência",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "031/031157.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "2c6817661d79f347d4ff56b9",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "title": "O processo",
+      "artist": "BNegão & Seletores de Freqüência",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "031/031158.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "d80e56769d84d866e6713a45",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "title": "Prioridades",
+      "artist": "BNegão & Seletores de Freqüência",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "031/031159.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "63b3efd42b0a861d18d3cd61",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "title": "Qual é o seu nome?",
+      "artist": "BNegão & Seletores de Freqüência",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "031/031160.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "b3d44aa8ba7fcd1c42a345f5",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "title": "Seletores de freqüência",
+      "artist": "BNegão & Seletores de Freqüência",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "031/031161.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "6f0c95faf14aab9afec42e41",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "title": "V.V.",
+      "artist": "BNegão & Seletores de Freqüência",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "031/031162.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "bb05432c7f99f0c07f5d2b86",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "title": "A palavra / O primeiro passo",
+      "artist": "BNegão & Seletores de Freqüência",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "031/031165.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "bacbe4c0aa66d49ac54b7d8f",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "title": "A Verdadeira Dança Do Patinho",
+      "artist": "BNegão & Seletores de Freqüência",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "031/031166.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "fcc5ca6e84da2b600227a08d",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "title": "Enxugando o Gelo",
+      "artist": "BNegão & Seletores de Freqüência",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "031/031167.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "38cd42bdcd815d68bd17b7c0",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "Inscrição",
+      "artist": "Axial",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "031/031231.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "ed67fd2c66ae4d3391b9fcc1",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "porter attention à ce qui va suivre",
+      "artist": "Hargreaves / Noyes / Duplant",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "032/032888.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "c8583ea7627faa8510caaade",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "parfois ne penser à rien",
+      "artist": "Hargreaves / Noyes / Duplant",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "032/032891.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "a26ae21e7c8d74eef62aadae",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "demander à la poussière",
+      "artist": "Hargreaves / Noyes / Duplant",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "032/032893.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "00cc54c2ccec7399d13e7901",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "La machine à laver",
+      "artist": "Lady Data",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "032/032917.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "05133f6abf98a16917e6b69c",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "Pense à rien",
+      "artist": "Lady Data",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "032/032920.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "64ac9af748b51b9a7751214e",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "On S'Emmerde À Corte",
+      "artist": "PierrotheMoon",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "033/033116.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "cfad027dab5b79f4a0bff9ba",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "Pontilhaãããão (Overpass)",
+      "artist": "AlienAqtor, Disorder of Rage (DxOxRx), Flanicx, and Rod Brandao",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "036/036929.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "ee49cfb4e7bd0ab9137861e1",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "Visões Bizarras de Mary X",
+      "artist": "Misantropskia",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "037/037071.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "4186420208c737025753ce52",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "SÃÂ­dhe",
+      "artist": "The Wades",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "037/037089.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "ed5fa6054ea4e50bdf0abb3b",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "Uma Pândega de Paranóias, Fobias e Mania da Perseguição",
+      "artist": "Stealing Orchestra",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "037/037126.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "8bf830cd5262892056864cee",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "O Pastor, a Droga e as Visões",
+      "artist": "Stealing Orchestra",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "038/038399.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "e7213fed6faebb696e156224",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "De um Tiro à Socapa nem o Papa",
+      "artist": "Stealing Orchestra",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "038/038400.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "7220164afea86f52534d90eb",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "Maravilhoso Coração, Maravilho",
+      "artist": "Stealing Orchestra",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "038/038401.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "6a846a997f689ca896e2aef9",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "Palpitações, Delírios e Mau Feitio ao Acordar",
+      "artist": "Stealing Orchestra",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "038/038409.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "b3a2d33bcc2200a50aac623b",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "É Contra Mim Que Luto",
+      "artist": "Stealing Orchestra",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "038/038410.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "c2fcd3bad7d5f35469138565",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "Uma Pândega de Paranóias, Fobias e Mania da Perseguição",
+      "artist": "Stealing Orchestra",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "038/038411.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "bbf8ac7cbbbb9a43c4d7ff7e",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "la valse Ã  mille echos",
+      "artist": "File Under Toner",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "038/038902.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "0cd2571356448e3757967a5b",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "Messe à 3 voix (Antonio Lotti)",
+      "artist": "Les Petits Chanteurs de Montigny",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "041/041957.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "38df088a1fe15f3e44b79075",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "Capitán (con Elsa de Alfonso)",
+      "artist": "Joe Crepúsculo",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "041/041977.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "92c9816a278ac380f7c6506d",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_tag"
+      ],
+      "title": "The Practice-Dub",
+      "artist": "All Scars",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "045/045014.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "05226b178a94c57cfc50ac0c",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "la conne à forest hill",
+      "artist": "Boyz 2 Moche",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "045/045078.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "79b5577fdaf6de01d5d9c0d4",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "IV 2)à la chasse au extraterrestres thérése",
+      "artist": "HENOG le musicien",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "045/045224.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "605ea7199adc2abccc93564b",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "Pas à Des Miracles (Manuel J G",
+      "artist": "Benjamin Bret",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "045/045400.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "2b5e55ecd9d30b63380e6306",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "Mon Père est à Paris [My Dad in Paris]",
+      "artist": "Miss Emma",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "046/046110.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "e66f5e4f8c4386c776de8d2e",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "Depois de um Galão no Miramar",
+      "artist": "minusbaby",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "047/047218.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "dbd4ba2748030b293c68db62",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "A Palavra Não Foi Encontrada",
+      "artist": "minusbaby",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "047/047225.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "d5a273bc0cc8c054e18172f2",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "Poignard sodo à gogo",
+      "artist": "Le Mal",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "048/048093.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "83e61c8cb69349416f58031d",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "Leandro Casas - Pa’l Que Tuvo un Mal Día",
+      "artist": "Clinical Archives Mix",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "048/048359.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "4d47f79c6e09f33f54d38e12",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "J'ai acheté mes bottes en Espagne",
+      "artist": "Misiaczek",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "048/048477.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "ec758da62cf37e8268f33a6c",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "May Day (El Dia Que Falló la Nave)",
+      "artist": "Piccola Orchestra Gagarin",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "049/049092.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "618dba57050fdbd085f3d163",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "Viaje de amor con Álvaro",
+      "artist": "Allfits",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "050/050049.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "778603fbb16aa29a658d63d5",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "Perdu, grace à la fontaine",
+      "artist": "McCloud Zicmuse",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "050/050318.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "62916509497ddcbe6a571ce4",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "Hay mujeres que lo saben",
+      "artist": "La Mugre Roja",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "050/050841.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "06810e2040e59290823af365",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "Hay mujeres que lo saben",
+      "artist": "La Mugre Roja",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "051/051084.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "729c8885550de3f56a11a45e",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "Hommage à A.A. I",
+      "artist": "Jaap Blonk & BRAAXTAAL",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "052/052309.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "b8af1cca6e3e59cd8b2bcc1a",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "Hommage à A.A. II",
+      "artist": "Jaap Blonk & BRAAXTAAL",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "052/052310.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "33f1fd778fc0265ca2614ccd",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "Discussion à batons rompus",
+      "artist": "OsO El roTo",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "052/052991.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "2f11e8b24a3cc90a9eca0bb1",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "05 J'ai la patate (dans le style de Chocolat Billy un jour où ils s'engueulent)",
+      "artist": "Manuel J Grotesk",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "053/053424.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "752e5c62c2ef710b09081e67",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "07 Une chanson bien à moi (dans le style de la vieille chanson française)",
+      "artist": "Manuel J Grotesk",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "053/053426.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "a8ea9fc2ca6e2bd324e3f8a6",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "title": "En tête à tête avec ton savon",
+      "artist": "L' Amicale du Tigrou",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "055/055166.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "a02e54963112d52d6c297573",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_tag"
+      ],
+      "title": "Track 01 A",
+      "artist": "All Scars",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "056/056068.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "381be9265d0c63857e5c0c5e",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_tag"
+      ],
+      "title": "Track 02 B",
+      "artist": "All Scars",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "056/056069.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    },
+    {
+      "track_id": "b0aee4f6ce568e2c6f93fc7e",
+      "source": "fma",
+      "reasons": [
+        "vietnamese_tag"
+      ],
+      "title": "Track 04 A",
+      "artist": "All Scars",
+      "assets": [
+        "audio",
+        "metadata"
+      ],
+      "audio_target": "056/056070.mp3",
+      "archive_download_required": true,
+      "status": "pending"
+    }
+  ]
+}

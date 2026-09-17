@@ -1,0 +1,150 @@
+{
+  "total_files_discovered": 317097,
+  "by_dataset": {
+    "vietnam_music_genre": 4,
+    "fma": 106574,
+    "million_song_dataset": 210519
+  },
+  "sample_files": [
+    {
+      "track_id": "21724ffe95eb248f3e3e42f1",
+      "dataset": "vietnam_music_genre",
+      "title": "Duyên Phận",
+      "artist": "Như Quỳnh",
+      "has_audio": true
+    },
+    {
+      "track_id": "15989ebb31208aae9b459349",
+      "dataset": "vietnam_music_genre",
+      "title": "Unknown Track 99",
+      "artist": null,
+      "has_audio": true
+    },
+    {
+      "track_id": "a02dd3f25925aa09365ed896",
+      "dataset": "vietnam_music_genre",
+      "title": "100 Years LOVE Single",
+      "artist": "Nam Duc",
+      "has_audio": true
+    },
+    {
+      "track_id": "f967e8411f26c4820ac406f5",
+      "dataset": "vietnam_music_genre",
+      "title": "Anh Yeu Em",
+      "artist": "V-Pop Artist",
+      "has_audio": true
+    },
+    {
+      "track_id": "cd6c6ef25049b572bf83aaac",
+      "dataset": "fma",
+      "title": "Food",
+      "artist": "AWOL",
+      "has_audio": true
+    },
+    {
+      "track_id": "1dfb7346bf301fbd4a8a22a2",
+      "dataset": "fma",
+      "title": "Electric Ave",
+      "artist": "AWOL",
+      "has_audio": true
+    },
+    {
+      "track_id": "b84fe5b79d7308bd3756d0f5",
+      "dataset": "fma",
+      "title": "This World",
+      "artist": "AWOL",
+      "has_audio": true
+    },
+    {
+      "track_id": "f445b429f05912e75d54e334",
+      "dataset": "fma",
+      "title": "Freeway",
+      "artist": "Kurt Vile",
+      "has_audio": true
+    },
+    {
+      "track_id": "563415344e5c0066ddf55f45",
+      "dataset": "fma",
+      "title": "Spiritual Level",
+      "artist": "Nicky Cook",
+      "has_audio": true
+    },
+    {
+      "track_id": "9d50c950c67de7ed500f8348",
+      "dataset": "fma",
+      "title": "Where is your Love?",
+      "artist": "Nicky Cook",
+      "has_audio": true
+    },
+    {
+      "track_id": "3750fe63a738ad7f1792790b",
+      "dataset": "fma",
+      "title": "Too Happy",
+      "artist": "Nicky Cook",
+      "has_audio": true
+    },
+    {
+      "track_id": "93b67ab3dce5c1b461d82fdf",
+      "dataset": "fma",
+      "title": "Yosemite",
+      "artist": "Nicky Cook",
+      "has_audio": true
+    },
+    {
+      "track_id": "b2a6d5675b8167019ae93da0",
+      "dataset": "fma",
+      "title": "Light of Light",
+      "artist": "Nicky Cook",
+      "has_audio": true
+    },
+    {
+      "track_id": "5a3abf7fd9ba7e332d586d6f",
+      "dataset": "fma",
+      "title": "Street Music",
+      "artist": "AWOL",
+      "has_audio": true
+    },
+    {
+      "track_id": "7d6adde7383c0a931731ae42",
+      "dataset": "fma",
+      "title": "Father's Day",
+      "artist": "Abominog",
+      "has_audio": true
+    },
+    {
+      "track_id": "716b7aba8ca0458f904e46bf",
+      "dataset": "fma",
+      "title": "Peel Back The Mountain Sky",
+      "artist": "Abominog",
+      "has_audio": true
+    },
+    {
+      "track_id": "5fb3ded5e53d22d49a642f00",
+      "dataset": "fma",
+      "title": "Side A",
+      "artist": "Airway",
+      "has_audio": true
+    },
+    {
+      "track_id": "5b1d54c182add239eb442175",
+      "dataset": "fma",
+      "title": "Side B",
+      "artist": "Airway",
+      "has_audio": true
+    },
+    {
+      "track_id": "722fa400b294cb951d74c926",
+      "dataset": "fma",
+      "title": "CandyAss",
+      "artist": "Alec K. Redfearn & the Eyesores",
+      "has_audio": true
+    },
+    {
+      "track_id": "b4886995220714e1313aec49",
+      "dataset": "fma",
+      "title": "Queen Of The Wires",
+      "artist": "Alec K. Redfearn & the Eyesores",
+      "has_audio": true
+    }
+  ]
+}

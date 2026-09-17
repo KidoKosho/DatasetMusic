@@ -1,0 +1,510 @@
+[
+  {
+    "track_id": "05fb3fe95d5c5d14525925fa",
+    "fma_id": "10508",
+    "title": "Unknown",
+    "artist": "Khoc Huang Thien",
+    "reasons": [
+      "country_is_vietnam",
+      null
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_country",
+        "value": "Vietnam",
+        "reason": "country_is_vietnam"
+      },
+      {
+        "type": "vietnamese_language",
+        "source": "fma",
+        "field": "language",
+        "value": "vi"
+      }
+    ]
+  },
+  {
+    "track_id": "5409b6f869142f9a08bdf8d3",
+    "fma_id": "13091",
+    "title": "Chung-Vô-Diệm, Pts. 1 and 2",
+    "artist": "Unknown",
+    "reasons": [
+      "country_is_vietnam",
+      "vietnamese_diacritics",
+      null
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_country",
+        "value": "Vietnam",
+        "reason": "country_is_vietnam"
+      },
+      {
+        "type": "vietnamese_title",
+        "source": "fma",
+        "field": "title",
+        "value": "Chung-Vô-Diệm, Pts. 1 and 2",
+        "reason": "vietnamese_diacritics"
+      },
+      {
+        "type": "vietnamese_language",
+        "source": "fma",
+        "field": "language",
+        "value": "vi"
+      }
+    ]
+  },
+  {
+    "track_id": "8fabf5003f2672d848226ac5",
+    "fma_id": "76066",
+    "title": "Koliada: Na Vidkhadi",
+    "artist": "Koliadnyky of Kryvorivnia",
+    "reasons": [
+      "country_is_vietnam"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_country",
+        "value": "Kryvorivnia, Ukraine",
+        "reason": "country_is_vietnam"
+      }
+    ]
+  },
+  {
+    "track_id": "1e2c575161bead5ea7d32712",
+    "fma_id": "76067",
+    "title": "Ples (Winter Dance)",
+    "artist": "Koliadnyky of Kryvorivnia",
+    "reasons": [
+      "country_is_vietnam"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_country",
+        "value": "Kryvorivnia, Ukraine",
+        "reason": "country_is_vietnam"
+      }
+    ]
+  },
+  {
+    "track_id": "3e4aabb56db08be2b457b546",
+    "fma_id": "76068",
+    "title": "Koliada: Is The Master Home?",
+    "artist": "Koliadnyky of Kryvorivnia",
+    "reasons": [
+      "country_is_vietnam"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_country",
+        "value": "Kryvorivnia, Ukraine",
+        "reason": "country_is_vietnam"
+      }
+    ]
+  },
+  {
+    "track_id": "a3c9406d974dfb2a7c5dd860",
+    "fma_id": "76069",
+    "title": "Still the River Flows (Rhyming Song)",
+    "artist": "Koliadnyky of Kryvorivnia",
+    "reasons": [
+      "country_is_vietnam"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_country",
+        "value": "Kryvorivnia, Ukraine",
+        "reason": "country_is_vietnam"
+      }
+    ]
+  },
+  {
+    "track_id": "2a878a3831799aeb6d624bec",
+    "fma_id": "76070",
+    "title": "Koliada to the Lady of the House",
+    "artist": "Koliadnyky of Kryvorivnia",
+    "reasons": [
+      "country_is_vietnam"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_country",
+        "value": "Kryvorivnia, Ukraine",
+        "reason": "country_is_vietnam"
+      }
+    ]
+  },
+  {
+    "track_id": "c267478f21a4c488953d6825",
+    "fma_id": "76071",
+    "title": "Duda (Bagpipes)",
+    "artist": "Koliadnyky of Kryvorivnia",
+    "reasons": [
+      "country_is_vietnam"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_country",
+        "value": "Kryvorivnia, Ukraine",
+        "reason": "country_is_vietnam"
+      }
+    ]
+  },
+  {
+    "track_id": "fb5b2df9aa90a615e226e725",
+    "fma_id": "76072",
+    "title": "Greeting Tune",
+    "artist": "Koliadnyky of Kryvorivnia",
+    "reasons": [
+      "country_is_vietnam"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_country",
+        "value": "Kryvorivnia, Ukraine",
+        "reason": "country_is_vietnam"
+      }
+    ]
+  },
+  {
+    "track_id": "ff14e846465f14c640459374",
+    "fma_id": "76073",
+    "title": "Arkan (Men's Dance)",
+    "artist": "Koliadnyky of Kryvorivnia",
+    "reasons": [
+      "country_is_vietnam"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_country",
+        "value": "Kryvorivnia, Ukraine",
+        "reason": "country_is_vietnam"
+      }
+    ]
+  },
+  {
+    "track_id": "a50ac60b6130a654baefc08d",
+    "fma_id": "76074",
+    "title": "Jaw Harps",
+    "artist": "Koliadnyky of Kryvorivnia",
+    "reasons": [
+      "country_is_vietnam"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_country",
+        "value": "Kryvorivnia, Ukraine",
+        "reason": "country_is_vietnam"
+      }
+    ]
+  },
+  {
+    "track_id": "7c5a18577adb94e2f5095164",
+    "fma_id": "76075",
+    "title": "Tylynka (Overture Flute)",
+    "artist": "Koliadnyky of Kryvorivnia",
+    "reasons": [
+      "country_is_vietnam"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_country",
+        "value": "Kryvorivnia, Ukraine",
+        "reason": "country_is_vietnam"
+      }
+    ]
+  },
+  {
+    "track_id": "b031715d6cbe638fd78b3435",
+    "fma_id": "76076",
+    "title": "Tsymbaly Solo",
+    "artist": "Koliadnyky of Kryvorivnia",
+    "reasons": [
+      "country_is_vietnam"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_country",
+        "value": "Kryvorivnia, Ukraine",
+        "reason": "country_is_vietnam"
+      }
+    ]
+  },
+  {
+    "track_id": "8f5241d05a27a0abfb3b6f46",
+    "fma_id": "76077",
+    "title": "Hutsulka (Dance Number)",
+    "artist": "Koliadnyky of Kryvorivnia",
+    "reasons": [
+      "country_is_vietnam"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_country",
+        "value": "Kryvorivnia, Ukraine",
+        "reason": "country_is_vietnam"
+      }
+    ]
+  },
+  {
+    "track_id": "d8fab21415b920b3b010830e",
+    "fma_id": "76078",
+    "title": "Koliada: Good Evening (with Lemon Bucket Orkestra members)",
+    "artist": "Koliadnyky of Kryvorivnia",
+    "reasons": [
+      "country_is_vietnam"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_country",
+        "value": "Kryvorivnia, Ukraine",
+        "reason": "country_is_vietnam"
+      }
+    ]
+  },
+  {
+    "track_id": "40f9e3b91b0e3a283ced02ef",
+    "fma_id": "76079",
+    "title": "Kruhliyek (Round Dance for Bees) & Ples (Well Wishes)",
+    "artist": "Koliadnyky of Kryvorivnia",
+    "reasons": [
+      "country_is_vietnam"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_country",
+        "value": "Kryvorivnia, Ukraine",
+        "reason": "country_is_vietnam"
+      }
+    ]
+  },
+  {
+    "track_id": "33545beeeb5fc558c06c5120",
+    "fma_id": "127268",
+    "title": "Bad Kisingen",
+    "artist": "Hissing Fauna",
+    "reasons": [
+      "country_is_vietnam"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_country",
+        "value": "Hlavní město Praha, Czech Republic",
+        "reason": "country_is_vietnam"
+      }
+    ]
+  },
+  {
+    "track_id": "89cdac87ceb4e8d4965145e1",
+    "fma_id": "127269",
+    "title": "Shine and Hum",
+    "artist": "Hissing Fauna",
+    "reasons": [
+      "country_is_vietnam"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_country",
+        "value": "Hlavní město Praha, Czech Republic",
+        "reason": "country_is_vietnam"
+      }
+    ]
+  },
+  {
+    "track_id": "febc55278acab6394fa6ea9d",
+    "fma_id": "127270",
+    "title": "I Could Not Run Four Miles Without Stopping",
+    "artist": "Hissing Fauna",
+    "reasons": [
+      "country_is_vietnam"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_country",
+        "value": "Hlavní město Praha, Czech Republic",
+        "reason": "country_is_vietnam"
+      }
+    ]
+  },
+  {
+    "track_id": "d1123f5af569fd9a6e932011",
+    "fma_id": "127271",
+    "title": "Do You Like Forces of Nature?",
+    "artist": "Hissing Fauna",
+    "reasons": [
+      "country_is_vietnam"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_country",
+        "value": "Hlavní město Praha, Czech Republic",
+        "reason": "country_is_vietnam"
+      }
+    ]
+  },
+  {
+    "track_id": "fc22e103a695884522d32550",
+    "fma_id": "127272",
+    "title": "Disappear",
+    "artist": "Hissing Fauna",
+    "reasons": [
+      "country_is_vietnam"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_country",
+        "value": "Hlavní město Praha, Czech Republic",
+        "reason": "country_is_vietnam"
+      }
+    ]
+  },
+  {
+    "track_id": "45eefe628f0e88ec937482e1",
+    "fma_id": "127273",
+    "title": "Appeal To",
+    "artist": "Hissing Fauna",
+    "reasons": [
+      "country_is_vietnam"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_country",
+        "value": "Hlavní město Praha, Czech Republic",
+        "reason": "country_is_vietnam"
+      }
+    ]
+  },
+  {
+    "track_id": "faadc03512b8f89c7d3557ed",
+    "fma_id": "127274",
+    "title": "This Turkey Town",
+    "artist": "Hissing Fauna",
+    "reasons": [
+      "country_is_vietnam"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_country",
+        "value": "Hlavní město Praha, Czech Republic",
+        "reason": "country_is_vietnam"
+      }
+    ]
+  },
+  {
+    "track_id": "7d16c0489c78595c521c8676",
+    "fma_id": "127275",
+    "title": "Do You Want To Talk About It?",
+    "artist": "Hissing Fauna",
+    "reasons": [
+      "country_is_vietnam"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_country",
+        "value": "Hlavní město Praha, Czech Republic",
+        "reason": "country_is_vietnam"
+      }
+    ]
+  },
+  {
+    "track_id": "86dceaea87fa8762af749a4e",
+    "fma_id": "127276",
+    "title": "Shin A-lam",
+    "artist": "Hissing Fauna",
+    "reasons": [
+      "country_is_vietnam"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_country",
+        "value": "Hlavní město Praha, Czech Republic",
+        "reason": "country_is_vietnam"
+      }
+    ]
+  },
+  {
+    "track_id": "13984ff9888d6ef043d25369",
+    "fma_id": "146497",
+    "title": "illusions",
+    "artist": "luong hue trinh",
+    "reasons": [
+      "country_is_vietnam"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_country",
+        "value": "hamburg / hanoi",
+        "reason": "country_is_vietnam"
+      }
+    ]
+  },
+  {
+    "track_id": "a140f30e0f7ffee44bc74a19",
+    "fma_id": "146498",
+    "title": "return ii",
+    "artist": "luong hue trinh",
+    "reasons": [
+      "country_is_vietnam"
+    ],
+    "evidence": [
+      {
+        "type": "vietnamese_artist",
+        "source": "fma",
+        "field": "artist_country",
+        "value": "hamburg / hanoi",
+        "reason": "country_is_vietnam"
+      }
+    ]
+  }
+]

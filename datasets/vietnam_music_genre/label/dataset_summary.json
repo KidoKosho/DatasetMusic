@@ -1,0 +1,11 @@
+{
+  "dataset": "vietnam_music_genre",
+  "total_candidate_tracks": 4,
+  "audio_count": 4,
+  "lyrics_count": 2,
+  "artwork_count": 1,
+  "genres_breakdown": {
+    "bolero": 2,
+    "pop": 2
+  }
+}

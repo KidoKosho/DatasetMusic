@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Virtual Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Large dataset raw files and binary audio archives (>100MB / binary audio)
+data/raw/
+data/cache/
+data/logs/
+data/state/
+data/manifests/discovered.jsonl
+data/manifests/download_queue.jsonl
+
+# Normalized audio and heavy media assets
+datasets/**/audio/
+datasets/**/avt/
+datasets/**/lyric/
+*.mp3
+*.wav
+*.flac
+*.ogg
+*.m4a
+*.zip
+*.tar
+*.gz
+*.tgz
+*.7z
+
+# Database and SQLite state
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment variables & credentials
+.env
+kaggle.json
+*.token
+
+# OS / Editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

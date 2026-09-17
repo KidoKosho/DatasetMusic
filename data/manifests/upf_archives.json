@@ -1,0 +1,17 @@
+{
+  "dataset": "upf",
+  "source_url": "https://repositori.upf.edu/handle/10230/33285",
+  "archives": [
+    {
+      "name": "upf_repository_handle",
+      "size": 1897,
+      "type": "metadata_and_audio",
+      "remote_url": "https://repositori.upf.edu/handle/10230/33285",
+      "inspectable": false,
+      "remote_inspection": "unsupported",
+      "notes": [
+        "DSpace institutional repository protected by Anubis anti-bot challenge. Local staging or browser session required."
+      ]
+    }
+  ]
+}

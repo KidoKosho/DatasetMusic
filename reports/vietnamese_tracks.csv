@@ -1,0 +1,4 @@
+track_id,dataset,title,artist,genre,is_vietnamese_song,is_vietnamese_lyrics,language_status,confidence,detection_method
+ca55b2eb73e1ba1ba0a05870,vietnam_music_genre,Duyên Phận,Như Quỳnh,bolero,True,True,detected_vi,1.0,ensemble
+c7052300d0f60af4113b9cc2,vietnam_music_genre,unknown_track_99,,bolero,True,,dataset_asserted_vi,0.0,dataset_assertion
+c099266a47f4b908027c14c4,vietnam_music_genre,Anh Yeu Em,V-Pop Artist,pop,True,True,detected_vi,0.9,ensemble

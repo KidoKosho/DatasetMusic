@@ -1,0 +1,171 @@
+[
+  {
+    "fma_id": "10508",
+    "title": "Unknown",
+    "artist": "Khoc Huang Thien",
+    "country": "Vietnam",
+    "evidence": [
+      [
+        "country",
+        "Vietnam",
+        "country_is_vietnam"
+      ]
+    ]
+  },
+  {
+    "fma_id": "13091",
+    "title": "Chung-Vô-Diệm, Pts. 1 and 2",
+    "artist": "Unknown",
+    "country": "Vietnam",
+    "evidence": [
+      [
+        "country",
+        "Vietnam",
+        "country_is_vietnam"
+      ]
+    ]
+  },
+  {
+    "fma_id": "75502",
+    "title": "Đorđe u polju mesecokreta",
+    "artist": "Napred u prošlost",
+    "country": "Banatsko Novo Selo, Vojvodina, Yugoslavia",
+    "evidence": [
+      [
+        "title",
+        "Đorđe u polju mesecokreta",
+        "vietnamese_diacritics_title"
+      ]
+    ]
+  },
+  {
+    "fma_id": "101265",
+    "title": "Dr. Matatu",
+    "artist": "REW<<",
+    "country": "Washington, DC",
+    "evidence": [
+      [
+        "tag",
+        "vietnam",
+        "valid_vietnamese_tag"
+      ]
+    ]
+  },
+  {
+    "fma_id": "101266",
+    "title": "Rush, Bye",
+    "artist": "REW<<",
+    "country": "Washington, DC",
+    "evidence": [
+      [
+        "tag",
+        "vietnam",
+        "valid_vietnamese_tag"
+      ]
+    ]
+  },
+  {
+    "fma_id": "101269",
+    "title": "Departeures",
+    "artist": "REW<<",
+    "country": "Washington, DC",
+    "evidence": [
+      [
+        "tag",
+        "vietnam",
+        "valid_vietnamese_tag"
+      ]
+    ]
+  },
+  {
+    "fma_id": "101271",
+    "title": "Oh Wounded Butterfly",
+    "artist": "REW<<",
+    "country": "Washington, DC",
+    "evidence": [
+      [
+        "tag",
+        "vietnam",
+        "valid_vietnamese_tag"
+      ]
+    ]
+  },
+  {
+    "fma_id": "101272",
+    "title": "¡Domino!",
+    "artist": "REW<<",
+    "country": "Washington, DC",
+    "evidence": [
+      [
+        "tag",
+        "vietnam",
+        "valid_vietnamese_tag"
+      ]
+    ]
+  },
+  {
+    "fma_id": "101275",
+    "title": "Forgery",
+    "artist": "REW<<",
+    "country": "Washington, DC",
+    "evidence": [
+      [
+        "tag",
+        "vietnam",
+        "valid_vietnamese_tag"
+      ]
+    ]
+  },
+  {
+    "fma_id": "101276",
+    "title": "Sensed Horse",
+    "artist": "REW<<",
+    "country": "Washington, DC",
+    "evidence": [
+      [
+        "tag",
+        "vietnam",
+        "valid_vietnamese_tag"
+      ]
+    ]
+  },
+  {
+    "fma_id": "101277",
+    "title": "In Waves",
+    "artist": "REW<<",
+    "country": "Washington, DC",
+    "evidence": [
+      [
+        "tag",
+        "vietnam",
+        "valid_vietnamese_tag"
+      ]
+    ]
+  },
+  {
+    "fma_id": "101278",
+    "title": "Arriver",
+    "artist": "REW<<",
+    "country": "Washington, DC",
+    "evidence": [
+      [
+        "tag",
+        "vietnam",
+        "valid_vietnamese_tag"
+      ]
+    ]
+  },
+  {
+    "fma_id": "102177",
+    "title": "Weight Lifting Montage",
+    "artist": "REW<<",
+    "country": "Washington, DC",
+    "evidence": [
+      [
+        "tag",
+        "vietnam",
+        "valid_vietnamese_tag"
+      ]
+    ]
+  }
+]

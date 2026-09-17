@@ -1,0 +1,28 @@
+{
+  "dataset": "million_song_dataset",
+  "source_url": "http://millionsongdataset.com/",
+  "archives": [
+    {
+      "name": "mxm_dataset_train.txt.zip",
+      "size": 36502856,
+      "type": "lyrics",
+      "remote_url": "http://millionsongdataset.com/sites/default/files/AdditionalFiles/mxm_dataset_train.txt.zip",
+      "inspectable": true,
+      "remote_inspection": "supported",
+      "total_entries": 1,
+      "sample_files": [
+        "mxm_dataset_train.txt"
+      ]
+    },
+    {
+      "name": "millionsongsubset_full.tar.gz",
+      "size": 0,
+      "type": "metadata",
+      "remote_url": "http://static.echonest.com/millionsongsubset_full.tar.gz",
+      "inspectable": false,
+      "remote_inspection": "unsupported",
+      "total_entries": 0,
+      "sample_files": []
+    }
+  ]
+}

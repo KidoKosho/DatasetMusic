@@ -1,0 +1,67 @@
+storage:
+  root: "datasets"
+  data_dir: "data"
+  reports_dir: "reports"
+  logs_dir: "logs"
+
+download:
+  concurrency: 4
+  requests_per_second: 2
+  timeout: 60
+  max_retries: 5
+  chunk_size: 1048576 # 1MB
+  resume: true
+  verify_checksum: true
+
+language:
+  minimum_confidence: 0.80
+  model_type: "ensemble"
+
+fma:
+  audio_subset: "small" # small (8k), medium (25k), large (106k)
+  metadata_url: "https://os.unil.cloud.switch.ch/fma/fma_metadata.zip"
+  small_audio_url: "https://os.unil.cloud.switch.ch/fma/fma_small.zip"
+
+million_song_dataset:
+  subset_url: "http://static.echonest.com/millionsongsubset_full.tar.gz"
+  mxm_dataset_url: "http://millionsongdataset.com/sites/default/files/AdditionalFiles/mxm_dataset_train.txt.zip"
+
+upf:
+  handle_url: "https://repositori.upf.edu/handle/10230/33285"
+
+vietnam_music_genre:
+  kaggle_dataset: "xuaam1/vietnam-music-genre"
+
+lyrics:
+  enabled: true
+  providers:
+    - embedded
+    - lrclib
+
+artwork:
+  enabled: true
+  extract_embedded: true
+
+providers:
+  metadata:
+    enabled: true
+  lyrics:
+    enabled: true
+
+sources:
+  kaggle:
+    download_audio: true
+    concurrency: 1
+    requests_per_second: 1
+  fma:
+    download_audio: false
+    concurrency: 2
+    requests_per_second: 2
+  million_song_dataset:
+    download_audio: false
+    concurrency: 2
+    requests_per_second: 2
+  upf:
+    download_audio: false
+    concurrency: 1
+    requests_per_second: 1

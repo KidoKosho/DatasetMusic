@@ -1,0 +1,1625 @@
+{
+  "total_candidates": 34,
+  "by_dataset": {
+    "vietnam_music_genre": 4,
+    "fma": 30
+  },
+  "by_reason": {
+    "vietnamese_annotation": 4,
+    "vietnamese_artist": 23,
+    "vietnamese_country": 8,
+    "vietnamese_genre": 2,
+    "vietnamese_language": 6,
+    "vietnamese_title": 6,
+    "vietnamese_tag": 12
+  },
+  "candidates_sample": [
+    {
+      "track_id": "21724ffe95eb248f3e3e42f1",
+      "title": "Duyên Phận",
+      "artist": "Như Quỳnh",
+      "album": "Người Thương Kẻ Nhớ",
+      "dataset": "vietnam_music_genre",
+      "candidate": true,
+      "reasons": [
+        "vietnamese_annotation",
+        "vietnamese_artist",
+        "vietnamese_country",
+        "vietnamese_genre",
+        "vietnamese_language",
+        "vietnamese_title"
+      ],
+      "is_vietnamese_artist": true,
+      "is_vietnamese_title": true,
+      "is_vietnamese_lyrics": null,
+      "vietnamese_relevance": true,
+      "evidence": [
+        {
+          "type": "vietnamese_annotation",
+          "source": "kaggle",
+          "field": "dataset_semantics",
+          "value": "vietnam_music_genre",
+          "reason": "dataset_is_curated_vietnamese_music"
+        },
+        {
+          "type": "vietnamese_artist",
+          "source": "vietnam_music_genre",
+          "field": "artist_country",
+          "value": "Vietnam",
+          "reason": "country_is_vietnam"
+        },
+        {
+          "type": "vietnamese_title",
+          "source": "vietnam_music_genre",
+          "field": "title",
+          "value": "Duyên Phận",
+          "reason": "vietnamese_diacritics"
+        },
+        {
+          "type": "vietnamese_genre",
+          "source": "vietnam_music_genre",
+          "field": "genre",
+          "value": "Bolero",
+          "reason": "matched_vietnamese_genre"
+        },
+        {
+          "type": "vietnamese_language",
+          "source": "vietnam_music_genre",
+          "field": "language",
+          "value": "vi"
+        }
+      ],
+      "audio": {
+        "available": true,
+        "downloaded": true,
+        "path": "data\\raw\\vietnam_music_genre\\Bolero\\duyen_phan.mp3",
+        "rel_path": null
+      },
+      "lyrics": {
+        "available": false
+      },
+      "artwork": {
+        "available": false
+      },
+      "provenance": {
+        "dataset": "vietnam_music_genre",
+        "file": "data\\raw\\vietnam_music_genre\\Bolero\\duyen_phan.mp3",
+        "genre_source": "folder_hierarchy",
+        "id3": {
+          "tit2": "Duyên Phận",
+          "tpe1": "Như Quỳnh",
+          "talb": "Người Thương Kẻ Nhớ",
+          "tdrc": "2010",
+          "tcon": "Bolero",
+          "uslt:lyrics:vie": "P",
+          "apic:cover": "APIC(encoding=<Encoding.UTF8: 3>, mime='image/jpeg', type=<PictureType.COVER_FRONT: 3>, desc='Cover', data=b'\\xff\\xd8\\xff\\xe0\\x00\\x10JFIF\\x00\\x01\\x01\\x01\\x00\\x00\\x00\\x00\\xff\\xdb\\x00C\\x00\\xff\\xc0\\x00\\x0b\\x08\\x00\\x01\\x00\\x01\\x01\\x01\\x11\\x00\\xff\\xc4\\x00\\x1f\\x00\\x00\\x01\\x05\\x01\\x01\\x01\\x01\\x01\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x01\\x02\\x03\\x04\\x05\\x06\\x07\\x08\\t\\n\\x0b\\xff\\xda\\x00\\x08\\x01\\x01\\x00\\x00?\\x00\\xbf\\x00\\xff\\xd9')"
+        },
+        "filename_parsing": {
+          "title": "Duyen Phan",
+          "artist": null,
+          "genre_original": "Bolero",
+          "genre": "bolero",
+          "is_vietnamese_song": true,
+          "is_vietnamese_artist": true,
+          "is_vietnamese_title": true,
+          "naming_convention": "stem_fallback"
+        }
+      }
+    },
+    {
+      "track_id": "15989ebb31208aae9b459349",
+      "title": "Unknown Track 99",
+      "artist": null,
+      "album": null,
+      "dataset": "vietnam_music_genre",
+      "candidate": true,
+      "reasons": [
+        "vietnamese_annotation",
+        "vietnamese_artist",
+        "vietnamese_country",
+        "vietnamese_genre",
+        "vietnamese_language",
+        "vietnamese_title"
+      ],
+      "is_vietnamese_artist": true,
+      "is_vietnamese_title": true,
+      "is_vietnamese_lyrics": null,
+      "vietnamese_relevance": true,
+      "evidence": [
+        {
+          "type": "vietnamese_annotation",
+          "source": "kaggle",
+          "field": "dataset_semantics",
+          "value": "vietnam_music_genre",
+          "reason": "dataset_is_curated_vietnamese_music"
+        },
+        {
+          "type": "vietnamese_artist",
+          "source": "vietnam_music_genre",
+          "field": "artist_country",
+          "value": "Vietnam",
+          "reason": "country_is_vietnam"
+        },
+        {
+          "type": "vietnamese_title",
+          "source": "kaggle",
+          "field": "title",
+          "value": "Unknown Track 99",
+          "reason": "curated_vietnam_music_dataset"
+        },
+        {
+          "type": "vietnamese_genre",
+          "source": "vietnam_music_genre",
+          "field": "genre",
+          "value": "Bolero",
+          "reason": "matched_vietnamese_genre"
+        },
+        {
+          "type": "vietnamese_language",
+          "source": "vietnam_music_genre",
+          "field": "language",
+          "value": "vi"
+        }
+      ],
+      "audio": {
+        "available": true,
+        "downloaded": true,
+        "path": "data\\raw\\vietnam_music_genre\\Bolero\\unknown_track_99.mp3",
+        "rel_path": null
+      },
+      "lyrics": {
+        "available": false
+      },
+      "artwork": {
+        "available": false
+      },
+      "provenance": {
+        "dataset": "vietnam_music_genre",
+        "file": "data\\raw\\vietnam_music_genre\\Bolero\\unknown_track_99.mp3",
+        "genre_source": "folder_hierarchy",
+        "id3": {},
+        "filename_parsing": {
+          "title": "Unknown Track 99",
+          "artist": null,
+          "genre_original": "Bolero",
+          "genre": "bolero",
+          "is_vietnamese_song": true,
+          "is_vietnamese_artist": true,
+          "is_vietnamese_title": true,
+          "naming_convention": "stem_fallback"
+        }
+      }
+    },
+    {
+      "track_id": "a02dd3f25925aa09365ed896",
+      "title": "100 Years LOVE Single",
+      "artist": "Nam Duc",
+      "album": null,
+      "dataset": "vietnam_music_genre",
+      "candidate": true,
+      "reasons": [
+        "vietnamese_annotation",
+        "vietnamese_artist",
+        "vietnamese_country",
+        "vietnamese_language",
+        "vietnamese_tag",
+        "vietnamese_title"
+      ],
+      "is_vietnamese_artist": true,
+      "is_vietnamese_title": true,
+      "is_vietnamese_lyrics": null,
+      "vietnamese_relevance": true,
+      "evidence": [
+        {
+          "type": "vietnamese_annotation",
+          "source": "kaggle",
+          "field": "dataset_semantics",
+          "value": "vietnam_music_genre",
+          "reason": "dataset_is_curated_vietnamese_music"
+        },
+        {
+          "type": "vietnamese_artist",
+          "source": "vietnam_music_genre",
+          "field": "artist_country",
+          "value": "Vietnam",
+          "reason": "country_is_vietnam"
+        },
+        {
+          "type": "vietnamese_title",
+          "source": "kaggle",
+          "field": "title",
+          "value": "100 Years LOVE Single",
+          "reason": "curated_vietnam_music_dataset"
+        },
+        {
+          "type": "vietnamese_tag",
+          "source": "vietnam_music_genre",
+          "field": "tags",
+          "value": "vietnam",
+          "reason": "matched_vietnamese_tag"
+        },
+        {
+          "type": "vietnamese_language",
+          "source": "vietnam_music_genre",
+          "field": "language",
+          "value": "vi"
+        }
+      ],
+      "audio": {
+        "available": true,
+        "downloaded": true,
+        "path": "data\\raw\\vietnam_music_genre\\Pop\\100YearsLOVESingle-NamDuc-6207759_hq_segment_7.mp3",
+        "rel_path": null
+      },
+      "lyrics": {
+        "available": false
+      },
+      "artwork": {
+        "available": false
+      },
+      "provenance": {
+        "dataset": "vietnam_music_genre",
+        "file": "data\\raw\\vietnam_music_genre\\Pop\\100YearsLOVESingle-NamDuc-6207759_hq_segment_7.mp3",
+        "genre_source": "folder_hierarchy",
+        "id3": {},
+        "filename_parsing": {
+          "title": "100 Years LOVE Single",
+          "artist": "Nam Duc",
+          "song_id": "6207759",
+          "quality": "hq",
+          "segment": 7,
+          "genre_original": "Pop",
+          "genre": "pop",
+          "is_vietnamese_song": true,
+          "is_vietnamese_artist": true,
+          "is_vietnamese_title": true,
+          "naming_convention": "zing_mp3_segment"
+        }
+      }
+    },
+    {
+      "track_id": "f967e8411f26c4820ac406f5",
+      "title": "Anh Yeu Em",
+      "artist": "V-Pop Artist",
+      "album": null,
+      "dataset": "vietnam_music_genre",
+      "candidate": true,
+      "reasons": [
+        "vietnamese_annotation",
+        "vietnamese_artist",
+        "vietnamese_country",
+        "vietnamese_language",
+        "vietnamese_tag",
+        "vietnamese_title"
+      ],
+      "is_vietnamese_artist": true,
+      "is_vietnamese_title": true,
+      "is_vietnamese_lyrics": null,
+      "vietnamese_relevance": true,
+      "evidence": [
+        {
+          "type": "vietnamese_annotation",
+          "source": "kaggle",
+          "field": "dataset_semantics",
+          "value": "vietnam_music_genre",
+          "reason": "dataset_is_curated_vietnamese_music"
+        },
+        {
+          "type": "vietnamese_artist",
+          "source": "vietnam_music_genre",
+          "field": "artist_country",
+          "value": "Vietnam",
+          "reason": "country_is_vietnam"
+        },
+        {
+          "type": "vietnamese_title",
+          "source": "vietnam_music_genre",
+          "field": "title",
+          "value": "Anh Yeu Em",
+          "reason": "vietnamese_phrase_match"
+        },
+        {
+          "type": "vietnamese_tag",
+          "source": "vietnam_music_genre",
+          "field": "tags",
+          "value": "vietnam",
+          "reason": "matched_vietnamese_tag"
+        },
+        {
+          "type": "vietnamese_language",
+          "source": "vietnam_music_genre",
+          "field": "language",
+          "value": "vi"
+        }
+      ],
+      "audio": {
+        "available": true,
+        "downloaded": true,
+        "path": "data\\raw\\vietnam_music_genre\\Pop\\anh_yeu_em.mp3",
+        "rel_path": null
+      },
+      "lyrics": {
+        "available": false
+      },
+      "artwork": {
+        "available": false
+      },
+      "provenance": {
+        "dataset": "vietnam_music_genre",
+        "file": "data\\raw\\vietnam_music_genre\\Pop\\anh_yeu_em.mp3",
+        "genre_source": "folder_hierarchy",
+        "id3": {
+          "tit2": "Anh Yeu Em",
+          "tpe1": "V-Pop Artist",
+          "uslt:lyrics:vie": "a"
+        },
+        "filename_parsing": {
+          "title": "Anh Yeu Em",
+          "artist": null,
+          "genre_original": "Pop",
+          "genre": "pop",
+          "is_vietnamese_song": true,
+          "is_vietnamese_artist": true,
+          "is_vietnamese_title": true,
+          "naming_convention": "stem_fallback"
+        }
+      }
+    },
+    {
+      "track_id": "05fb3fe95d5c5d14525925fa",
+      "title": "Unknown",
+      "artist": "Khoc Huang Thien",
+      "album": "",
+      "dataset": "fma",
+      "candidate": true,
+      "reasons": [
+        "vietnamese_artist",
+        "vietnamese_country",
+        "vietnamese_language"
+      ],
+      "is_vietnamese_artist": true,
+      "is_vietnamese_title": false,
+      "is_vietnamese_lyrics": null,
+      "vietnamese_relevance": true,
+      "evidence": [
+        {
+          "type": "vietnamese_artist",
+          "source": "fma",
+          "field": "artist_country",
+          "value": "Vietnam",
+          "reason": "country_is_vietnam"
+        },
+        {
+          "type": "vietnamese_language",
+          "source": "fma",
+          "field": "language",
+          "value": "vi"
+        }
+      ],
+      "audio": {
+        "available": true,
+        "downloaded": false,
+        "path": null,
+        "rel_path": "010/010508.mp3"
+      },
+      "lyrics": {
+        "available": false
+      },
+      "artwork": {
+        "available": false
+      },
+      "provenance": {
+        "dataset": "fma",
+        "fma_id": "10508",
+        "source_file": "fma_metadata/tracks.csv"
+      }
+    },
+    {
+      "track_id": "b09fbedf1fae7cc15788d51a",
+      "title": "Loja unes Ant Kiemo",
+      "artist": "Įdainavo Karalienes Aniolu Parapijos Choras",
+      "album": "",
+      "dataset": "fma",
+      "candidate": true,
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "is_vietnamese_artist": true,
+      "is_vietnamese_title": false,
+      "is_vietnamese_lyrics": null,
+      "vietnamese_relevance": true,
+      "evidence": [
+        {
+          "type": "vietnamese_artist",
+          "source": "fma",
+          "field": "artist_bio",
+          "value": "...a Handel piece on piano smashed between 78s from Vietnam and Greece on his <a href=\"http://dust-digital.co...",
+          "reason": "explicit_vietnamese_heritage"
+        }
+      ],
+      "audio": {
+        "available": true,
+        "downloaded": false,
+        "path": null,
+        "rel_path": "010/010707.mp3"
+      },
+      "lyrics": {
+        "available": false
+      },
+      "artwork": {
+        "available": false
+      },
+      "provenance": {
+        "dataset": "fma",
+        "fma_id": "10707",
+        "source_file": "fma_metadata/tracks.csv"
+      }
+    },
+    {
+      "track_id": "5409b6f869142f9a08bdf8d3",
+      "title": "Chung-Vô-Diệm, Pts. 1 and 2",
+      "artist": "Unknown",
+      "album": "",
+      "dataset": "fma",
+      "candidate": true,
+      "reasons": [
+        "vietnamese_artist",
+        "vietnamese_country",
+        "vietnamese_language",
+        "vietnamese_title"
+      ],
+      "is_vietnamese_artist": true,
+      "is_vietnamese_title": true,
+      "is_vietnamese_lyrics": null,
+      "vietnamese_relevance": true,
+      "evidence": [
+        {
+          "type": "vietnamese_artist",
+          "source": "fma",
+          "field": "artist_country",
+          "value": "Vietnam",
+          "reason": "country_is_vietnam"
+        },
+        {
+          "type": "vietnamese_title",
+          "source": "fma",
+          "field": "title",
+          "value": "Chung-Vô-Diệm, Pts. 1 and 2",
+          "reason": "vietnamese_diacritics"
+        },
+        {
+          "type": "vietnamese_language",
+          "source": "fma",
+          "field": "language",
+          "value": "vi"
+        }
+      ],
+      "audio": {
+        "available": true,
+        "downloaded": false,
+        "path": null,
+        "rel_path": "013/013091.mp3"
+      },
+      "lyrics": {
+        "available": false
+      },
+      "artwork": {
+        "available": false
+      },
+      "provenance": {
+        "dataset": "fma",
+        "fma_id": "13091",
+        "source_file": "fma_metadata/tracks.csv"
+      }
+    },
+    {
+      "track_id": "05cf260abd0d156cecb99d29",
+      "title": "Ne Parish",
+      "artist": "Vpopolam",
+      "album": "Gryaznyj albom",
+      "dataset": "fma",
+      "candidate": true,
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "is_vietnamese_artist": true,
+      "is_vietnamese_title": false,
+      "is_vietnamese_lyrics": null,
+      "vietnamese_relevance": true,
+      "evidence": [
+        {
+          "type": "vietnamese_artist",
+          "source": "fma",
+          "field": "artist_name",
+          "value": "Vpopolam",
+          "reason": "vpop_in_artist_name"
+        }
+      ],
+      "audio": {
+        "available": true,
+        "downloaded": false,
+        "path": null,
+        "rel_path": "064/064480.mp3"
+      },
+      "lyrics": {
+        "available": false
+      },
+      "artwork": {
+        "available": false
+      },
+      "provenance": {
+        "dataset": "fma",
+        "fma_id": "64480",
+        "source_file": "fma_metadata/tracks.csv"
+      }
+    },
+    {
+      "track_id": "94303252265f323f060f9fbb",
+      "title": "Natasha",
+      "artist": "Vpopolam",
+      "album": "Gryaznyj albom",
+      "dataset": "fma",
+      "candidate": true,
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "is_vietnamese_artist": true,
+      "is_vietnamese_title": false,
+      "is_vietnamese_lyrics": null,
+      "vietnamese_relevance": true,
+      "evidence": [
+        {
+          "type": "vietnamese_artist",
+          "source": "fma",
+          "field": "artist_name",
+          "value": "Vpopolam",
+          "reason": "vpop_in_artist_name"
+        }
+      ],
+      "audio": {
+        "available": true,
+        "downloaded": false,
+        "path": null,
+        "rel_path": "064/064481.mp3"
+      },
+      "lyrics": {
+        "available": false
+      },
+      "artwork": {
+        "available": false
+      },
+      "provenance": {
+        "dataset": "fma",
+        "fma_id": "64481",
+        "source_file": "fma_metadata/tracks.csv"
+      }
+    },
+    {
+      "track_id": "47b4b0d1d7e60172f29418c8",
+      "title": "Gop-Stop",
+      "artist": "Vpopolam",
+      "album": "Gryaznyj albom",
+      "dataset": "fma",
+      "candidate": true,
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "is_vietnamese_artist": true,
+      "is_vietnamese_title": false,
+      "is_vietnamese_lyrics": null,
+      "vietnamese_relevance": true,
+      "evidence": [
+        {
+          "type": "vietnamese_artist",
+          "source": "fma",
+          "field": "artist_name",
+          "value": "Vpopolam",
+          "reason": "vpop_in_artist_name"
+        }
+      ],
+      "audio": {
+        "available": true,
+        "downloaded": false,
+        "path": null,
+        "rel_path": "064/064482.mp3"
+      },
+      "lyrics": {
+        "available": false
+      },
+      "artwork": {
+        "available": false
+      },
+      "provenance": {
+        "dataset": "fma",
+        "fma_id": "64482",
+        "source_file": "fma_metadata/tracks.csv"
+      }
+    },
+    {
+      "track_id": "c008b858c25bbfc67630d5e9",
+      "title": "Bespontovy",
+      "artist": "Vpopolam",
+      "album": "Gryaznyj albom",
+      "dataset": "fma",
+      "candidate": true,
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "is_vietnamese_artist": true,
+      "is_vietnamese_title": false,
+      "is_vietnamese_lyrics": null,
+      "vietnamese_relevance": true,
+      "evidence": [
+        {
+          "type": "vietnamese_artist",
+          "source": "fma",
+          "field": "artist_name",
+          "value": "Vpopolam",
+          "reason": "vpop_in_artist_name"
+        }
+      ],
+      "audio": {
+        "available": true,
+        "downloaded": false,
+        "path": null,
+        "rel_path": "064/064483.mp3"
+      },
+      "lyrics": {
+        "available": false
+      },
+      "artwork": {
+        "available": false
+      },
+      "provenance": {
+        "dataset": "fma",
+        "fma_id": "64483",
+        "source_file": "fma_metadata/tracks.csv"
+      }
+    },
+    {
+      "track_id": "42ba3680f8ed8d17c065f449",
+      "title": "Nishtyaki",
+      "artist": "Vpopolam",
+      "album": "Gryaznyj albom",
+      "dataset": "fma",
+      "candidate": true,
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "is_vietnamese_artist": true,
+      "is_vietnamese_title": false,
+      "is_vietnamese_lyrics": null,
+      "vietnamese_relevance": true,
+      "evidence": [
+        {
+          "type": "vietnamese_artist",
+          "source": "fma",
+          "field": "artist_name",
+          "value": "Vpopolam",
+          "reason": "vpop_in_artist_name"
+        }
+      ],
+      "audio": {
+        "available": true,
+        "downloaded": false,
+        "path": null,
+        "rel_path": "064/064484.mp3"
+      },
+      "lyrics": {
+        "available": false
+      },
+      "artwork": {
+        "available": false
+      },
+      "provenance": {
+        "dataset": "fma",
+        "fma_id": "64484",
+        "source_file": "fma_metadata/tracks.csv"
+      }
+    },
+    {
+      "track_id": "62ddcc90886b2e55bfe18245",
+      "title": "Dovesok",
+      "artist": "Vpopolam",
+      "album": "Gryaznyj albom",
+      "dataset": "fma",
+      "candidate": true,
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "is_vietnamese_artist": true,
+      "is_vietnamese_title": false,
+      "is_vietnamese_lyrics": null,
+      "vietnamese_relevance": true,
+      "evidence": [
+        {
+          "type": "vietnamese_artist",
+          "source": "fma",
+          "field": "artist_name",
+          "value": "Vpopolam",
+          "reason": "vpop_in_artist_name"
+        }
+      ],
+      "audio": {
+        "available": true,
+        "downloaded": false,
+        "path": null,
+        "rel_path": "064/064485.mp3"
+      },
+      "lyrics": {
+        "available": false
+      },
+      "artwork": {
+        "available": false
+      },
+      "provenance": {
+        "dataset": "fma",
+        "fma_id": "64485",
+        "source_file": "fma_metadata/tracks.csv"
+      }
+    },
+    {
+      "track_id": "f509cca3bdacce1b5ac4b461",
+      "title": "Bespontovy (Dancefloor Remix)",
+      "artist": "Vpopolam",
+      "album": "Gryaznyj albom",
+      "dataset": "fma",
+      "candidate": true,
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "is_vietnamese_artist": true,
+      "is_vietnamese_title": false,
+      "is_vietnamese_lyrics": null,
+      "vietnamese_relevance": true,
+      "evidence": [
+        {
+          "type": "vietnamese_artist",
+          "source": "fma",
+          "field": "artist_name",
+          "value": "Vpopolam",
+          "reason": "vpop_in_artist_name"
+        }
+      ],
+      "audio": {
+        "available": true,
+        "downloaded": false,
+        "path": null,
+        "rel_path": "064/064486.mp3"
+      },
+      "lyrics": {
+        "available": false
+      },
+      "artwork": {
+        "available": false
+      },
+      "provenance": {
+        "dataset": "fma",
+        "fma_id": "64486",
+        "source_file": "fma_metadata/tracks.csv"
+      }
+    },
+    {
+      "track_id": "f47949bde1a99d75d2c476fc",
+      "title": "Dr. Matatu",
+      "artist": "REW<<",
+      "album": "Departeures",
+      "dataset": "fma",
+      "candidate": true,
+      "reasons": [
+        "vietnamese_tag"
+      ],
+      "is_vietnamese_artist": false,
+      "is_vietnamese_title": false,
+      "is_vietnamese_lyrics": null,
+      "vietnamese_relevance": true,
+      "evidence": [
+        {
+          "type": "vietnamese_tag",
+          "source": "fma",
+          "field": "tags",
+          "value": "'vietnam'",
+          "reason": "matched_vietnamese_tag"
+        }
+      ],
+      "audio": {
+        "available": true,
+        "downloaded": false,
+        "path": null,
+        "rel_path": "101/101265.mp3"
+      },
+      "lyrics": {
+        "available": false
+      },
+      "artwork": {
+        "available": false
+      },
+      "provenance": {
+        "dataset": "fma",
+        "fma_id": "101265",
+        "source_file": "fma_metadata/tracks.csv"
+      }
+    },
+    {
+      "track_id": "09b7611d5e574e0115226f42",
+      "title": "Rush, Bye",
+      "artist": "REW<<",
+      "album": "Departeures",
+      "dataset": "fma",
+      "candidate": true,
+      "reasons": [
+        "vietnamese_tag"
+      ],
+      "is_vietnamese_artist": false,
+      "is_vietnamese_title": false,
+      "is_vietnamese_lyrics": null,
+      "vietnamese_relevance": true,
+      "evidence": [
+        {
+          "type": "vietnamese_tag",
+          "source": "fma",
+          "field": "tags",
+          "value": "'vietnam'",
+          "reason": "matched_vietnamese_tag"
+        }
+      ],
+      "audio": {
+        "available": true,
+        "downloaded": false,
+        "path": null,
+        "rel_path": "101/101266.mp3"
+      },
+      "lyrics": {
+        "available": false
+      },
+      "artwork": {
+        "available": false
+      },
+      "provenance": {
+        "dataset": "fma",
+        "fma_id": "101266",
+        "source_file": "fma_metadata/tracks.csv"
+      }
+    },
+    {
+      "track_id": "85621c00657fea6b9f8b2899",
+      "title": "Departeures",
+      "artist": "REW<<",
+      "album": "Departeures",
+      "dataset": "fma",
+      "candidate": true,
+      "reasons": [
+        "vietnamese_tag"
+      ],
+      "is_vietnamese_artist": false,
+      "is_vietnamese_title": false,
+      "is_vietnamese_lyrics": null,
+      "vietnamese_relevance": true,
+      "evidence": [
+        {
+          "type": "vietnamese_tag",
+          "source": "fma",
+          "field": "tags",
+          "value": "'vietnam'",
+          "reason": "matched_vietnamese_tag"
+        }
+      ],
+      "audio": {
+        "available": true,
+        "downloaded": false,
+        "path": null,
+        "rel_path": "101/101269.mp3"
+      },
+      "lyrics": {
+        "available": false
+      },
+      "artwork": {
+        "available": false
+      },
+      "provenance": {
+        "dataset": "fma",
+        "fma_id": "101269",
+        "source_file": "fma_metadata/tracks.csv"
+      }
+    },
+    {
+      "track_id": "659179729d06b61d3a313d72",
+      "title": "Oh Wounded Butterfly",
+      "artist": "REW<<",
+      "album": "Departeures",
+      "dataset": "fma",
+      "candidate": true,
+      "reasons": [
+        "vietnamese_tag"
+      ],
+      "is_vietnamese_artist": false,
+      "is_vietnamese_title": false,
+      "is_vietnamese_lyrics": null,
+      "vietnamese_relevance": true,
+      "evidence": [
+        {
+          "type": "vietnamese_tag",
+          "source": "fma",
+          "field": "tags",
+          "value": "'vietnam'",
+          "reason": "matched_vietnamese_tag"
+        }
+      ],
+      "audio": {
+        "available": true,
+        "downloaded": false,
+        "path": null,
+        "rel_path": "101/101271.mp3"
+      },
+      "lyrics": {
+        "available": false
+      },
+      "artwork": {
+        "available": false
+      },
+      "provenance": {
+        "dataset": "fma",
+        "fma_id": "101271",
+        "source_file": "fma_metadata/tracks.csv"
+      }
+    },
+    {
+      "track_id": "e4787c7fc712d9681b8d9b1d",
+      "title": "¡Domino!",
+      "artist": "REW<<",
+      "album": "Departeures",
+      "dataset": "fma",
+      "candidate": true,
+      "reasons": [
+        "vietnamese_tag"
+      ],
+      "is_vietnamese_artist": false,
+      "is_vietnamese_title": false,
+      "is_vietnamese_lyrics": null,
+      "vietnamese_relevance": true,
+      "evidence": [
+        {
+          "type": "vietnamese_tag",
+          "source": "fma",
+          "field": "tags",
+          "value": "'vietnam'",
+          "reason": "matched_vietnamese_tag"
+        }
+      ],
+      "audio": {
+        "available": true,
+        "downloaded": false,
+        "path": null,
+        "rel_path": "101/101272.mp3"
+      },
+      "lyrics": {
+        "available": false
+      },
+      "artwork": {
+        "available": false
+      },
+      "provenance": {
+        "dataset": "fma",
+        "fma_id": "101272",
+        "source_file": "fma_metadata/tracks.csv"
+      }
+    },
+    {
+      "track_id": "859b38b20ba70ed44fb7bfd5",
+      "title": "Forgery",
+      "artist": "REW<<",
+      "album": "Departeures",
+      "dataset": "fma",
+      "candidate": true,
+      "reasons": [
+        "vietnamese_tag"
+      ],
+      "is_vietnamese_artist": false,
+      "is_vietnamese_title": false,
+      "is_vietnamese_lyrics": null,
+      "vietnamese_relevance": true,
+      "evidence": [
+        {
+          "type": "vietnamese_tag",
+          "source": "fma",
+          "field": "tags",
+          "value": "'vietnam'",
+          "reason": "matched_vietnamese_tag"
+        }
+      ],
+      "audio": {
+        "available": true,
+        "downloaded": false,
+        "path": null,
+        "rel_path": "101/101275.mp3"
+      },
+      "lyrics": {
+        "available": false
+      },
+      "artwork": {
+        "available": false
+      },
+      "provenance": {
+        "dataset": "fma",
+        "fma_id": "101275",
+        "source_file": "fma_metadata/tracks.csv"
+      }
+    },
+    {
+      "track_id": "43551ed021cd8931b654d213",
+      "title": "Sensed Horse",
+      "artist": "REW<<",
+      "album": "Departeures",
+      "dataset": "fma",
+      "candidate": true,
+      "reasons": [
+        "vietnamese_tag"
+      ],
+      "is_vietnamese_artist": false,
+      "is_vietnamese_title": false,
+      "is_vietnamese_lyrics": null,
+      "vietnamese_relevance": true,
+      "evidence": [
+        {
+          "type": "vietnamese_tag",
+          "source": "fma",
+          "field": "tags",
+          "value": "'vietnam'",
+          "reason": "matched_vietnamese_tag"
+        }
+      ],
+      "audio": {
+        "available": true,
+        "downloaded": false,
+        "path": null,
+        "rel_path": "101/101276.mp3"
+      },
+      "lyrics": {
+        "available": false
+      },
+      "artwork": {
+        "available": false
+      },
+      "provenance": {
+        "dataset": "fma",
+        "fma_id": "101276",
+        "source_file": "fma_metadata/tracks.csv"
+      }
+    },
+    {
+      "track_id": "ae09fbf50c3d2b33f52bf030",
+      "title": "In Waves",
+      "artist": "REW<<",
+      "album": "Departeures",
+      "dataset": "fma",
+      "candidate": true,
+      "reasons": [
+        "vietnamese_tag"
+      ],
+      "is_vietnamese_artist": false,
+      "is_vietnamese_title": false,
+      "is_vietnamese_lyrics": null,
+      "vietnamese_relevance": true,
+      "evidence": [
+        {
+          "type": "vietnamese_tag",
+          "source": "fma",
+          "field": "tags",
+          "value": "'vietnam'",
+          "reason": "matched_vietnamese_tag"
+        }
+      ],
+      "audio": {
+        "available": true,
+        "downloaded": false,
+        "path": null,
+        "rel_path": "101/101277.mp3"
+      },
+      "lyrics": {
+        "available": false
+      },
+      "artwork": {
+        "available": false
+      },
+      "provenance": {
+        "dataset": "fma",
+        "fma_id": "101277",
+        "source_file": "fma_metadata/tracks.csv"
+      }
+    },
+    {
+      "track_id": "d9f076f23389f31b8276486f",
+      "title": "Arriver",
+      "artist": "REW<<",
+      "album": "Departeures",
+      "dataset": "fma",
+      "candidate": true,
+      "reasons": [
+        "vietnamese_tag"
+      ],
+      "is_vietnamese_artist": false,
+      "is_vietnamese_title": false,
+      "is_vietnamese_lyrics": null,
+      "vietnamese_relevance": true,
+      "evidence": [
+        {
+          "type": "vietnamese_tag",
+          "source": "fma",
+          "field": "tags",
+          "value": "'vietnam'",
+          "reason": "matched_vietnamese_tag"
+        }
+      ],
+      "audio": {
+        "available": true,
+        "downloaded": false,
+        "path": null,
+        "rel_path": "101/101278.mp3"
+      },
+      "lyrics": {
+        "available": false
+      },
+      "artwork": {
+        "available": false
+      },
+      "provenance": {
+        "dataset": "fma",
+        "fma_id": "101278",
+        "source_file": "fma_metadata/tracks.csv"
+      }
+    },
+    {
+      "track_id": "30657ed0cb1161f03ae02fb1",
+      "title": "Weight Lifting Montage",
+      "artist": "REW<<",
+      "album": "Departeures",
+      "dataset": "fma",
+      "candidate": true,
+      "reasons": [
+        "vietnamese_tag"
+      ],
+      "is_vietnamese_artist": false,
+      "is_vietnamese_title": false,
+      "is_vietnamese_lyrics": null,
+      "vietnamese_relevance": true,
+      "evidence": [
+        {
+          "type": "vietnamese_tag",
+          "source": "fma",
+          "field": "tags",
+          "value": "'vietnam'",
+          "reason": "matched_vietnamese_tag"
+        }
+      ],
+      "audio": {
+        "available": true,
+        "downloaded": false,
+        "path": null,
+        "rel_path": "102/102177.mp3"
+      },
+      "lyrics": {
+        "available": false
+      },
+      "artwork": {
+        "available": false
+      },
+      "provenance": {
+        "dataset": "fma",
+        "fma_id": "102177",
+        "source_file": "fma_metadata/tracks.csv"
+      }
+    },
+    {
+      "track_id": "bf0354ef7efbc1ca8ccc8aed",
+      "title": "Track 1",
+      "artist": "Vpopolam",
+      "album": "Bez alboma",
+      "dataset": "fma",
+      "candidate": true,
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "is_vietnamese_artist": true,
+      "is_vietnamese_title": false,
+      "is_vietnamese_lyrics": null,
+      "vietnamese_relevance": true,
+      "evidence": [
+        {
+          "type": "vietnamese_artist",
+          "source": "fma",
+          "field": "artist_name",
+          "value": "Vpopolam",
+          "reason": "vpop_in_artist_name"
+        }
+      ],
+      "audio": {
+        "available": true,
+        "downloaded": false,
+        "path": null,
+        "rel_path": "107/107790.mp3"
+      },
+      "lyrics": {
+        "available": false
+      },
+      "artwork": {
+        "available": false
+      },
+      "provenance": {
+        "dataset": "fma",
+        "fma_id": "107790",
+        "source_file": "fma_metadata/tracks.csv"
+      }
+    },
+    {
+      "track_id": "a7a8118919e5d5ce9e23b5ef",
+      "title": "Track 2",
+      "artist": "Vpopolam",
+      "album": "Bez alboma",
+      "dataset": "fma",
+      "candidate": true,
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "is_vietnamese_artist": true,
+      "is_vietnamese_title": false,
+      "is_vietnamese_lyrics": null,
+      "vietnamese_relevance": true,
+      "evidence": [
+        {
+          "type": "vietnamese_artist",
+          "source": "fma",
+          "field": "artist_name",
+          "value": "Vpopolam",
+          "reason": "vpop_in_artist_name"
+        }
+      ],
+      "audio": {
+        "available": true,
+        "downloaded": false,
+        "path": null,
+        "rel_path": "107/107791.mp3"
+      },
+      "lyrics": {
+        "available": false
+      },
+      "artwork": {
+        "available": false
+      },
+      "provenance": {
+        "dataset": "fma",
+        "fma_id": "107791",
+        "source_file": "fma_metadata/tracks.csv"
+      }
+    },
+    {
+      "track_id": "c0e7d34dc2f3596c0cc51503",
+      "title": "Track 3 (Featuring DJ_Sapient)",
+      "artist": "Vpopolam",
+      "album": "Bez alboma",
+      "dataset": "fma",
+      "candidate": true,
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "is_vietnamese_artist": true,
+      "is_vietnamese_title": false,
+      "is_vietnamese_lyrics": null,
+      "vietnamese_relevance": true,
+      "evidence": [
+        {
+          "type": "vietnamese_artist",
+          "source": "fma",
+          "field": "artist_name",
+          "value": "Vpopolam",
+          "reason": "vpop_in_artist_name"
+        }
+      ],
+      "audio": {
+        "available": true,
+        "downloaded": false,
+        "path": null,
+        "rel_path": "107/107792.mp3"
+      },
+      "lyrics": {
+        "available": false
+      },
+      "artwork": {
+        "available": false
+      },
+      "provenance": {
+        "dataset": "fma",
+        "fma_id": "107792",
+        "source_file": "fma_metadata/tracks.csv"
+      }
+    },
+    {
+      "track_id": "6d75f97beb8297c750692421",
+      "title": "Track 4",
+      "artist": "Vpopolam",
+      "album": "Bez alboma",
+      "dataset": "fma",
+      "candidate": true,
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "is_vietnamese_artist": true,
+      "is_vietnamese_title": false,
+      "is_vietnamese_lyrics": null,
+      "vietnamese_relevance": true,
+      "evidence": [
+        {
+          "type": "vietnamese_artist",
+          "source": "fma",
+          "field": "artist_name",
+          "value": "Vpopolam",
+          "reason": "vpop_in_artist_name"
+        }
+      ],
+      "audio": {
+        "available": true,
+        "downloaded": false,
+        "path": null,
+        "rel_path": "107/107793.mp3"
+      },
+      "lyrics": {
+        "available": false
+      },
+      "artwork": {
+        "available": false
+      },
+      "provenance": {
+        "dataset": "fma",
+        "fma_id": "107793",
+        "source_file": "fma_metadata/tracks.csv"
+      }
+    },
+    {
+      "track_id": "bed3eec4291aa381e67e2fdc",
+      "title": "Track 5",
+      "artist": "Vpopolam",
+      "album": "Bez alboma",
+      "dataset": "fma",
+      "candidate": true,
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "is_vietnamese_artist": true,
+      "is_vietnamese_title": false,
+      "is_vietnamese_lyrics": null,
+      "vietnamese_relevance": true,
+      "evidence": [
+        {
+          "type": "vietnamese_artist",
+          "source": "fma",
+          "field": "artist_name",
+          "value": "Vpopolam",
+          "reason": "vpop_in_artist_name"
+        }
+      ],
+      "audio": {
+        "available": true,
+        "downloaded": false,
+        "path": null,
+        "rel_path": "107/107794.mp3"
+      },
+      "lyrics": {
+        "available": false
+      },
+      "artwork": {
+        "available": false
+      },
+      "provenance": {
+        "dataset": "fma",
+        "fma_id": "107794",
+        "source_file": "fma_metadata/tracks.csv"
+      }
+    },
+    {
+      "track_id": "3af1a9e4048bc4ed219ac106",
+      "title": "Track 6",
+      "artist": "Vpopolam",
+      "album": "Bez alboma",
+      "dataset": "fma",
+      "candidate": true,
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "is_vietnamese_artist": true,
+      "is_vietnamese_title": false,
+      "is_vietnamese_lyrics": null,
+      "vietnamese_relevance": true,
+      "evidence": [
+        {
+          "type": "vietnamese_artist",
+          "source": "fma",
+          "field": "artist_name",
+          "value": "Vpopolam",
+          "reason": "vpop_in_artist_name"
+        }
+      ],
+      "audio": {
+        "available": true,
+        "downloaded": false,
+        "path": null,
+        "rel_path": "107/107795.mp3"
+      },
+      "lyrics": {
+        "available": false
+      },
+      "artwork": {
+        "available": false
+      },
+      "provenance": {
+        "dataset": "fma",
+        "fma_id": "107795",
+        "source_file": "fma_metadata/tracks.csv"
+      }
+    },
+    {
+      "track_id": "f7e1e92463b8ef057053f8cb",
+      "title": "Waiting For The Light (Featuring Abhi S.V. & snowflake)",
+      "artist": "Vpopolam",
+      "album": "Bez alboma",
+      "dataset": "fma",
+      "candidate": true,
+      "reasons": [
+        "vietnamese_artist"
+      ],
+      "is_vietnamese_artist": true,
+      "is_vietnamese_title": false,
+      "is_vietnamese_lyrics": null,
+      "vietnamese_relevance": true,
+      "evidence": [
+        {
+          "type": "vietnamese_artist",
+          "source": "fma",
+          "field": "artist_name",
+          "value": "Vpopolam",
+          "reason": "vpop_in_artist_name"
+        }
+      ],
+      "audio": {
+        "available": true,
+        "downloaded": false,
+        "path": null,
+        "rel_path": "107/107796.mp3"
+      },
+      "lyrics": {
+        "available": false
+      },
+      "artwork": {
+        "available": false
+      },
+      "provenance": {
+        "dataset": "fma",
+        "fma_id": "107796",
+        "source_file": "fma_metadata/tracks.csv"
+      }
+    },
+    {
+      "track_id": "4ba8105538043c502c824389",
+      "title": "Văzduh II - Shanyio (ft. moody alien)",
+      "artist": "moody alien",
+      "album": "from RE- to CO- and inbetween",
+      "dataset": "fma",
+      "candidate": true,
+      "reasons": [
+        "vietnamese_title"
+      ],
+      "is_vietnamese_artist": false,
+      "is_vietnamese_title": true,
+      "is_vietnamese_lyrics": null,
+      "vietnamese_relevance": true,
+      "evidence": [
+        {
+          "type": "vietnamese_title",
+          "source": "fma",
+          "field": "title",
+          "value": "Văzduh II - Shanyio (ft. moody alien)",
+          "reason": "vietnamese_diacritics"
+        }
+      ],
+      "audio": {
+        "available": true,
+        "downloaded": false,
+        "path": null,
+        "rel_path": "128/128990.mp3"
+      },
+      "lyrics": {
+        "available": false
+      },
+      "artwork": {
+        "available": false
+      },
+      "provenance": {
+        "dataset": "fma",
+        "fma_id": "128990",
+        "source_file": "fma_metadata/tracks.csv"
+      }
+    },
+    {
+      "track_id": "13984ff9888d6ef043d25369",
+      "title": "illusions",
+      "artist": "luong hue trinh",
+      "album": "illusions",
+      "dataset": "fma",
+      "candidate": true,
+      "reasons": [
+        "vietnamese_artist",
+        "vietnamese_country"
+      ],
+      "is_vietnamese_artist": true,
+      "is_vietnamese_title": false,
+      "is_vietnamese_lyrics": null,
+      "vietnamese_relevance": true,
+      "evidence": [
+        {
+          "type": "vietnamese_artist",
+          "source": "fma",
+          "field": "artist_country",
+          "value": "hamburg / hanoi",
+          "reason": "country_is_vietnam"
+        }
+      ],
+      "audio": {
+        "available": true,
+        "downloaded": false,
+        "path": null,
+        "rel_path": "146/146497.mp3"
+      },
+      "lyrics": {
+        "available": false
+      },
+      "artwork": {
+        "available": false
+      },
+      "provenance": {
+        "dataset": "fma",
+        "fma_id": "146497",
+        "source_file": "fma_metadata/tracks.csv"
+      }
+    },
+    {
+      "track_id": "a140f30e0f7ffee44bc74a19",
+      "title": "return ii",
+      "artist": "luong hue trinh",
+      "album": "illusions",
+      "dataset": "fma",
+      "candidate": true,
+      "reasons": [
+        "vietnamese_artist",
+        "vietnamese_country"
+      ],
+      "is_vietnamese_artist": true,
+      "is_vietnamese_title": false,
+      "is_vietnamese_lyrics": null,
+      "vietnamese_relevance": true,
+      "evidence": [
+        {
+          "type": "vietnamese_artist",
+          "source": "fma",
+          "field": "artist_country",
+          "value": "hamburg / hanoi",
+          "reason": "country_is_vietnam"
+        }
+      ],
+      "audio": {
+        "available": true,
+        "downloaded": false,
+        "path": null,
+        "rel_path": "146/146498.mp3"
+      },
+      "lyrics": {
+        "available": false
+      },
+      "artwork": {
+        "available": false
+      },
+      "provenance": {
+        "dataset": "fma",
+        "fma_id": "146498",
+        "source_file": "fma_metadata/tracks.csv"
+      }
+    }
+  ]
+}

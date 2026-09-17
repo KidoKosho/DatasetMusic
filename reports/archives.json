@@ -1,0 +1,179 @@
+{
+  "fma": {
+    "dataset": "fma",
+    "source_url": "https://github.com/mdeff/fma",
+    "storage_host": "https://os.unil.cloud.switch.ch/fma/",
+    "archives": [
+      {
+        "name": "fma_metadata.zip",
+        "size": 358412441,
+        "type": "metadata",
+        "remote_url": "https://os.unil.cloud.switch.ch/fma/fma_metadata.zip",
+        "inspectable": true,
+        "remote_inspection": "supported",
+        "total_entries": 12,
+        "sample_files": [
+          "fma_metadata/README.txt",
+          "fma_metadata/checksums",
+          "fma_metadata/not_found.pickle",
+          "fma_metadata/raw_genres.csv",
+          "fma_metadata/raw_albums.csv",
+          "fma_metadata/raw_artists.csv",
+          "fma_metadata/raw_tracks.csv",
+          "fma_metadata/tracks.csv",
+          "fma_metadata/genres.csv",
+          "fma_metadata/raw_echonest.csv"
+        ]
+      },
+      {
+        "name": "fma_small.zip",
+        "size": 7679594875,
+        "type": "audio",
+        "remote_url": "https://os.unil.cloud.switch.ch/fma/fma_small.zip",
+        "inspectable": true,
+        "remote_inspection": "supported",
+        "total_entries": 8002,
+        "sample_files": [
+          "fma_small/README.txt",
+          "fma_small/checksums",
+          "fma_small/000/000002.mp3",
+          "fma_small/000/000005.mp3",
+          "fma_small/000/000010.mp3",
+          "fma_small/000/000140.mp3",
+          "fma_small/000/000141.mp3",
+          "fma_small/000/000148.mp3",
+          "fma_small/000/000182.mp3",
+          "fma_small/000/000190.mp3"
+        ]
+      },
+      {
+        "name": "fma_medium.zip",
+        "size": 23825005356,
+        "type": "audio",
+        "remote_url": "https://os.unil.cloud.switch.ch/fma/fma_medium.zip",
+        "inspectable": true,
+        "remote_inspection": "supported",
+        "total_entries": 25002,
+        "sample_files": [
+          "fma_medium/README.txt",
+          "fma_medium/checksums",
+          "fma_medium/000/000002.mp3",
+          "fma_medium/000/000003.mp3",
+          "fma_medium/000/000005.mp3",
+          "fma_medium/000/000010.mp3",
+          "fma_medium/000/000134.mp3",
+          "fma_medium/000/000136.mp3",
+          "fma_medium/000/000139.mp3",
+          "fma_medium/000/000140.mp3"
+        ]
+      },
+      {
+        "name": "fma_large.zip",
+        "size": 100306112191,
+        "type": "audio",
+        "remote_url": "https://os.unil.cloud.switch.ch/fma/fma_large.zip",
+        "inspectable": true,
+        "remote_inspection": "supported",
+        "total_entries": 106576,
+        "sample_files": [
+          "fma_large/README.txt",
+          "fma_large/checksums",
+          "fma_large/000/000002.mp3",
+          "fma_large/000/000003.mp3",
+          "fma_large/000/000005.mp3",
+          "fma_large/000/000010.mp3",
+          "fma_large/000/000020.mp3",
+          "fma_large/000/000026.mp3",
+          "fma_large/000/000030.mp3",
+          "fma_large/000/000046.mp3"
+        ]
+      },
+      {
+        "name": "fma_full.zip",
+        "size": 943642698636,
+        "type": "audio",
+        "remote_url": "https://os.unil.cloud.switch.ch/fma/fma_full.zip",
+        "inspectable": true,
+        "remote_inspection": "supported",
+        "total_entries": 106576,
+        "sample_files": [
+          "fma_full/README.txt",
+          "fma_full/checksums",
+          "fma_full/000/000002.mp3",
+          "fma_full/000/000003.mp3",
+          "fma_full/000/000005.mp3",
+          "fma_full/000/000010.mp3",
+          "fma_full/000/000020.mp3",
+          "fma_full/000/000026.mp3",
+          "fma_full/000/000030.mp3",
+          "fma_full/000/000046.mp3"
+        ]
+      }
+    ]
+  },
+  "million_song_dataset": {
+    "dataset": "million_song_dataset",
+    "source_url": "http://millionsongdataset.com/",
+    "archives": [
+      {
+        "name": "mxm_dataset_train.txt.zip",
+        "size": 36502856,
+        "type": "lyrics",
+        "remote_url": "http://millionsongdataset.com/sites/default/files/AdditionalFiles/mxm_dataset_train.txt.zip",
+        "inspectable": true,
+        "remote_inspection": "supported",
+        "total_entries": 1,
+        "sample_files": [
+          "mxm_dataset_train.txt"
+        ]
+      },
+      {
+        "name": "millionsongsubset_full.tar.gz",
+        "size": 0,
+        "type": "metadata",
+        "remote_url": "http://static.echonest.com/millionsongsubset_full.tar.gz",
+        "inspectable": false,
+        "remote_inspection": "unsupported",
+        "total_entries": 0,
+        "sample_files": []
+      }
+    ]
+  },
+  "upf": {
+    "dataset": "upf",
+    "source_url": "https://repositori.upf.edu/handle/10230/33285",
+    "archives": [
+      {
+        "name": "upf_repository_handle",
+        "size": 1897,
+        "type": "metadata_and_audio",
+        "remote_url": "https://repositori.upf.edu/handle/10230/33285",
+        "inspectable": false,
+        "remote_inspection": "unsupported",
+        "notes": [
+          "DSpace institutional repository protected by Anubis anti-bot challenge. Local staging or browser session required."
+        ]
+      }
+    ]
+  },
+  "vietnam_music_genre": {
+    "dataset": "vietnam_music_genre",
+    "source_url": "https://www.kaggle.com/datasets/xuaam1/vietnam-music-genre",
+    "kaggle_dataset_id": "xuaam1/vietnam-music-genre",
+    "archives": [
+      {
+        "name": "vietnam-music-genre.zip",
+        "size": 12738,
+        "type": "audio",
+        "remote_url": "https://www.kaggle.com/datasets/xuaam1/vietnam-music-genre",
+        "inspectable": true,
+        "remote_inspection": "unsupported_requires_kaggle_api_auth",
+        "local_staged_tracks": 3,
+        "notes": [
+          "Direct unauthenticated HTTP inspection returns 404/login redirect.",
+          "Dataset download uses Kaggle API client or local raw staging."
+        ]
+      }
+    ]
+  }
+}
