@@ -1,0 +1,40 @@
+==============================
+GENRE SEARCH REPORT
+==============================
+
+Total rows:        5200
+Processed:         5200
+From cache:        980
+Cache miss:        4220
+
+Last.fm:           3
+Apple Music:       2545
+Discogs:           749
+MusicBrainz:       138
+
+Zing MP3:          2212
+NhacCuaTui:        654
+Nhac.vn:           626
+Chiasenhac:        0
+Keeng:             0
+
+Spotify:           0
+YouTube:           635
+SoundCloud:        0
+Bandcamp:          0
+Qobuz:             627
+AllMusic:          638
+Shazam:            637
+
+General Web:       64
+
+Not found:         1505
+Errors:            0
+Conflicts:         0
+Invalid cache:     272
+Orphan cache:      71
+
+Original genre missing: 2031
+Different genre:        543
+Matched genre:          1121
+==============================

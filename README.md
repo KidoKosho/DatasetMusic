@@ -286,3 +286,23 @@ pytest tests/
 # 3. Chạy lệnh sinh nhãn tự động
 python -m music_dataset.cli generate-labels --dataset all
 ```
+
+---
+
+## 7. MODULE GENRE CHECKER & ENRICHMENT (v2.1)
+
+Hệ thống bổ sung công cụ chuyên sâu tại [`genre_checker/`](file:///f:/Data/genre_checker/) nhằm kiểm tra, quét đa luồng (Multi-threading), tìm kiếm song song đa nguồn (Apple Music, Zing MP3, Discogs, MusicBrainz, NhacCuaTui, Nhac.vn, Shazam, AllMusic, Qobuz, YouTube) và bổ sung thể loại cho **5,200 bài hát** trong file dữ liệu gốc:
+
+- **Kết quả nghiệm thu thực tế**:
+  - **100% hoàn thành** (5,200 / 5,200 bài).
+  - Bổ sung thành công **2,031 bài hát thiếu thể loại** ban đầu.
+  - Đối chiếu phát hiện **543 bài có thể loại khác biệt** so với nhãn cũ.
+  - Tự động khử sạch nhãn rác (`việt nam`, `âu mỹ`, `unknown`, `singer`...).
+  - Tuyệt đối bảo toàn dữ liệu gốc (không ghi đè cột `genre`).
+- **5 File kết quả chính thức tại [`genre_checker/output/`](file:///f:/Data/genre_checker/output/)**:
+  1. `missing_genre_research_checked.csv` (File master 5,200 dòng kèm 4 cột đối chiếu mới).
+  2. `genre_missing.csv` (2,031 bài được bổ sung thể loại thiếu).
+  3. `genre_differences.csv` (543 bài có thể loại đối chiếu khác biệt).
+  4. `cache_merge_audit.csv` (Bảng kiểm toán cache hit/miss/invalid/orphan).
+  5. `genre_check_report.txt` (Báo cáo thống kê chi tiết toàn bộ nền tảng).
+
